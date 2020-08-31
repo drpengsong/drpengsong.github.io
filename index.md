@@ -41,8 +41,8 @@
 2013. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法[J], 清华大学学报（自然科学版）, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
-1. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song*</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
-2020. Jianian Li#, Yanwei Yu, <u>Peng Song*</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). 
+1. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
+2020. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). 
 2018. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018), Calgary, Canada, 2018, 5504-5508。
 2016. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. ICASSP 2016，Shanghai, China, 2016. 
 2014. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: INTERSPEECH 2014,  Singapore. 2308-2312, 2014. 
