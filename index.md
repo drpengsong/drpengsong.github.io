@@ -19,7 +19,6 @@
 [20200831]  <span style="color:red;">**New!**</span>   
 
 ## **Publications**
-## 发表论文
 （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 2020
