@@ -29,14 +29,21 @@
 2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
 2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition. IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
 2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication. 2016, 83:34-41. 
+
 [*See Peng Song’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW)  
 
 
 <span id = "Services"> </span>
 ## **社会活动**
+目前担任以下期刊的审稿人：IEEE Transactions on Affective Computing、Speech Communication、Neurocomputing、Information Fusion、Signal Processing等。
 
 <span id = "Students"> </span>
 ## **学生**
+2020级
+
+2019级
+
+2018级
 
 <span id = "Resources"> </span>
 ## **资源**
