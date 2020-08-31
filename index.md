@@ -16,7 +16,7 @@
 **办公地址：** 烟台大学综合楼633   
  
 ## **News**
-[20200831]  <span style="color:red;">**New!**</span>   
+* 🎈欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！
 
 ## **Publications**（<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
