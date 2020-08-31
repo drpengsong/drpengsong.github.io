@@ -24,30 +24,30 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. IEEE Transactions on Affective Computing. 2020, 11(3): 373-382.
-2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, IEEE Transactions on Affective Computing. 2020, 11(3): 532-541.
-2020. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
-2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
-2020. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, 204: 106186。
-2020. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. Knowledge-Based Systems, 2020, 196: 105766。
-2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
-2018. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement. Chinese Journal of Electronics. 2018,  27(6): 1214-1220.
-2018. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. Chinese Journal of Electronics. 2018,  27(4): 827-834.
-2017. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement.International Journal of Pattern Recognition and Artificial Intelligence. 2017, 31(8): 1758003-1~1758003-16. 
-2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication. 2016, 83:34-41. 
-2018. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  清华大学学报（自然科学版). 2018, 58(4):347-351.
-2016. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, 清华大学学报(自然科学版),  2016, 56 (11): 1179-1183.
-2015. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. 声学学报, 2015, 40(1): 20-27. 
-2013. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法[J], 清华大学学报（自然科学版）, 2013, 53(6):757-761. 
+1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IIEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
+2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IIEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.
+2020. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IIEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
+2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IIEEE Transactions on Cognitive and Developmental Systems***, 2020 (**In press**) 
+2020. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186。
+2020. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766。
+2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
+2018. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement.***Chinese Journal of Electronics***. 2018,  27(6): 1214-1220.
+2018. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
+2017. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
+2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
+2018. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  ***清华大学学报（自然科学版)***. 2018, 58(4):347-351.
+2016. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, ***清华大学学报(自然科学版)***,  2016, 56 (11): 1179-1183.
+2015. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. ***声学学报***, 2015, 40(1): 20-27. 
+2013. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, ***清华大学学报（自然科学版）***, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
 1. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
 2020. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). 
-2018. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018), Calgary, Canada, 2018, 5504-5508。
-2016. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. ICASSP 2016，Shanghai, China, 2016. 
-2014. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: INTERSPEECH 2014,  Singapore. 2308-2312, 2014. 
-2014. Yun Jin,<u>Peng Song*</u>, Wenming Zheng, et al. A feature selection and feature fusion combination method for speaker-independent speech emotion recognition. ICASSP 2014. 2014, Florence, Italy. 4841-4845.
-2013. <u>Peng Song*</u>, Wenming Zheng, Li Zhao. Non-parallel training for voice conversion based on adaptation method. ICASSP 2013. 2013, Vancovour, Canada. 6905-6909.
+2018. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2018**), Calgary, Canada, 2018, 5504-5508。
+2016. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. **ICASSP** 2016，Shanghai, China, 2016. 
+2014. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: **INTERSPEECH** 2014,  Singapore. 2308-2312, 2014. 
+2014. Yun Jin,<u>Peng Song*</u>, Wenming Zheng, et al. A feature selection and feature fusion combination method for speaker-independent speech emotion recognition. **ICASSP** 2014. 2014, Florence, Italy. 4841-4845.
+2013. <u>Peng Song*</u>, Wenming Zheng, Li Zhao. Non-parallel training for voice conversion based on adaptation method. **ICASSP** 2013. 2013, Vancovour, Canada. 6905-6909.
 
 [*See Peng Song’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW)  
 
