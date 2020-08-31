@@ -21,7 +21,7 @@
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
-\# 指导学生，\* 通讯作者
+\# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
 1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. IEEE Transactions on Affective Computing. 2020, 11(3): 373-382.
