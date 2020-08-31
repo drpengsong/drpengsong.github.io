@@ -34,7 +34,7 @@
 
 <span id = "Services"> </span>
 ## **社会活动**
-目前担任以下期刊的审稿人：IEEE Transactions on Affective Computing、Speech Communication、Neurocomputing、Information Fusion、Signal Processing等。
+目前担任以下期刊的审稿人：IEEE Transactions on Affective Computing、IEEE Signal Processing Letters、Speech Communication、Neurocomputing、Information Fusion、Signal Processing、Applied Acoustics等。
 
 <span id = "Students"> </span>
 ## **学生**
