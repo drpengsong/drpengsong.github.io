@@ -1,5 +1,5 @@
 <span id = "Top"> </span>
-[**PR&IPGroup**](http://upcprip.com)| [News](#News) | [Services](#Services) | [Publications](#Publications) | [Students](#Students) | [Future Students](#forStudents) |
+[**PR&IPGroup**]| [News](#News) | [Services](#Services) | [Publications](#Publications) | [Students](#Students) | [Future Students](#forStudents) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 <p style="width:970px;">
@@ -15,7 +15,7 @@
 **电子邮箱：** pengsongseu@gmail.com, pengsong@ytu.edu.cn   
 **办公地址：** 烟台大学综合楼633   
  
-## NEWS
+## **News**
 [20200831]  <span style="color:red;">**New!**</span>   
 
 
