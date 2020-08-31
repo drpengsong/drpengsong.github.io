@@ -22,12 +22,10 @@
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-1. Weijian Zhang, Peng Song. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
-* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
-* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Peng Song, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
-* Jianian Li#, <u>Yanwei Yu*</u>, Peng Song, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). <span style="color:red;">**New!**</span>
-* Fang Liu#, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, 204: 106186 (**中科院一区**, **CCF C**) <a href="/papers/fang2020scalableKBS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>
-* Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <a href="/papers/peng2020speachTCDS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
+Peng Song, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
+2020. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 514: 484-498,2020. 10.1016/j.ins.2019.11.019.
+2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
 
 <span id = "Services"> </span>
 ## **社会活动**
