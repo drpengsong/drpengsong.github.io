@@ -14,8 +14,9 @@
 **现任职称：** 副教授   
 **电子邮箱：** pengsongseu@gmail.com, pengsong@ytu.edu.cn   
 **办公地址：** 烟台大学综合楼633   
- 
-## **News**
+
+<span id = "News"> </span>
+## **新闻**
 * 🎈欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！
 
 <span id = "Publications"> </span>
@@ -31,10 +32,10 @@
 <span id = "Services"> </span>
 ## **社会活动**
 
-<span id = "学生"> </span>
-## **Students**
+<span id = "Students"> </span>
+## **学生**
 
-<span id = "资源"> </span>
-## **Resources**
+<span id = "Resources"> </span>
+## **资源**
  
 **更新时间：2020/08/31**
