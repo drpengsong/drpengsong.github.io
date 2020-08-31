@@ -28,7 +28,7 @@
 2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
 2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
 2018. Shifeng Ou, <u>Peng Song*</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement. Chinese Journal of Electronics. 2018,  27(6): 1214-1220.
-2018. Shifeng Ou, Peng Song, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. Chinese Journal of Electronics. 2018,  27(4): 827-834.
+2018. Shifeng Ou, <u>Peng Song*</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. Chinese Journal of Electronics. 2018,  27(4): 827-834.
 2017. Shifeng Ou, <u>Peng Song*</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement.International Journal of Pattern Recognition and Artificial Intelligence. 2017, 31(8): 1758003-1~1758003-16. 
 2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication. 2016, 83:34-41. 
 2018. <u>宋鹏*</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  清华大学学报（自然科学版). 2018, 58(4):347-351.
@@ -60,5 +60,6 @@
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
 2. [清华大学计算机学科推荐学术会议和期刊列表](https://dsc.jnu.edu.cn/56/e9/c15581a415465/page.htm)
 3. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
+4. [师生关系大杂烩](https://frostliu.github.io/discussions)
 
 **更新时间：2020/08/31**
