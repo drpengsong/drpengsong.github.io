@@ -1,5 +1,5 @@
 <span id = "Top"> </span>
-[**PR&IPGroup**]| [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
+ [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 <p style="width:970px;">
@@ -18,7 +18,8 @@
 ## **News**
 * 🎈欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！
 
-## **Publications**（<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
+<span id = "Publications"> </span>
+## **Selected Publications:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 2020
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
