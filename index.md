@@ -1,10 +1,9 @@
-# 于彦伟 (<a href="/index-en.html">Yanwei Yu</a>)  
+# 宋鹏 (<a href="/index-en.html">Yanwei Yu</a>)  
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    现工作于<a href="http://it.ouc.edu.cn/">中国海洋大学计算机科学与技术系</a>，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议6篇、C类期刊/会议5篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+烟台大学计算机与控制工程学院副教授，2014年6月博士毕业于东南大学信息学院。目前为IEEE/CCF/CAA学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊IEEE TAC、IEEE TASLP上及重要国际会议如ICASSP、INTERSPEECH等。
 </p>
-中国海洋大学主页：<a href="http://it.ouc.edu.cn/_s381/jsjkxyjsx_15923/list.psp">计算机科学与技术系</a>  <a href="http://it.ouc.edu.cn/2019/1225/c16101a279901/page.htm">于彦伟</a>
 
 ———————————————————————————————————————————————
 
