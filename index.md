@@ -22,8 +22,11 @@
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-1. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
-2020. Peng Song, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
+1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. IEEE Transactions on Affective Computing. 2020, 11(3): 373-382.
+2020. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
+2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
+2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition. IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
+
 
 <span id = "Services"> </span>
 ## **社会活动**
