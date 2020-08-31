@@ -28,10 +28,13 @@
 * Fang Liu#, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, 204: 106186 (**中科院一区**, **CCF C**) <a href="/papers/fang2020scalableKBS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>
 * Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <a href="/papers/peng2020speachTCDS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 
-## **Services**
+<span id = "Services"> </span>
+## **社会活动**
 
+<span id = "学生"> </span>
 ## **Students**
 
+<span id = "资源"> </span>
 ## **Resources**
  
 **更新时间：2020/08/31**
