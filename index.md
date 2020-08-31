@@ -57,7 +57,7 @@
 目前担任以下期刊的审稿人：IEEE Transactions on Affective Computing、IEEE Signal Processing Letters、Speech Communication、Neurocomputing、Information Fusion、Signal Processing、Applied Acoustics等。
 
 <span id = "Students"> </span>
-### **研究生**
+### **在读研究生**
 2020级
 
 2019级
