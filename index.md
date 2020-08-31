@@ -4,7 +4,7 @@
 
 <p style="width:970px;">
     <img src="/peng.jpg" align="right" width="180" hspace="5" vspace="5">
-目前为烟台大学计算机与控制工程学院副教授、硕士生导师，2014年6月博士毕业于东南大学信息学院。目前为IEEE/CCF/CAA学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊IEEE TAC、IEEE TASLP、IEEE TCDS、Speech Communication及重要国际学术会议如ICASSP、INTERSPEECH等。
+目前为烟台大学计算机与控制工程学院副教授、硕士生导师，2014年6月博士毕业于东南大学信息学院。目前为IEEE/CCF/CAA学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。主要研究方向是情感计算、模式识别、语音信号处理等。相关工作发表在国内外重要学术期刊IEEE TAC、IEEE TASLP、IEEE TCDS、Speech Communication及语音领域重要国际学术会议如ICASSP、INTERSPEECH等。
 </p>
 
 ———————————————————————————————————————————————
