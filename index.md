@@ -28,6 +28,10 @@
 2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
 2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition. IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
 2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication. 2016, 83:34-41. 
+2018. <u>宋鹏*</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  清华大学学报（自然科学版). 2018, 58(4):347-351.
+2016.  <u>宋鹏*</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, 清华大学学报(自然科学版),  2016, 56 (11): 1179-1183.
+2015. 金赟, <u>宋鹏*</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. 声学学报, 2015, 40(1): 20-27. 
+2013. <u>宋鹏*</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法[J], 清华大学学报（自然科学版）, 2013, 53(6):757-761 
 
 [*See Peng Song’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW)  
 
