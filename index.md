@@ -1,5 +1,5 @@
 <span id = "Top"> </span>
-[**PR&IPGroup**]| [News](#News) | [Publications](#发表论文)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
+[**PR&IPGroup**]| [News](#News) | [发表论文](#发表论文)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 <p style="width:970px;">
