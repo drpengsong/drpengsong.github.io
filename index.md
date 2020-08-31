@@ -23,9 +23,13 @@
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
 1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. IEEE Transactions on Affective Computing. 2020, 11(3): 373-382.
+2020. Tengfei Song, Wenming Zheng, <u>Peng Song*</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, IEEE Transactions on Affective Computing. 2020, 11(3): 532-541.
 2020. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
+2020. Tengfei Song, Wenming Zheng, Peng Song, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, IEEE Transactions on Affective Computing. 2020, 11(3): 532-541.
 2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
 2019. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition. IEEE Transactions on Affective Computing. Vol. 10, No. 2, pp. 265-275, 2019.
+2016. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication. 2016, 83:34-41. 
+[*See Peng Song’s Google Scholar for the full publications.*](https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW)  
 
 
 <span id = "Services"> </span>
