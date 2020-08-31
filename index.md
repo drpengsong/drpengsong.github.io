@@ -22,11 +22,8 @@
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
-2020. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 514: 484-498,2020. 10.1016/j.ins.2019.11.019.
-2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
-2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
-2019. X. Ma, **W. Liu**, S. Li, D. Tao, and Y. Zhou, "Hypergraph -Laplacian Regularization for Remotely Sensed Image Recognition", ***IEEE Trans. on Geoscience and Remote Sensing***, 57(3): 1585-1595, 2019.(**ESI Highly Cited Papers**)
+1. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2020, 28, 307-318.
+2020. Peng Song, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) 
 
 <span id = "Services"> </span>
 ## **社会活动**
