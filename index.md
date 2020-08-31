@@ -22,6 +22,7 @@
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
+1. Xinghao Yang, **Weifeng Liu** and Wei Liu, Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition. ***IEEE Transactions on Knowledge and Data Engineering***, 10.1109/TKDE.2020.3016208
 2020. S. Fu, **W. Liu**, D. Tao, Y. Zhou, and L. Nie, "HesGCN: Hessian Graph Convolutional Networks for Semi-Supervised Classification", ***Information Sciences***, 514: 484-498,2020. 10.1016/j.ins.2019.11.019.
 2019. **W. Liu**, X. Ma, Y. Zhou, D. Tao, and J. Cheng, "p-Laplacian Regularization for Scene Recognition," ***IEEE Trans. on Cybernetics***, 49(8):2927-2940, 2019. 10.1109/TCYB.2018.2833843.(**ESI Highly Cited Papers**)
 2019. Q. Wang, J. Yu, T. Liu, and **W. Liu**, " Visual Domain Adaptation and Generalisation," ***IET Computer Vision***, 13(2): 87-89, 2019.(**Editorial**)
