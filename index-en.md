@@ -11,7 +11,7 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 ## Basic Inforamtion
 **Afflication：** School of Computer and Control Engineering, Yantai University   
-**Title：**  Associate Professor   
+**Title：** Associate Professor   
 **E-mail：** pengsongseu@gmail.com, pengsong@ytu.edu.cn   
 **Office：** 30, Qingquan RD, Laishan District, Yantai, China
 
