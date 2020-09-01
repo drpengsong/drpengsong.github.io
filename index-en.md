@@ -58,10 +58,6 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 <span id = "Resources"> </span>
 ## **Resources**
-1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
-2. [清华大学计算机学科推荐学术会议和期刊列表](https://dsc.jnu.edu.cn/56/e9/c15581a415465/page.htm)
-3. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-4. [师生关系大杂烩](https://frostliu.github.io/discussions)
 
 [↑Top](#Top)
 
