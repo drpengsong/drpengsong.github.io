@@ -1,6 +1,6 @@
 <span id = "Top"> </span>
  [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
-# 宋鹏 
+# 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 <p style="width:970px;">
     <img src="/peng.jpg" align="right" width="180" hspace="5" vspace="5">
