@@ -4,7 +4,7 @@
 
 <p style="width:970px;">
     <img src="/peng.jpg" align="right" width="180" hspace="5" vspace="5">
-I received my PhD and M.S. degrees in EE from School of Information Science and Engineering, Southeast University, China in 2014 and 2009, respectively, supervised by Prof. Li Zhao .  Before that, I got my Bachelor's degree in EE from Shandong University of Science and Technology, China in 2006. From 2007 to 2008, I was a research intern at speech group of Microsoft Research Asia. From 2009 to 2011, I worked as a software engineer at Motorola China Software R&D Center. My currewnt research interests include affective computing, speech signal processing, machine Learning, and pattern recognition.
+I received my PhD and M.S. degrees in EE from School of Information Science and Engineering, Southeast University, China in 2014 and 2009, respectively.  Before that, I got my Bachelor's degree in EE from Shandong University of Science and Technology, China in 2006. From 2007 to 2008, I was a research intern at speech group of Microsoft Research Asia. From 2009 to 2011, I worked as a software engineer at Motorola China Software R&D Center. My currewnt research interests include affective computing, speech signal processing, machine Learning, and pattern recognition.
 </p>
 
 ———————————————————————————————————————————————
