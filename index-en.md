@@ -9,7 +9,7 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 ———————————————————————————————————————————————
 
-## Inforamtion
+## Basic Inforamtion
 **Afflication：** School of Computer and Control Engineering, Yantai University   
 **Title：**  Associate Professor   
 **E-mail：** pengsongseu@gmail.com, pengsong@ytu.edu.cn   
@@ -20,7 +20,7 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 * 🎈
 
 <span id = "Publications"> </span>
-## **Selected Publication:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
+ ## **Selected Publication:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">Google Scholar</a>） 
 \# Students，\* Corresponding author
 
 <span style="color:blue;">**Journal Papers**</span>
