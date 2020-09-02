@@ -17,7 +17,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">**🎈**</span>欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！
+* <span style="color:red;">**🎈**欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！欢迎感兴趣的同学与我联系。</span>
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
