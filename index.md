@@ -20,6 +20,8 @@
 * <span style="color:red;">***🎈欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！欢迎感兴趣的同学与我联系。***</span>
 * 07/17/2020 祝贺刘志骏同学的论文Dynamic Representation Learning for Large-Scale Attributed Networks被CIKM 2020录用。
 * 07/08/2020 祝贺陈栋梁同学的论文Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition被IEICE TRANSACTIONS on Information and Systems录用。
+* 06/22/2020 祝贺刘芳同学的论文Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams被Knowledge-based Systmems录用。
+* 03/09/2020 祝贺陈凯同学的论文Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data被Knowledge-based Systmems录用。	
 * 04/16/2020 祝贺张伟建同学获得烟台大学2020年研究生科技创新基金重点项目立项。
 * 03/18/2020 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用。
 
