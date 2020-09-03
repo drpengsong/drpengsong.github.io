@@ -18,6 +18,10 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、自动化等相关专业优秀同学加盟课题组！欢迎感兴趣的同学与我联系。***</span>
+* 07/17/2020 祝贺刘志骏同学的论文Dynamic Representation Learning for Large-Scale Attributed Networks被CIKM 2020录用。
+* 07/08/2020 祝贺陈栋梁同学的论文Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition被IEICE TRANSACTIONS on Information and Systems录用。
+* 04/16/2020 祝贺张伟建同学获得烟台大学2020年研究生科技创新基金重点项目立项。
+* 03/18/2020 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用。
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
@@ -27,7 +31,7 @@
 1. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
 2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.
 2020. Weijian Zhang #, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
-2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2020 (**In press**) 
+2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2020, DOI: 10.1109/TCDS.2020.2990928.
 2020. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186.
 2020. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
 2020. Dongliang Chen#, <u>Peng Song</u>, Wenjing Zhang, Weijian Zhang, Bingui Xu, Xuan Zhou. Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2020 (**In press**)  
