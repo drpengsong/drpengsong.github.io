@@ -17,7 +17,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！欢迎感兴趣的同学与我联系。***</span>
+* <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室! 欢迎感兴趣的同学与我联系。***</span>
 * 07/17/2020 祝贺刘志骏同学的论文Dynamic Representation Learning for Large-Scale Attributed Networks被CIKM 2020录用。
 * 07/08/2020 祝贺陈栋梁同学的论文Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition被IEICE TRANSACTIONS on Information and Systems录用。
 * 06/22/2020 祝贺刘芳同学的论文Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams被Knowledge-based Systmems录用。
