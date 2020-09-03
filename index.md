@@ -4,7 +4,7 @@
 
 <p style="width:970px;">
     <img src="/peng.jpg" align="right" width="180" hspace="5" vspace="5">
-目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息学院，曾在微软亚洲研究院、摩托罗拉等公司实习及工作。现为IEEE/IEICE/中国计算机学会/中国自动化学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。目前主要研究兴趣是情感计算、模式识别、语音信号处理、机器学习等。相关工作发表在国内外重要学术期刊IEEE TAC、IEEE TASLP、IEEE TCDS、Speech Communication及语音领域重要国际学术会议如ICASSP、INTERSPEECH等。
+目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息学院，先后在微软亚洲研究院、摩托罗拉等公司实习及工作。现为IEEE/IEICE/中国计算机学会/中国自动化学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。目前主要研究兴趣是情感计算、模式识别、语音信号处理、机器学习等。相关工作发表在国内外重要学术期刊IEEE TAC、IEEE TASLP、IEEE TCDS、Speech Communication及语音领域重要国际学术会议如ICASSP、INTERSPEECH等。
 </p>
 
 ———————————————————————————————————————————————
@@ -18,12 +18,12 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* 07/17/2020 祝贺刘志骏同学的论文Dynamic Representation Learning for Large-Scale Attributed Networks被CIKM 2020录用！
-* 07/08/2020 祝贺陈栋梁同学的论文Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition被IEICE TRANSACTIONS on Information and Systems录用！
-* 06/22/2020 祝贺刘芳同学的论文Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams被Knowledge-based Systmems录用！
-* 03/09/2020 祝贺陈凯同学的论文Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data被Knowledge-based Systmems录用！	
-* 04/16/2020 祝贺张伟建同学获得烟台大学2020年研究生科技创新基金重点项目立项！
-* 03/18/2020 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用！
+* *07/17/2020* 祝贺刘志骏同学的论文Dynamic Representation Learning for Large-Scale Attributed Networks被CIKM 2020录用！
+* *07/08/2020* 祝贺陈栋梁同学的论文Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition被IEICE TRANSACTIONS on Information and Systems录用！
+* *06/22/2020* 祝贺刘芳同学的论文Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams被Knowledge-based Systmems录用！
+* *03/09/2020* 祝贺陈凯同学的论文Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data被Knowledge-based Systmems录用！	
+* *04/16/2020* 祝贺张伟建同学获得烟台大学2020年研究生科技创新基金重点项目立项！
+* *03/18/2020* 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用！
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
