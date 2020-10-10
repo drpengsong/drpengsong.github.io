@@ -80,8 +80,8 @@
 2. [盛超]()， 研究方向：特征选择
 
 2018级
-1. [陈栋梁]()，研究方向：人脸表情识别、迁移学习
-2. [张伟建]()，研究方向：语音情感识别、迁移学习
+1. [陈栋梁]()，研究方向：人脸表情识别、迁移学习. IEICE论文刊出一篇、两篇TAC及一篇DSP论文在审。
+2. [张伟建]()，研究方向：语音情感识别、迁移学习. IEEE TALSP论文刊出一篇、一篇IEEE TCDS论文在审。
 
 ### **优秀本科毕业论文**
 1. 2019年 基于深层子空间学习的人脸表情识别方法研究 张迎雪
@@ -106,5 +106,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2020/09/27**
+**更新时间：2020/10/10**
 
