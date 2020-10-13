@@ -26,6 +26,8 @@
 * *03/09/2020* 祝贺陈凯同学的论文Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data被Knowledge-based Systems录用！	
 * *04/16/2020* 祝贺张伟建同学获得烟台大学2020年研究生科技创新基金重点项目立项！
 * *03/18/2020* 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用！
+
+
 [See more past news.](/pastnews)
 
 <span id = "Publications"> </span>
