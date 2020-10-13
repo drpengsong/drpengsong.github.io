@@ -28,7 +28,7 @@
 * *03/18/2020* 祝贺论文Speech Emotion Recognition Based on Robust Discriminative Sparse Regression被IEEE Transactions on Cognitive and Developmental Systems录用！
 
 
-[See more past news.](/Pastnews)
+[See more past news.](/pastnews)
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
