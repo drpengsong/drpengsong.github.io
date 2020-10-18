@@ -2,8 +2,8 @@
  [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
-<span style="color:blue;">***"Theory without Practice is empty; but Practice without Theory is blind" - Immanuel Kant***    
-<span style="color:blue;">***"Each problem that I solved became a rule which served afterwards to solve other problems" - Rene Descartes***   
+***"Theory without Practice is empty; but Practice without Theory is blind" - Immanuel Kant***    
+***"Each problem that I solved became a rule which served afterwards to solve other problems" - Rene Descartes***   
 
 <p style="width:970px;">
     <img src="/peng.jpg" align="right" width="180" hspace="5" vspace="5">
