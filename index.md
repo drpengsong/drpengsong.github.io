@@ -38,10 +38,10 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1. Dongliang Chen#, <u>Peng Song*</u>. Dual-Laplacian Regularized Transfer Projected Sparse Coding for Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Under the 2nd review)
-2020. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression. ***IEEE Transactions on Cognitive and Developmental Systems***. (Under review)
+1. Dongliang Chen#, <u>Peng Song*</u>. Dual-Laplacian Regularized Transfer Projected Sparse Coding for Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Major revision)
+2020. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression. ***IEEE Transactions on Cognitive and Developmental Systems***. (Major revision)
 2020. Dongliang Chen#, <u>Peng Song*</u>. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Major revision)
-2020. Dongliang Chen#, <u>Peng Song*</u>. Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition. ***Digital Singal Processing*** (Under the 2nd review)
+2020. Dongliang Chen#, <u>Peng Song*</u>. Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition. ***Digital Singal Processing*** (Major revision)
 2020. Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Wenjing Zhang. Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition. ***Digital Singal Processing*** (Under review)
 2020. Chao Sheng#, <u>Peng Song*</u>,  Weijian Zhang,  Dongliang Chen.  Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Singal Processing*** (Under review)
 2020. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
