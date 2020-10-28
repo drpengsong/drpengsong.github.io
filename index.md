@@ -112,7 +112,8 @@
 2. [清华大学计算机学科推荐学术会议和期刊列表](https://dsc.jnu.edu.cn/56/e9/c15581a415465/page.htm)
 3. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
 4. [迁移学习](https://github.com/jindongwang/transferlearning)
-5. [师生关系大杂烩](https://frostliu.github.io/discussions)
+5. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
+6. [师生关系大杂烩](https://frostliu.github.io/discussions)
 
 
 [↑Top](#Top)
