@@ -76,7 +76,20 @@
 
 <span id = "Services"> </span>
 ## **社会活动**
-目前担任以下期刊的审稿人：IEEE Trans. on Affective Computing, IEEE Trans. on Knowledge and Data Engineering、IEEE Trans. on Circuits and Systems for Video Technology、Neural Networks、IEEE Signal Processing Letters、Speech Communication、Neurocomputing、Information Fusion、Signal Processing、Applied Acoustics、Computer Speech&Languange、Biomedical Signal Processing and Control等。
+目前担任以下期刊的审稿人：
+1. IEEE Transactions on Affective Computing
+11. IEEE-ACM Transactions on Audio, Speech and Language Processing
+2. IEEE Transactions on Knowledge and Data Engineering
+3. IEEE Transactions on Circuits and Systems for Video Technology
+4. Neural Networks
+5. IEEE Signal Processing Letters
+6. Speech Communication、Neurocomputing
+7. Information Fusion
+8. Signal Processing
+9. Applied Acoustics
+10. Computer Speech&Languange
+11. Biomedical Signal Processing and Control
+...
 
 <span id = "Students"> </span>
 ## **指导学生**
