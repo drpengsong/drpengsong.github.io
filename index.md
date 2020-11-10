@@ -44,7 +44,7 @@
 2020. Dongliang Chen#, <u>Peng Song*</u>. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Major revision)
 2020. Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Wenjing Zhang. Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition. ***Digital Singal Processing*** (Under review)
 2020. Chao Sheng#, <u>Peng Song*</u>,  Weijian Zhang,  Dongliang Chen.  Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Singal Processing*** (Under review)
-2020. Dongliang Chen#, <u>Peng Song*</u>. Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition. ***Digital Singal Processing*** (To be published)
+2020. Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2020.
 2020. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
 2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.
 2020. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
