@@ -76,7 +76,7 @@
 
 <span id = "Services"> </span>
 ## **社会活动**
-目前担任以下期刊的审稿人：
+目前担任以下期刊或国际会议的审稿人：
 * IEEE Transactions on Affective Computing
 *  IEEE-ACM Transactions on Audio, Speech and Language Processing
 *  IEEE Transactions on Knowledge and Data Engineering
@@ -90,6 +90,7 @@
 *  Applied Acoustics
 *  Computer Speech&Languange
 *  Biomedical Signal Processing and Control
+*  INTERSPEECH 2018~2021, ICASSP 2021
 ...
 
 <span id = "Students"> </span>
