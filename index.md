@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *11/25/2020* 祝贺我们在IEEE TAC上的论文EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks入选ESI高被引论文
+* *11/25/2020* 祝贺我们在IEEE TAC上的论文EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks入选ESI高被引论文！
 * *11/25/2020* 祝贺张伟建、陈栋梁同学分别入选烟台大学研究生优秀成果奖一等奖、二等奖！
 * *11/02/2020* 祝贺陈栋梁同学的论文被Digital Signal Processing (中科院分区SCI二区期刊) 录用！
 * *10/22/2020* [祝贺张伟建同学获研究生国家奖学金！](https://stu.ytu.edu.cn/info/1042/4200.htm)
