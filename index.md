@@ -20,6 +20,8 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *11/25/2020* 祝贺我们在IEEE TAC上的论文EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks入选ESI高被引论文
+* *11/25/2020* 祝贺张伟建、陈栋梁同学分别入选烟台大学研究生优秀成果奖一等奖、二等奖！
 * *11/02/2020* 祝贺陈栋梁同学的论文被Digital Signal Processing (中科院分区SCI二区期刊) 录用！
 * *10/22/2020* [祝贺张伟建同学获研究生国家奖学金！](https://stu.ytu.edu.cn/info/1042/4200.htm)
 * *08/01/2020* 祝贺论文"基于概率耦合的双直接判决先验信噪比估计算法"在《电子学报》发表！
@@ -45,7 +47,7 @@
 2020. Chao Sheng#, <u>Peng Song*</u>,  Weijian Zhang,  Dongliang Chen.  Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Singal Processing*** (Under review)
 2020. Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
 2020. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
-2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.
+2020. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**ESI高被引**）
 2020. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
 2020. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2020, DOI: 10.1109/TCDS.2020.2990928.
 2020. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186.
