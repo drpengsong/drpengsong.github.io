@@ -84,6 +84,7 @@
 *  IEEE Transactions on Knowledge and Data Engineering
 *  IEEE Transactions on Circuits and Systems for Video Technology
 *  Neural Networks
+*  IEEE Multimedia
 *  IEEE Signal Processing Letters
 *  Speech Communication
 *  Neurocomputing
