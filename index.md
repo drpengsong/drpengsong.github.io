@@ -21,8 +21,8 @@
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
 * *01/24/2021* 祝贺张伟建同学的论文“Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression“被IEEE Transactions on Cognitive and Developmental Systems录用！
-* *12/25/2020* 祝贺张雯婧同学的论文“基于稀疏子空间迁移学习的跨域人脸表情识别“被《数据采集与处理》录用！
-* *11/25/2020* 祝贺我们在IEEE TAC上的论文EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks入选ESI高被引论文！
+* *12/25/2020* 祝贺张雯婧同学的论文[“基于稀疏子空间迁移学习的跨域人脸表情识别“](https://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?flag=2&file_no=202011200000001&journal_id=sjcjycl)被《数据采集与处理》录用！
+* *11/25/2020* 祝贺我们在IEEE TAC上的论文[EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8320798)入选ESI高被引论文！
 * *11/25/2020* 祝贺张伟建、陈栋梁、刘志骏同学分别入选烟台大学研究生优秀成果奖一等奖、二等奖！
 * *11/02/2020* 祝贺陈栋梁同学的论文[Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96)被Digital Signal Processing (中科院分区SCI二区期刊) 录用！
 * *10/22/2020* [祝贺张伟建同学获研究生国家奖学金！](https://stu.ytu.edu.cn/info/1042/4200.htm)
