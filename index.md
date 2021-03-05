@@ -85,6 +85,7 @@
 目前担任以下期刊或国际会议的审稿人：
 * IEEE Transactions on Affective Computing
 *  IEEE-ACM Transactions on Audio, Speech and Language Processing
+*  IEEE Signal Processing Magazine
 *  IEEE Transactions on Knowledge and Data Engineering
 *  IEEE Transactions on Circuits and Systems for Video Technology
 *  Neural Networks
