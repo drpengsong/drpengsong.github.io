@@ -113,7 +113,7 @@
 
 2019级
 1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (《数据采集与处理》刊出一篇、一篇DSP论文在审)
-2. [盛超]()， 研究方向：基于图正则的无监督特征选择 (一篇DSP论文在审)
+2. [盛超]()， 研究方向：基于图正则的无监督特征选择 (一篇DSP论文、一篇《信号处理》论文在审)
 
 2018级
 1. [陈栋梁]()，研究方向：基于稀疏迁移学习的人脸表情识别. (IEICE、DSP论文各刊出一篇)
@@ -146,5 +146,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/03/01**
+**更新时间：2021/03/14**
 
