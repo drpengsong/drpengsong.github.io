@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *04/09/2021* 祝贺我们的工作“跨语种语音情感识别研究”荣获烟台大学2021年优秀科研成果奖二等奖。
 * *01/24/2021* 祝贺张伟建同学的论文[“Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression“](https://ieeexplore.ieee.org/document/9340391/)被IEEE Transactions on Cognitive and Developmental Systems录用！
 * *12/31/2020* 祝贺我们的工作"面向语音情感识别的迁移子空间学习方法研究"荣获[2020年山东省研究生优秀成果奖三等奖](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)！
 * *12/25/2020* 祝贺张雯婧同学的论文[“基于稀疏子空间迁移学习的跨域人脸表情识别“](https://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?flag=2&file_no=202011200000001&journal_id=sjcjycl)被《数据采集与处理》录用！
