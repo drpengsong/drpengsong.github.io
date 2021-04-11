@@ -45,10 +45,10 @@
 
 <span style="color:blue;">**期刊论文**</span>
 1. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Minor revision)
+2. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Wenming Zheng. Joint Transfer Sparse Coding and Subspace Learning for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Circuits and Systems for Video Technology*** (Under Review)
 2021. Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Wenjian Zhang. Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition. ***Digital Signal Processing*** (Major revision)
 2022. Chao Sheng#, <u>Peng Song*</u>,  Wenming Zheng. Graph Regularized  Virtual Label Regression for Unsupervised Feature Selection. ****Knowledge-Based Systems*** (Under review)
 2024. Chao Sheng#, <u>Peng Song*</u>,  Weijian Zhang,  Dongliang Chen.  Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Signal Processing*** (Under review)
-2025.  Dongliang Chen#, <u>Peng Song*</u>. Dual-Laplacian Regularized Transfer Projected Sparse Coding for Facial Expression Recognition. ***Digital Signal Processing*** (Under Review)
 2026. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2021, Doi:10.1109/TCDS.2021.3055524
 2027. Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
 2028. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
@@ -114,11 +114,11 @@
 5. [宋紫浩]()，研究方向：（多视图）特征选择
 
 2019级
-1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (《数据采集与处理》刊出一篇、一篇DSP论文在审)
-2. [盛超]()， 研究方向：基于图正则的无监督特征选择 (一篇DSP论文、一篇KBS论文、一篇《信号处理》论文在审)
+1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (《数据采集与处理》刊出一篇、一篇论文在审)
+2. [盛超]()， 研究方向：基于图正则的无监督特征选择 (两篇论文在审)
 
 2018级
-1. [陈栋梁]()，研究方向：基于稀疏迁移学习的人脸表情识别. (IEICE、DSP论文各刊出一篇)
+1. [陈栋梁]()，研究方向：基于稀疏迁移学习的人脸表情识别. (IEICE、DSP论文各刊出一篇,两篇论文在审)
 2. [张伟建]()，研究方向：基于子空间迁移学习的语音情感识别. (IEEE TALSP、TCDS论文各刊出一篇)
 
 ### **优秀本科毕业论文**
@@ -148,5 +148,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/03/18**
+**更新时间：2021/04/11**
 
