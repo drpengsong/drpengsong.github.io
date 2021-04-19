@@ -45,7 +45,7 @@
 
 <span style="color:blue;">**期刊论文**</span>
 1. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Affective Computing*** (Minor revision)
-2. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Wenming Zheng. Joint Transfer Sparse Coding and Subspace Learning for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Circuits and Systems for Video Technology*** (Under Review)
+2. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Wenming Zheng. Joint Transfer Sparse Coding and Subspace Learning for Cross-corpus Facial Expression Recognition. ***IEEE Transactions on Multimedia*** (Under Review)
 2021. Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Wenjian Zhang. Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition. ***Digital Signal Processing*** (Major revision)
 2022. Chao Sheng#, <u>Peng Song*</u>,  Wenming Zheng. Graph Regularized  Virtual Label Regression for Unsupervised Feature Selection. ****Knowledge-Based Systems*** (Under review)
 2024. Chao Sheng#, <u>Peng Song*</u>,  Weijian Zhang,  Dongliang Chen.  Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Signal Processing*** (Under review)
