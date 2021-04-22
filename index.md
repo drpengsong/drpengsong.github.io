@@ -64,12 +64,13 @@
 2037. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
 2038. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
 2039. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
-2040. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力.  基于稀疏子空间迁移学习的跨域人脸表情识别. **数据采集与处理**. 2021, 36(1):113-121.
-2041. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
-2042. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
-2043. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, **清华大学学报(自然科学版)**,  2016, 56 (11): 1179-1183.
-2044. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. **声学学报**, 2015, 40(1): 20-27. 
-2045. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
+2040. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. 基于子空间学习和伪标签回归的无监督特征选择. **信号处理**. （录用）
+2041. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力.  基于稀疏子空间迁移学习的跨域人脸表情识别. **数据采集与处理**. 2021, 36(1):113-121.
+2042. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
+2043. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
+2044. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, **清华大学学报(自然科学版)**,  2016, 56 (11): 1179-1183.
+2045. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. **声学学报**, 2015, 40(1): 20-27. 
+2046. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
 1. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
