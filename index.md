@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *05/01/2021* 祝贺陈栋梁同学的论文["Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition被IEEE Transactions on Affective Computing"](https://ieeexplore.ieee.org/document/9423630https://ieeexplore.ieee.org/document/9423630)录用！
+* *05/01/2021* 祝贺陈栋梁同学的论文["Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9423630https://ieeexplore.ieee.org/document/9423630)被IEEE Transactions on Affective Computing录用！
 * *04/28/2021* 祝贺陈栋梁同学考取华南理工大学计算机科学与技术专业学术博士！
 * *04/22/2021* 祝贺盛超同学的工作“基于子空间学习和伪标签回归的无监督特征选择”被《信号处理》录用!
 * *04/09/2021* 祝贺我们的工作“跨语种语音情感识别研究”荣获烟台大学2021年优秀科研成果奖二等奖!
