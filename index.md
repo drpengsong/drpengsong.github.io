@@ -22,7 +22,7 @@
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
 * *06/08/2021* 祝贺课题组“基于迁移学习的跨域人脸表情识别”项目获得儿童发展与学习科学教育部重点实验室开放基金支持！
 * *06/02/2021* 祝贺刘志骏、陈栋梁同学分别获得山东省及烟台大学优秀毕业生！
-* *05/28/2021* 祝贺张雯婧同学的论文Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition被Digital Signal Processing录用！
+* *05/28/2021* 祝贺张雯婧同学的论文["Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition"](https://www.sciencedirect.com/science/article/abs/pii/S1051200421001603)被Digital Signal Processing录用！
 * *05/01/2021* 祝贺陈栋梁同学的论文["Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9423630)被IEEE Transactions on Affective Computing录用！
 * *04/28/2021* 祝贺陈栋梁同学考取华南理工大学计算机科学与技术专业学术博士！
 * *04/22/2021* 祝贺盛超同学的工作“基于子空间学习和伪标签回归的无监督特征选择”被《信号处理》录用!
