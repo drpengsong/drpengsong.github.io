@@ -53,8 +53,8 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1.  Chao Sheng#,  <u>Peng Song*</u>,  Wenjian Zhang, Dongliang Chen. Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Signal Processing*** 2021 (Accepted)
-2.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Wenjian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021,  Doi:10.1016/j.dsp.2021.103121
+1.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. Dual-graph Regularized  Subspace Learning Based  Feature Selection. ***Digital Signal Processing*** 2021 (Accepted)
+2.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021,  Doi:10.1016/j.dsp.2021.103121
 2025. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
 2026. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2021, Doi:10.1109/TCDS.2021.3055524
 2027. Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
@@ -166,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/06/27**
+**更新时间：2021/07/22**
 
