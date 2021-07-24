@@ -93,7 +93,6 @@
 
 <span id = "Services"> </span>
 ## **社会活动**
-目前为中国人工智能学会情感智能专委会委员
 目前担任以下期刊或国际会议的审稿人：
 * IEEE Transactions on Affective Computing
 *  IEEE-ACM Transactions on Audio, Speech and Language Processing
