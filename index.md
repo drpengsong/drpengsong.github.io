@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">***🎈欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"]( )被Digital Signal Processing录用！
+* *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141 )被Digital Signal Processing录用！
 * *07/03/2021* 祝贺赵可可同学的论文“Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning”被CCBR 2021录用！
 * *06/10/2021* 祝贺张雯婧同学获得[烟台大学2021年研究生科技创新基金项目立项！](https://yjs.ytu.edu.cn/info/1021/2452.htm)
 * *06/08/2021* 祝贺课题组“基于迁移学习的跨域人脸表情识别”项目获得儿童发展与学习科学教育部重点实验室开放基金支持！
