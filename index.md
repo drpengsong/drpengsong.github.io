@@ -105,6 +105,7 @@
 *  IEEE Multimedia
 *  IEEE Signal Processing Letters
 *  Speech Communication
+*  Information Science
 *  Neurocomputing
 *  Information Fusion
 *  Signal Processing
