@@ -33,6 +33,7 @@
 * *04/22/2021* 祝贺盛超同学的工作“基于子空间学习和伪标签回归的无监督特征选择”被《信号处理》录用!
 * *04/09/2021* 祝贺我们的工作“跨语种语音情感识别研究”荣获烟台大学2021年优秀科研成果奖二等奖!
 * *01/24/2021* 祝贺张伟建同学的论文[“Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression“](https://ieeexplore.ieee.org/document/9340391/)被IEEE Transactions on Cognitive and Developmental Systems录用！
+
 [See more past news.](/pastnews)
 
 <span id = "Publications"> </span>
