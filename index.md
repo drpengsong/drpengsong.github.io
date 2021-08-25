@@ -34,7 +34,7 @@
 * *04/09/2021* 祝贺我们的工作“跨语种语音情感识别研究”荣获烟台大学2021年优秀科研成果奖二等奖!
 * *01/24/2021* 祝贺张伟建同学的论文[“Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression“](https://ieeexplore.ieee.org/document/9340391/)被IEEE Transactions on Cognitive and Developmental Systems录用！
 
-[See more past news.](/pastnews)
+[**更多新闻**.](/pastnews)
 
 <span id = "Publications"> </span>
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
