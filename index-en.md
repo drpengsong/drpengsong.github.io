@@ -44,7 +44,8 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 2039. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41.  
 
 <span style="color:blue;">**Conference Papers**</span>
-1. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
+1. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021
+2. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
 2020. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). 
 2018. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2018**), Calgary, Canada, 2018, 5504-5508。
 2016. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. **ICASSP** 2016，Shanghai, China, 2016. 
@@ -70,5 +71,5 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**Update：2020/09/01**
+**Update：2021/08/30**
 
