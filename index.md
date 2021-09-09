@@ -24,7 +24,7 @@
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
 * *08/11/2021* 祝贺李绍凯同学的论文“基于迁移回归的跨域语音情感识别”被NCMMSC 2021录用！
 * *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141)被Digital Signal Processing录用！
-* *07/03/2021* 祝贺赵可可同学的论文“Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning”被CCBR 2021录用！
+* *07/03/2021* 祝贺赵可可同学的论文[“Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning”](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_51)被CCBR 2021录用！
 * *06/10/2021* 祝贺张雯婧同学获得[烟台大学2021年研究生科技创新基金项目立项！](https://yjs.ytu.edu.cn/info/1021/2452.htm)
 * *06/08/2021* 祝贺课题组“基于迁移学习的跨域人脸表情识别”项目获得儿童发展与学习科学教育部重点实验室开放基金支持！
 * *06/02/2021* 祝贺刘志骏、陈栋梁同学分别获得山东省及烟台大学优秀毕业生！
