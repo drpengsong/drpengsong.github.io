@@ -42,6 +42,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
+<span style="color:black;">*2021*</span>
 1. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
 2. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2021, Doi:10.1109/TCDS.2021.3055524
 4. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
