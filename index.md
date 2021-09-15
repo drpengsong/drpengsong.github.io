@@ -42,7 +42,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection.]((https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141)) ***Digital Signal Processing*** 2021, 117:103175. 
+1.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 2.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 2025. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
 2026. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2021, Doi:10.1109/TCDS.2021.3055524
