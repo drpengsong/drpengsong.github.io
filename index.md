@@ -142,7 +142,7 @@
 <span id = "Resources"> </span>
 ## **资源**
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
-2. [清华大学计算机学科推荐学术会议和期刊列表](https://dsc.jnu.edu.cn/56/e9/c15581a415465/page.htm)
+2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
 3. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
 4. [迁移学习](https://github.com/jindongwang/transferlearning)
