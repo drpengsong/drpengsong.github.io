@@ -23,7 +23,7 @@
 * *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
 * *08/11/2021* 祝贺李绍凯同学的论文“基于迁移回归的跨域语音情感识别”被NCMMSC 2021录用！
-* *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141)被Digital Signal Processing录用！
+* *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=)被Digital Signal Processing录用！
 * *07/03/2021* 祝贺赵可可同学的论文[“Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning”](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_51)被CCBR 2021录用！
 * *06/10/2021* 祝贺张雯婧同学获得[烟台大学2021年研究生科技创新基金项目立项！](https://yjs.ytu.edu.cn/info/1021/2452.htm)
 * *06/08/2021* 祝贺课题组“基于迁移学习的跨域人脸表情识别”项目获得儿童发展与学习科学教育部重点实验室开放基金支持！
@@ -59,7 +59,7 @@
 2040. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
 2041. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
 2042. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
-2043. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](http://gfffg55d218d7e44d4416scvq9qovvucwv6fcf.fgfy.ytu.cwkeji.cn/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXCN20210528001&uniplatform=NZKPT&v=FpR6QUdRBpxnYZYcgJypePDJYqhh2IZisypoOpctvKSkUp3XU20wBmzRZ07WfZ6A). **信号处理**. （在线刊出）
+2043. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. （在线刊出）
 2044. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
 2045. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
 2046. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
