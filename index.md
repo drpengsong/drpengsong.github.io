@@ -19,7 +19,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">🎈<font color=#00FFFF>欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。</font></span>
+* <span style="color:red;">🎈***欢迎计算机、电子信息、智能科学、自动化等相关专业优秀同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
 * *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
 * *08/11/2021* 祝贺李绍凯同学的论文“基于迁移回归的跨域语音情感识别”被NCMMSC 2021录用！
