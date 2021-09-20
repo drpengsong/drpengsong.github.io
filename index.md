@@ -38,7 +38,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
+## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
