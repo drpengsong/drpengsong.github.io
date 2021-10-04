@@ -49,6 +49,7 @@
 2028.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 2029.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 2030.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
+2031. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng. A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2021 (录用)
 2032. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
 2033. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**ESI高被引**）
 2034. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
@@ -122,7 +123,7 @@
 5. [宋紫浩]()，研究方向：（多视图）特征选择 (一篇论文在审)
 
 2019级
-1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (DSP、《数据采集与处理》各刊出一篇、两篇论文在审)
+1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (DSP、IEICE、《数据采集与处理》各刊出一篇、一篇论文在审)
 2. [盛超]()， 研究方向：基于图正则的无监督特征选择 (DSP刊出一篇、《信号处理》录用一篇、一篇论文在审)
 
 2018级
@@ -157,5 +158,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/09/10**
+**更新时间：2021/10/04**
 
