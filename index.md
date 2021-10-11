@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *10/11/2021* 祝贺宋紫浩同学的论文"A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection"被IEICE TRANSACTIONS on Information and Systems录用！
 * *10/04/2021* 祝贺张雯婧同学的论文"A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
 * *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
@@ -158,5 +159,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/10/04**
+**更新时间：2021/10/11**
 
