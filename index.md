@@ -50,25 +50,26 @@
 2028.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 2029.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 2030.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
-2031. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng. A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2021 (录用)
-2032. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
-2033. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**ESI高被引**）
-2034. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
-2035. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186.
-2036. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
-2037. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Bingui Xu, Xuan Zhou. Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2020, E-103D: 2241-2245. 
-2038. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
-2039. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement.***Chinese Journal of Electronics***. 2018,  27(6): 1214-1220.
-2040. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
-2041. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
-2042. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
-2043. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. （在线刊出）
-2044. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
-2045. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
-2046. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
-2047. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, **清华大学学报(自然科学版)**,  2016, 56 (11): 1179-1183.
-2048. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. **声学学报**, 2015, 40(1): 20-27. 
-2049. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
+2031. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng. A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2021 (录用,2022年第1期出版)
+2032. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection. ***IEICE TRANSACTIONS on Information and Systems***, 2021 (录用，2022年第1期出版)
+2033. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
+2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**ESI高被引**）
+2035. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
+2036. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186.
+2037. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
+2038. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Bingui Xu, Xuan Zhou. Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2020, E-103D: 2241-2245. 
+2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
+2040. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement.***Chinese Journal of Electronics***. 2018,  27(6): 1214-1220.
+2041. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
+2042. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
+2043. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
+2044. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. （在线刊出）
+2045. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
+2046. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
+2047. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
+2048. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, **清华大学学报(自然科学版)**,  2016, 56 (11): 1179-1183.
+2049. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. **声学学报**, 2015, 40(1): 20-27. 
+2050. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
 1. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.
@@ -121,7 +122,7 @@
 2. [姬亮]()，研究方向：跨域人脸表情识别 （一篇论文在审）
 3. [刘向雨]()，研究方向：多视图聚类 (两篇论文在审)
 4. [李绍凯]()，研究方向：迁移学习、语音情感识别 （NCMMSC 2021录用论文一篇，一篇论文在审）
-5. [宋紫浩]()，研究方向：（多视图）特征选择 (一篇论文在审)
+5. [宋紫浩]()，研究方向：（多视图）特征选择 (IEICE录用论文一篇)
 
 2019级
 1. [张雯婧]()，研究方向：基于迁移学习的跨域人脸表情识别 (DSP、IEICE、《数据采集与处理》各刊出一篇、一篇论文在审)
