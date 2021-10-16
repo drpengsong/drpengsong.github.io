@@ -1,4 +1,4 @@
-<span id = "Top"> </span>
+    <span id = "Top"> </span>
  [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *10/16/2021* 祝贺我们的论文“基于迁移回归的跨域语音情感识别”入选NCMMSC 2021优秀论文候选！
 * *10/11/2021* 祝贺宋紫浩同学的论文"A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection"被IEICE TRANSACTIONS on Information and Systems录用！
 * *10/04/2021* 祝贺张雯婧同学的论文"A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
 * *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
@@ -160,5 +161,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/10/11**
+**更新时间：2021/10/16**
 
