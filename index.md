@@ -64,7 +64,7 @@
 2041. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
 2042. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
 2043. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
-2044. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. （在线刊出）
+2044. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. 2021, 37 (9): 1701-1708.
 2045. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
 2046. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
 2047. <u>宋鹏</u>, 郑文明, 赵力. 基于子空间学习和特征选择融合的语音情感识别.  **清华大学学报（自然科学版)**. 2018, 58(4):347-351.
@@ -149,17 +149,18 @@
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
 2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
-3. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-4. [迁移学习](https://github.com/jindongwang/transferlearning)
-5. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
-5. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
-6. [师生关系大杂烩](https://frostliu.github.io/discussions)
-7. [AI会议Deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
+5. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
+6. [迁移学习](https://github.com/jindongwang/transferlearning)
+7. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
+8. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
+9. [师生关系大杂烩](https://frostliu.github.io/discussions)
+10. [AI会议Deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 
 
 [↑Top](#Top)
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/10/16**
+**更新时间：2021/10/23**
 
