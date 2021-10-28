@@ -73,7 +73,7 @@
 2050. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
-1. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国.
+1. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国. （最佳论文提名）
 2. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.
 2021. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
 2020. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**). 
@@ -163,5 +163,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2021/10/23**
+**更新时间：2021/10/28**
 
