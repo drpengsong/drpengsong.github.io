@@ -154,10 +154,11 @@
 4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
 5. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
 6. [迁移学习](https://github.com/jindongwang/transferlearning)
-7. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
-8. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
-9. [师生关系大杂烩](https://frostliu.github.io/discussions)
-10. [AI会议Deadline](http://www.call4papers.cn:8080/ccf/ccf-8.jsp)
+7. [多视图学习](https://ijcai20.org/t37/)
+8. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
+9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
+10. [师生关系大杂烩](https://frostliu.github.io/discussions)
+11. [AI会议Deadline](http://www.call4papers.cn:8080/ccf/ccf-8.jsp)
 
 
 [↑Top](#Top)
