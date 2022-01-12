@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *01/12/2022* 祝贺姬亮同学的论文"Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文"Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"被Digital Signal Processing录用！
 * *10/16/2021* 祝贺我们的论文“基于迁移回归的跨域语音情感识别”入选NCMMSC 2021优秀论文候选！
 * *10/14/2021* 祝贺盛超、张雯婧同学获得2021年一等学业奖学金！
@@ -168,5 +169,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/01/05**
+**更新时间：2022/01/12**
 
