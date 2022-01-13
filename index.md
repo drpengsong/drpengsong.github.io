@@ -49,7 +49,7 @@
 
 <span style="color:blue;">**期刊论文**</span>
 1. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang.Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition ***Digital Signal Processing*** 2022 (Accepted) 
-2. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection]((https://www.sciencedirect.com/science/article/pii/S1051200422000100)) ***Digital Signal Processing*** 2022 (Accepted) 
+2. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100) ***Digital Signal Processing*** 2022 (Accepted) 
 4. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
 5. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. [A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_175&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 184-188.
 2. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
