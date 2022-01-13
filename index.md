@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *01/12/2022* 祝贺姬亮同学的论文"Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"被Digital Signal Processing录用！
+* *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文"Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"被Digital Signal Processing录用！
 * *10/16/2021* 祝贺我们的论文“基于迁移回归的跨域语音情感识别”入选NCMMSC 2021优秀论文候选！
 * *10/14/2021* 祝贺盛超、张雯婧同学获得2021年一等学业奖学金！
@@ -49,8 +49,7 @@
 
 <span style="color:blue;">**期刊论文**</span>
 1. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang.Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition ***Digital Signal Processing*** 2022 (Accepted) 
-2. Chao Sheng#,  <u>Peng Song*</u>. Graph Regularized Virtual Label Regression for Unsupervised Feature Selection
- ***Digital Signal Processing*** 2022 (Accepted) 
+2. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection]((https://www.sciencedirect.com/science/article/pii/S1051200422000100)) ***Digital Signal Processing*** 2022 (Accepted) 
 4. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
 5. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. [A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_175&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 184-188.
 2. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
