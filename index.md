@@ -48,7 +48,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang.Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition***Digital Signal Processing*** 2022 (Accepted) 
+1. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang.Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition ***Digital Signal Processing*** 2022 (Accepted) 
 2. Chao Sheng#,  <u>Peng Song*</u>. Graph Regularized Virtual Label Regression for Unsupervised Feature Selection
  ***Digital Signal Processing*** 2022 (Accepted) 
 4. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
