@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *01/23/2022* 祝贺刘向雨同学的论文Robust Multi-view Non-negative Matrix Factorization for Clustering被Digital Signal Processing录用！
+* *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
 * *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
 * *10/16/2021* 祝贺我们的论文“基于迁移回归的跨域语音情感识别”入选NCMMSC 2021优秀论文候选！
@@ -49,7 +49,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. Robust Multi-view Non-negative Matrix Factorization for Clustering ***Digital Signal Processing*** 2022 (Accepted)
+1. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641) ***Digital Signal Processing*** 2022
 2. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200422000410) ***Digital Signal Processing*** 2022 
 2. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100) ***Digital Signal Processing*** 2022 
 4. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
