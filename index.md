@@ -164,7 +164,7 @@
 8. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
 9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
-11. [AI会议Deadline](http://www.call4papers.cn:8080/ccf/ccf-8.jsp)
+11. [AI会议Deadline](https://ccfddl.github.io/)
 
 
 [↑Top](#Top)
