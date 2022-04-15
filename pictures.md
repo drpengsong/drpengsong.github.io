@@ -1,7 +1,6 @@
 # 2022
-<p style="width:970px;">
-    <img src="/huaxue.jpg" align="left" width="600" hspace="5" vspace="5">
-</p>
+![毕业](https://github.com/drpengsong/drpengsong.github.io/blob/master/biye1.jpg)
+
 
 # 2021
 <p style="width:970px;">
