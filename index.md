@@ -166,8 +166,8 @@
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
 
-## **照片**
-[**团队活动**](/pictures)
+## **团队**
+[**活动照片**](/pictures)
 
 
 [↑Top](#Top)
