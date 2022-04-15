@@ -3,7 +3,7 @@
  <img src="/2018summer.jpg#pic_center" width="300" ></img>   <img src="/2018biye.jpg#pic_center" width="300" ></img>  <img src="/2017yuandan.jpg#pic_center" width="300" ></img> 
 
 
-  <img src="/2017yu.jpg#pic_center" width="300" ></img>
+<img src="/2017yu.jpg#pic_center" width="300" ></img>
 
  
 
