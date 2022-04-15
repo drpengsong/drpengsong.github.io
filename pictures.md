@@ -1,4 +1,4 @@
-<img src="/huaxue.jpg#pic_center" width="300" ></img>   <img src="/biye1.jpg#pic_center" width="300" ></img>
+<img src="/huaxue.jpg#pic_center" width="300" ></img>   <img src="/2021biye2.jpg#pic_center" width="300" ></img>
 
 <img src="/2018summer.jpg#pic_center" width="300" ></img>  <img src="/2018biye.jpg#pic_center" width="300" ></img>
 
