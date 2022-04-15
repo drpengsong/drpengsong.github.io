@@ -1,5 +1,5 @@
 # 2022
-![毕业](https://github.com/drpengsong/drpengsong.github.io/blob/master/biye1.jpg)
+![毕业](/biye1.jpg)
 
 
 # 2021
