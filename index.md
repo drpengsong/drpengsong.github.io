@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *04/16/2022* 祝贺张雯婧同学的论文“Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition”被IEEE Transactions on Affective Computing录用！
+* *04/16/2022* 祝贺张雯婧同学的论文[“Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition”] (https://ieeexplore.ieee.org/document/9761954)被IEEE Transactions on Affective Computing录用！
 * *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
 * *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
@@ -50,7 +50,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2022 (Accepted)
+1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641). ***Digital Signal Processing*** 2022, 123:103447.
 3. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200422000410). ***Digital Signal Processing*** 2022, 123:103424.
 4. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100). ***Digital Signal Processing*** 2022, 123:103393.
@@ -178,5 +178,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/04/22**
+**更新时间：2022/04/24**
 
