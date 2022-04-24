@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"] (https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！
+* *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！
 * *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
 * *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
