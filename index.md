@@ -107,6 +107,7 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
+
 ### **Open source**
 1. [迁移学习](https://github.com/jindongwang/transferlearning)
 2. [多视图学习](https://ijcai20.org/t37/)
