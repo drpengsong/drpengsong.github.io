@@ -19,7 +19,7 @@
             <div> 2021级 </div>
           </td> 
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/liutao.jpg"></div>
+            <div> <img width="140" src="./pictures/zhoushixuan.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">周士璇</a> </div>
             <div> 2021级 </div>
           </td>
