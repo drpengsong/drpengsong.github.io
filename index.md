@@ -58,7 +58,7 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 ## **指导学生**
 ### **研究生**
 2021级
-1. [刘涛]()，研究方向：迁移学习，人脸表情识别
+1. [刘涛](/groupmembers)，研究方向：迁移学习，人脸表情识别
 2. [刘兆虎]()，研究方向：多视图聚类
 3. [周士璇]()，研究方向：特征选择
 4. [姜慎杰]()，研究方向：迁移学习，语音情感识别
