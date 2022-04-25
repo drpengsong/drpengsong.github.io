@@ -156,6 +156,9 @@
 4. 2017年 大学生创新创业训练计划项目:“基于机器学习的城市交通动态预测” （李倩、张迎雪、马文静、李尚泽、贾召飞等）
 5. 2016-2019年 世界大学生超级计算机比赛ASC（二等奖）
 
+### **团队**
+[**活动照片**](/pictures)
+
 <span id = "Resources"> </span>
 ## **资源**
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
@@ -169,10 +172,27 @@
 9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
-
-## **团队**
-[**活动照片**](/pictures)
-
+### **Open source**
+ <ul>
+    <li> 
+      <p><a href="https://github.com/WxTu/awesome-incomplete-graph-representation-learning">Awesome Incomplete Graph Representation Learning</a></p>
+    </li>
+  </ul>
+ <ul>
+    <li> 
+      <p><a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering">Awesome Deep Graph Clustering</a></p>
+    </li>
+  </ul>
+ <ul>
+    <li> 
+      <p><a href="https://ijcai20.org/t37/">多视图学习</p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p><a href="https://github.com/jindongwang/transferlearning">迁移学习</p>
+    </li>
+  </ul>
 
 [↑Top](#Top)
 
