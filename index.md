@@ -58,7 +58,6 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 ## **指导学生**
 ### **研究生**
 <table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" src="./pictures/liuzhaohu.jpg"></div>
             <div> 2021级 </div>
