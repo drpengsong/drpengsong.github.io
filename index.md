@@ -61,7 +61,7 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
         <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" src="./pictures/liuzhaohu.jpg"></div>
-            <div> Professor </div>
+            <div> 2021级 </div>
           </td>
          
 ### **优秀本科毕业论文**
