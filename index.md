@@ -161,38 +161,21 @@
 
 <span id = "Resources"> </span>
 ## **资源**
+### **参考**
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
 2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
 4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
 5. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-6. [迁移学习](https://github.com/jindongwang/transferlearning)
-7. [多视图学习](https://ijcai20.org/t37/)
 8. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
 9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
 ### **Open source**
- <ul>
-    <li> 
-      <p><a href="https://github.com/WxTu/awesome-incomplete-graph-representation-learning">Awesome Incomplete Graph Representation Learning</a></p>
-    </li>
-  </ul>
- <ul>
-    <li> 
-      <p><a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering">Awesome Deep Graph Clustering</a></p>
-    </li>
-  </ul>
- <ul>
-    <li> 
-      <p><a href="https://ijcai20.org/t37/">多视图学习</p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p><a href="https://github.com/jindongwang/transferlearning">迁移学习</p>
-    </li>
-  </ul>
+1. [迁移学习](https://github.com/jindongwang/transferlearning)
+2. [多视图学习](https://ijcai20.org/t37/)
+3. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
+4. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 
 [↑Top](#Top)
 
