@@ -48,31 +48,17 @@
 2037. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
 2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
 
-[*Full publications.*](/full-paper-list)  
+[*Full publications*](/full-paper-list)  
 
 
 <span id = "Services"> </span>
 ## **社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE Transactions on Affective Computing
-*  IEEE-ACM Transactions on Audio, Speech and Language Processing
-*  IEEE Signal Processing Magazine
-*  IEEE Transactions on Knowledge and Data Engineering
-*  IEEE Transactions on Circuits and Systems for Video Technology
-*  Neural Networks
-*  IEEE Multimedia
-*  IEEE Signal Processing Letters
-*  Speech Communication
-*  Information Science
-*  Neurocomputing
-*  Information Fusion
-*  Signal Processing
-*  Applied Acoustics
-*  Computer Speech&Languange
-*  Biomedical Signal Processing and Control
+* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine
+IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters
+*  Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languang、 Biomedical Signal Processing and Control
 *  INTERSPEECH 2018-2022, ICASSP 2021-2022, NCMMSC 2021, ICPR 2022
 ...
-
 <span id = "Students"> </span>
 ## **指导学生**
 ### **研究生**
