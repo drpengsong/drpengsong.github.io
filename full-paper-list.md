@@ -1,3 +1,6 @@
+<span id = "Publications"> </span>
+## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
+\# 学生，\* 通讯作者
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641). ***Digital Signal Processing*** 2022, 123:103447.
 3. Liang Ji#,  <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200422000410). ***Digital Signal Processing*** 2022, 123:103424.
