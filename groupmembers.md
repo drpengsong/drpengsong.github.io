@@ -14,10 +14,10 @@
             <div> 2021级 </div>
           </td>  
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/jiangshenjie.jpg"></div>
-            <div> <a href="http://drpengsong.github.io/">姜慎杰</a> </div>
+            <div> <img width="140" src="./pictures/mujinshuai.jpg"></div>
+            <div> <a href="http://drpengsong.github.io/">牟金帅</a> </div>
             <div> 2021级 </div>
-          </td> 
+          </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" src="./pictures/zhoushixuan.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">周士璇</a> </div>
@@ -32,10 +32,10 @@
             <div> 2021级 </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/mujinshuai.jpg"></div>
-            <div> <a href="http://drpengsong.github.io/">牟金帅</a> </div>
+            <div> <img width="140" src="./pictures/jiangshenjie.jpg"></div>
+            <div> <a href="http://drpengsong.github.io/">姜慎杰</a> </div>
             <div> 2021级 </div>
-          </td>  
+          </td>                 
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" src="./pictures/songzihao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">宋紫浩</a> </div>
