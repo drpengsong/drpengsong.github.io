@@ -37,8 +37,8 @@
             <div> 2021级 </div>
           </td>  
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/zhaokeke.jpg"></div>
-            <div> <a href="http://drpengsong.github.io/">赵可可</a> </div>
+            <div> <img width="140" src="./pictures/songzihao.jpg"></div>
+            <div> <a href="http://drpengsong.github.io/">宋紫浩</a> </div>
             <div> 2020级 </div>
           </td> 
           <td width="20%" style="padding-right:30px">
@@ -60,7 +60,7 @@
             <div> 2020级 </div>
           </td>  
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/songzihao.jpg"></div>
+            <div> <img width="140" src="./pictures/zhaokeke.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">宋紫浩</a> </div>
             <div> 2020级 </div>
           </td> 
