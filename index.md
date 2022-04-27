@@ -30,6 +30,7 @@
 * *10/04/2021* 祝贺张雯婧同学的论文"A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
 * *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
+
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
