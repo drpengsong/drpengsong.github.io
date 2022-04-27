@@ -1,8 +1,4 @@
 # PastNews
-* *10/11/2021* 祝贺宋紫浩同学的论文"A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection"被IEICE TRANSACTIONS on Information and Systems录用！
-* *10/04/2021* 祝贺张雯婧同学的论文"A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
-* *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！
-* *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
 * *08/11/2021* 祝贺李绍凯同学的论文“基于迁移回归的跨域语音情感识别”被NCMMSC 2021录用！
 * *07/20/2021* 祝贺盛超同学的论文["Dual-graph Regularized  Subspace Learning Based  Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200421002141)被Digital Signal Processing录用！
 * *07/03/2021* 祝贺赵可可同学的论文[“Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning”](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_51)被CCBR 2021录用！
