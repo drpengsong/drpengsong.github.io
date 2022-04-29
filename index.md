@@ -47,7 +47,7 @@
 2040. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641). ***Digital Signal Processing*** 2022, 123:103447.
 2041. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100). ***Digital Signal Processing*** 2022, 123:103393.
 
-[*完整论文列表*](/full-paper-list)  
+[**完整论文列表...**](/full-paper-list)  
 
 
 <span id = "Services"> </span>
