@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！[*相关报道*](https://www.ytu.edu.cn/info/1036/13102.htm)
+* *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！[*相关报道1*](https://www.ytu.edu.cn/info/1036/13102.htm), [*相关报道2*](https://mp.weixin.qq.com/s/rcdNT9XfexHVhT98-9ghyQ)
 * *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
 * *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
@@ -122,5 +122,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/04/25**
+**更新时间：2022/05/01**
 
