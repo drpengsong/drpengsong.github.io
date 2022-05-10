@@ -113,7 +113,7 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 11. [AI会议Deadline](https://ccfddl.github.io/)
 
 ### **Open source**
-1. [迁移学习](https://github.com/jindongwang/transferlearning)
+1. [迁移学习](https://github.com/jindongwang/transferlearning)[视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
 2. [多视图学习](https://ijcai20.org/t37/)
 3. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
 4. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
