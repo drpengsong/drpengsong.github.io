@@ -53,7 +53,7 @@
 <span id = "Services"> </span>
 ## **获奖与荣誉**
 * *2022* IEEE计算机协会2020年情感计算汇刊（唯一）最佳论文奖 [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://www.computer.org/publications/best-paper-award-winners)
-* *2021* 山东省研究生优秀成果奖三等奖：面向语音情感识别的迁移子空间学习方法研究
+* *2020* 山东省研究生优秀成果奖三等奖：面向语音情感识别的迁移子空间学习方法研究
 
 <span id = "Services"> </span>
 ## **社会活动**
