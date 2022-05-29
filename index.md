@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *05/29/2022* 祝贺盛超、张雯婧同学顺利通过硕士学位论文答辩！
 * *05/13/2022* 祝贺张雯婧同学获得山东省优秀毕业生称号！
 * *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！[*相关报道1*](https://www.ytu.edu.cn/info/1036/13102.htm), [*相关报道2*](https://mp.weixin.qq.com/s/rcdNT9XfexHVhT98-9ghyQ)
 * *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
