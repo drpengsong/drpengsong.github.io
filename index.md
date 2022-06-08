@@ -125,10 +125,10 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 3. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
 4. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 5. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-
+6. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 [↑Top](#Top)
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/06/02**
+**更新时间：2022/06/08**
 
