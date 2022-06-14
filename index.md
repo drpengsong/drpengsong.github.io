@@ -120,12 +120,13 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 11. [AI会议Deadline](https://ccfddl.github.io/)
 
 ### **Open source**
-1. [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
-2. [多视图学习](https://ijcai20.org/t37/)
-3. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
-4. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
-5. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-6. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+1. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+2.  [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
+3. [多视图学习](https://ijcai20.org/t37/)
+4. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
+5. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+6. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+7. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 [↑Top](#Top)
 
