@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *06/15/2022* 祝贺李绍凯同学的论文"Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition” 被Interspeech 2022录用！
 * *06/01/2022* 祝贺赵可可同学的论文"A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
 * *05/29/2022* 祝贺盛超、张雯婧同学顺利通过硕士学位论文答辩！
 * *05/13/2022* 祝贺张雯婧同学获得山东省优秀毕业生称号！
@@ -132,5 +133,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/06/08**
+**更新时间：2022/06/15**
 
