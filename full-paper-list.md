@@ -3,9 +3,6 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
-
-2022
-
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
 3. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
@@ -14,25 +11,17 @@
 6. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100). ***Digital Signal Processing*** 2022, 123:103393.
 7. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
 8. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. [A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_175&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 184-188.
-
-2021
-
-10. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
-11. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
+9. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
+10. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
 2028.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 2029.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 2030.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
-
-2020
-
-2033. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
-2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**最佳论文，ESI高被引**）
+2031.  <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
+2032.  Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**最佳论文，ESI高被引**）
 2035. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
 2036. Fang Liu#, Yanwei Yu, <u>Peng Song</u>, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. ***Knowledge-Based Systems***, 2020, 204: 106186.
 2037. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
 2038. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Bingui Xu, Xuan Zhou. Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2020, E-103D: 2241-2245. 
-
-2020之前
 2040. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
 2041. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Laplacian Speech Model and Soft Decision Based MMSE Estimator for Noise Power Spectral Density in Speech Enhancement.***Chinese Journal of Electronics***. 2018,  27(6): 1214-1220.
 2042. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
