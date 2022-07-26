@@ -3,6 +3,7 @@
 \# 学生，\* 通讯作者
 
 <span style="color:blue;">**期刊论文**</span>
+
 2022
 
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
