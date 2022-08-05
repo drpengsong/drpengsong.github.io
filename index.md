@@ -35,7 +35,7 @@
 * *10/14/2021* 祝贺盛超、张雯婧同学获得2021年一等学业奖学金！
 * *10/11/2021* 祝贺宋紫浩同学的论文"A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection"被IEICE TRANSACTIONS on Information and Systems录用！
 * *10/04/2021* 祝贺张雯婧同学的论文"A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
-* *09/08/2021* 祝贺论文[“Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！[*相关报道*](https://bme.seu.edu.cn/2021/0917/c478a384460/page.htm)
+* *09/08/2021* 祝贺论文[“EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks”](https://ieeexplore.ieee.org/document/8621147)入选IEEE Transactions on Affective Computing最佳论文！[*相关报道*](https://bme.seu.edu.cn/2021/0917/c478a384460/page.htm)
 * *08/23/2021* 祝贺张雯婧同学的工作“基于鲁棒迁移学习的人脸表情识别研究”荣获烟台大学研究生优秀成果奖！
 
 [**更多新闻...**](/pastnews)
