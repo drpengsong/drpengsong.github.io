@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
-* *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"]() 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
+* *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
 * *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
 * *06/15/2022* 祝贺李绍凯同学的论文"Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition” 被Interspeech 2022录用！
@@ -52,7 +52,7 @@
 2035. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
 2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
 2040. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
-2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](). ***Expert Systems With Applications*** 2022, (Accepted).
+2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, (Accepted).
 2042. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100). ***Digital Signal Processing*** 2022, 123:103393.
 
 [**完整论文列表...**](/full-paper-list)  
@@ -140,5 +140,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/08/04**
+**更新时间：2022/08/09**
 
