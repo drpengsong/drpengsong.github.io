@@ -85,7 +85,7 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 2020级
 1. [赵可可](/groupmembers)，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇）
 2. [姬亮](/groupmembers)，  研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文在审）
-3. [刘向雨](/groupmembers)，研究方向：基于矩阵分解的多视图聚类方法研究 (EWSA、DSP论文各刊出一篇，一篇论文在审)
+3. [刘向雨](/groupmembers)，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA、DSP论文各刊出一篇，一篇论文在审)
 4. [李绍凯](/groupmembers)，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、Applied Acoustics论文各一篇，一篇论文在审）
 5. [宋紫浩](/groupmembers)，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、一篇论文在审)
 
