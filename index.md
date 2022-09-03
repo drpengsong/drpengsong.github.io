@@ -74,6 +74,11 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 <span id = "Students"> </span>
 ## **指导学生**
 ### **研究生**
+2022级
+1. [程远波](/groupmembers)，研究方向：视角缺失的多视图聚类
+2. [段萌](/groupmembers)，研究方向：多视图特征选择
+3. [王昊](/groupmembers)，研究方向：跨域语音情感识别
+
 2021级
 1. [刘涛](/groupmembers)，研究方向：迁移学习，人脸表情识别
 2. [刘兆虎](/groupmembers)，研究方向：多视图聚类
@@ -140,5 +145,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/08/09**
+**更新时间：2022/09/03**
 
