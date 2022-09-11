@@ -41,7 +41,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a> <a href=["https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW](https://dblp.org/pid/58/3960-2.html)">DBLP</a>） 
+## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>）(<a href=["https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW](https://dblp.org/pid/58/3960-2.html)">DBLP</a>)
 \# 学生，\* 通讯作者
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
