@@ -3,38 +3,38 @@
 <table width="90%" border="0" align="center" cellspacing="30">
         <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/chengyuanbo.jpg"></div>
+            <div> <img width="85" src="./pictures/chengyuanbo.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">程远波</a> </div>
             <div> 2022级 </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/duanmeng.jpg"></div>
+            <div> <img width="85" src="./pictures/duanmeng.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">段萌</a> </div>
             <div> 2022级 </div>
           </td>  
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/wanghao.jpg"></div>
+            <div> <img width="85" src="./pictures/wanghao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">王昊</a> </div>
             <div> 2022级 </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/liuzhaohu.jpg"></div>
+            <div> <img width="85" src="./pictures/liuzhaohu.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">刘兆虎</a> </div>
             <div> 2021级 </div>
           </td>
-
-<table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/liutao.jpg"></div>
+            <div> <img width="85" src="./pictures/liutao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">刘涛</a> </div>
             <div> 2021级 </div>
           </td>  
           <td width="20%" style="padding-right:30px">
-            <div> <img width="140" src="./pictures/mujinshuai.jpg"></div>
+            <div> <img width="85" src="./pictures/mujinshuai.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">牟金帅</a> </div>
             <div> 2021级 </div>
           </td>
+                
+<table width="90%" border="0" align="center" cellspacing="30">
+        <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="140" src="./pictures/zhoushixuan.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">周士璇</a> </div>
