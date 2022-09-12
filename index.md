@@ -74,27 +74,20 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 <span id = "Students"> </span>
 ## **指导学生**
 ### **研究生**
-2022级
 1. [程远波](/groupmembers)，研究方向：视角缺失的多视图聚类
 2. [段萌](/groupmembers)，研究方向：多视图特征选择
 3. [王昊](/groupmembers)，研究方向：跨域语音情感识别
-
-2021级
 1. [刘涛](/groupmembers)，研究方向：迁移学习，人脸表情识别
 2. [刘兆虎](/groupmembers)，研究方向：多视图聚类
 3. [周士璇](/groupmembers)，研究方向：特征选择
 4. [姜慎杰](/groupmembers)，研究方向：迁移学习，语音情感识别
 5. [牟金帅](/groupmembers)，研究方向：多视图聚类 
 6. [王润](/groupmembers)， 研究方向：迁移学习，人脸表情识别
-
-2020级
 1. [赵可可](/groupmembers)，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇）
 2. [姬亮](/groupmembers)，  研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文在审）
 3. [刘向雨](/groupmembers)，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA、DSP论文各刊出一篇，一篇论文在审)
 4. [李绍凯](/groupmembers)，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、Applied Acoustics论文各一篇，一篇论文在审）
 5. [宋紫浩](/groupmembers)，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、一篇论文在审)
-
-2019级
 1. [张雯婧](/groupmembers)，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇)
 2. [盛超](/groupmembers)， 研究方向：基于图正则的无监督特征选择 (DSP刊出两篇、《信号处理》刊出一篇)
 
