@@ -23,7 +23,7 @@
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
 * *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
-* *06/15/2022* 祝贺李绍凯同学的论文"Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition” 被Interspeech 2022录用！
+* *06/15/2022* 祝贺李绍凯同学的论文["Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html) 被Interspeech 2022录用！
 * *06/01/2022* 祝贺赵可可同学的论文"A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"被IEICE TRANSACTIONS on Information and Systems录用！
 * *05/29/2022* 祝贺盛超、张雯婧同学顺利通过硕士学位论文答辩！
 * *05/13/2022* 祝贺张雯婧同学获得山东省优秀毕业生称号！
