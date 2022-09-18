@@ -76,13 +76,13 @@ Neural Networks、Speech Communication、Information Science、 Neurocomputing�
 1. [程远波](/groupmembers)，2022级，研究方向：视角缺失的多视图聚类
 2. [段萌](/groupmembers)，2022级，研究方向：多视图特征选择
 3. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别
-1. [刘涛](/groupmembers)，2021级，研究方向：迁移学习，人脸表情识别
-2. [刘兆虎](/groupmembers)，2021级，研究方向：多视图聚类
-3. [周士璇](/groupmembers)，2021级，研究方向：特征选择
-4. [姜慎杰](/groupmembers)，2021级，研究方向：迁移学习，语音情感识别
-5. [牟金帅](/groupmembers)，2021级，研究方向：多视图聚类 
-6. [王润](/groupmembers)， 2021级，研究方向：迁移学习，人脸表情识别
-1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇）
+1. [刘涛](/groupmembers)，2021级，研究方向：迁移学习，人脸表情识别 （一篇论文在投）
+2. [刘兆虎](/groupmembers)，2021级，研究方向：多视图聚类 （一篇论文在审）
+3. [周士璇](/groupmembers)，2021级，研究方向：特征选择 （一篇论文在审）
+4. [姜慎杰](/groupmembers)，2021级，研究方向：迁移学习，语音情感识别 （一篇论文在投）
+5. [牟金帅](/groupmembers)，2021级，研究方向：多视图聚类 （一篇论文在审）
+6. [王润](/groupmembers)， 2021级，研究方向：迁移学习，人脸表情识别 （一篇论文在投）
+1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇,一篇论文在投）
 2. [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文在审）
 3. [刘向雨](/groupmembers)，2020级，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA、DSP论文各刊出一篇，一篇论文在审)
 4. [李绍凯](/groupmembers)，2020级，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、Applied Acoustics论文各一篇，一篇论文在审）
