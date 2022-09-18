@@ -38,7 +38,7 @@
 2051. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
 
 <span style="color:blue;">**会议论文**</span>
-1. Shaokai Li#, <u>Peng Song*</u>, Keke  Zhao, Wenjing Zhang, Wenming Zheng. [Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html). In: **INTERSPEECH** 2022,  Incheon, Korea, 4695-4699. . (Accepted) 
+1. Shaokai Li#, <u>Peng Song*</u>, Keke  Zhao, Wenjing Zhang, Wenming Zheng. [Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html). In: **INTERSPEECH** 2022,  Incheon, Korea, 4695-4699. (Accepted) 
 2. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国. （最佳论文提名）
 3. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.
 2021. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
