@@ -120,6 +120,7 @@ Neural Networks、Speech Communication、Information Science、 Neurocomputing�
 9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
+12. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 
 ### **Open source**
 1. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
@@ -135,5 +136,5 @@ Neural Networks、Speech Communication、Information Science、 Neurocomputing�
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/09/18**
+**更新时间：2022/09/20**
 
