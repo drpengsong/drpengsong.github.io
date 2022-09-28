@@ -65,7 +65,7 @@
 <span id = "Services"> </span>
 ## **社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2022、 ICASSP 2021-2023、 NCMMSC 2021、 ICPR 2022
+* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2022、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022
 ...
 
 <span id = "Students"> </span>
@@ -134,5 +134,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/09/20**
+**更新时间：2022/09/28**
 
