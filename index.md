@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *09/30/2022* 祝贺陈栋梁同学的论文获得2022年度山东省人工智能优秀学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/4360945.html)）
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
 * *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
@@ -134,5 +135,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/09/28**
+**更新时间：2022/09/30**
 
