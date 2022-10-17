@@ -122,14 +122,15 @@
 12. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 
 ### **Open source**
-1. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
-2. [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
-3. [多视图学习](https://ijcai20.org/t37/)
-4. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
-5. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
-6. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-7. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-8. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
+1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
+2. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+3. [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
+4. [多视图学习](https://ijcai20.org/t37/)
+5. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
+6. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+7. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+8. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+9. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
 
 [↑Top](#Top)
 
