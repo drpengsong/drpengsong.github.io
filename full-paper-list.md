@@ -5,7 +5,7 @@
 <span style="color:blue;">**期刊论文**</span>
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2. Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
-3. Zihao Song#, <u>Peng Song*</u>, [Latent Energy Preserving Embedding for Unsupervised Feature Selection] (). 2022 (Accpeted)
+3. Zihao Song#, <u>Peng Song*</u>, [Latent Energy Preserving Embedding for Unsupervised Feature Selection] ( ). 2022 (Accpeted)
 4. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 5. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
 6. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641). ***Digital Signal Processing*** 2022, 123:103447.
