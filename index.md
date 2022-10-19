@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *10/18/2022* 祝贺宋紫浩同学的论文[Latent Energy Preserving Embedding for Unsupervised Feature Selection"]()被Digital Signal Processing录用！
 * *09/30/2022* 祝贺陈栋梁同学的论文获得2022年度山东省人工智能优秀学位论文（[公示中](https://www.sdaai.org.cn/newsinfo/4360945.html)）
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
@@ -78,14 +79,14 @@
 1. [刘涛](/groupmembers)，2021级，研究方向：迁移学习，人脸表情识别 （一篇论文在投）
 2. [刘兆虎](/groupmembers)，2021级，研究方向：多视图聚类 （一篇论文在审）
 3. [周士璇](/groupmembers)，2021级，研究方向：特征选择 （一篇论文在审）
-4. [姜慎杰](/groupmembers)，2021级，研究方向：迁移学习，语音情感识别 （一篇论文在投）
+4. [姜慎杰](/groupmembers)，2021级，研究方向：迁移学习，语音情感识别 （一篇论文在审）
 5. [牟金帅](/groupmembers)，2021级，研究方向：多视图聚类 （一篇论文在审）
-6. [王润](/groupmembers)， 2021级，研究方向：迁移学习，人脸表情识别 （一篇论文在投）
-1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇,一篇论文在投）
+6. [王润](/groupmembers)， 2021级，研究方向：迁移学习，人脸表情识别 （一篇论文在审）
+1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇,一篇论文在审）
 2. [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文在审）
 3. [刘向雨](/groupmembers)，2020级，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA、DSP论文各刊出一篇，一篇论文在审)
 4. [李绍凯](/groupmembers)，2020级，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、Applied Acoustics论文各一篇，一篇论文在审）
-5. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、一篇论文在审)
+5. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、DSP论文刊出一篇)
 1. [张雯婧](/groupmembers)，2019级，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇)
 2. [盛超](/groupmembers)， 2019级，研究方向：基于图正则的无监督特征选择 (DSP刊出两篇、《信号处理》刊出一篇)
 1. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇,一篇论文在审) 
@@ -136,5 +137,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/09/30**
+**更新时间：2022/10/18**
 
