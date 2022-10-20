@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *10/20/2022* 祝贺刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金！（公示中）
 * *10/18/2022* 祝贺宋紫浩同学的论文[Latent Energy Preserving Embedding for Unsupervised Feature Selection"]()被Digital Signal Processing录用！
 * *09/30/2022* 祝贺陈栋梁同学的论文获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
