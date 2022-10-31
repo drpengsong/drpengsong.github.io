@@ -34,6 +34,7 @@
 * *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
 * *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
 * *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
+
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
