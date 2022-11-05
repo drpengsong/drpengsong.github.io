@@ -78,7 +78,7 @@
 |山东省人工智能优秀硕士学位论文|陈栋梁（2022）|
 |烟台大学研究生优秀成果奖|张伟建（一等奖2020）、张雯婧（二等奖2021）|
 |烟台大学优秀研究生毕业生|陈栋梁（2021）|
-|学术论文奖|李绍凯（2021，NCMMSC优秀论文提名）|
+|学术论文奖|李绍凯（2021，NCMMSC最佳论文提名）|
 
 ### **在读研究生**
 1. [程远波](/groupmembers)，2022级，研究方向：视角缺失的多视图聚类
@@ -147,5 +147,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/11/04**
+**更新时间：2022/11/05**
 
