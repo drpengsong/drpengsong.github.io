@@ -59,7 +59,7 @@
 * *2022* IEEE计算机协会2020年情感计算汇刊（唯一）最佳论文奖 [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://www.computer.org/publications/best-paper-award-winners)
 * *2022* 山东省人工智能自然科学奖二等奖[面向大规模、高维、流式大数据的高效异常检测方法研究](https://www.sdaai.org.cn/newsinfo/4492364.html)
 * *2020* 山东省研究生优秀成果奖三等奖 [面向语音情感识别的迁移子空间学习方法研究](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
-* *2021* 第十六届全国人机语音通讯学术会议最佳论文提名 [基于迁移回归的跨域语音情感识别]()
+* *2021* 第十六届全国人机语音通讯学术会议最佳论文提名 [基于迁移回归的跨域语音情感识别](./pictures/chengyuanbo.jpg)
 
 <span id = "Services"> </span>
 ## **社会活动**
