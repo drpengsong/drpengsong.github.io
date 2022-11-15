@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *11/15/2022* 祝贺李绍凯同学的论文“基于迁移判别回归的跨域语音情感识别”被《信号处理》录用！
 * *10/20/2022* 祝贺刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金！
 * *10/18/2022* 祝贺宋紫浩同学的论文[“Latent Energy Preserving Embedding for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422004110)被Digital Signal Processing录用！
 * *09/30/2022* 祝贺陈栋梁同学的论文获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
