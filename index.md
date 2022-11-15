@@ -23,7 +23,7 @@
 * *11/15/2022* 祝贺李绍凯同学的论文“基于迁移判别回归的跨域语音情感识别”被《信号处理》录用！
 * *10/20/2022* 祝贺刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金！
 * *10/18/2022* 祝贺宋紫浩同学的论文[“Latent Energy Preserving Embedding for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422004110)被Digital Signal Processing录用！
-* *09/30/2022* 祝贺陈栋梁同学的论文获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
+* *09/30/2022* 祝贺陈栋梁同学的硕士学位论文“基于稀疏迁移学习的人脸表情识别”获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
 * *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
