@@ -30,7 +30,7 @@
 2042. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Soft Decision Based Gaussian-Laplacian Combination Model for Noisy Speech Enhancement. ***Chinese Journal of Electronics***. 2018,  27(4): 827-834.
 2043. Shifeng Ou, <u>Peng Song</u>, Ying Gao. Phase-Sensitive Decision-Directed SNR Estimator for Single-Channel Speech Enhancement. ***International Journal of Pattern Recognition and Artificial Intelligence***. 2017, 31(8): 1758003-1~1758003-16. 
 2044. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, et al. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. ***Speech Communication***. 2016, 83:34-41. 
-2045. 李绍凯#, <u>宋鹏*</u>，张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别]() (录用，2023年4月发表)
+2045. 李绍凯#, <u>宋鹏*</u>，张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](). **信号处理**. 2022 (录用，2023年4月发表)
 2046. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. 2021, 37 (9): 1701-1708.
 2047. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
 2048. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
