@@ -44,11 +44,11 @@
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
 7. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
-9. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
-2033. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
-2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**年度最佳论文，ESI高被引**）
+9. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. [Speech Emotion Recognition Based on Robust Discriminative Sparse Regression](https://ieeexplore.ieee.org/document/9080065). ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
+2033. <u>Peng Song*</u>, Wenming Zheng. [Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition](https://ieeexplore.ieee.org/document/8276251). ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382.
+2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8320798), ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541. （**年度最佳论文，ESI高被引**）
 2035. Weijian Zhang#, <u>Peng Song*</u>. [Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition](https://ieeexplore.ieee.org/document/8910397). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318.
-2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
+2039. <u>Peng Song*</u>. [Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/document/7931593).  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
 2040. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
 2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 2042. Chao Sheng#,  <u>Peng Song*</u>. [Graph Regularized Virtual Label Regression for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422000100). ***Digital Signal Processing*** 2022, 123:103393.
@@ -148,5 +148,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/11/15**
+**更新时间：2022/11/19**
 
