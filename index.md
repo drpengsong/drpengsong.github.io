@@ -132,6 +132,7 @@
 10. [师生关系大杂烩](https://frostliu.github.io/discussions)
 11. [AI会议Deadline](https://ccfddl.github.io/)
 12. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
+13. [机器学习相关博客](https://kailugaji.github.io/)
 
 ### **Open source**
 1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
