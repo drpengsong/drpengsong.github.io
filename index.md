@@ -138,7 +138,7 @@
 1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
 2. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 3. [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
-4. [多视图学习](https://ijcai20.org/t37/)
+4. [多视图学习视频](https://ijcai20.org/t37/)
 5. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
 6. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 7. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
@@ -150,5 +150,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/11/19**
+**更新时间：2022/11/27**
 
