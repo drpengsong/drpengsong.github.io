@@ -144,6 +144,7 @@
 7. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
 8. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 9. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
+10. [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
 
 [↑Top](#Top)
 
