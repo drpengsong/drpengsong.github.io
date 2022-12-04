@@ -21,7 +21,7 @@
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
 * *11/15/2022* 祝贺李绍凯同学的论文[“基于迁移判别回归的跨域语音情感识别”](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXCN20221124001&uniplatform=NZKPT&v=Gm2Rh2seRfbZJmBbvhVFeGHexNkNLeFcEjEWV3VUO0k4n6YQIsXpcz1bpX3QlmYn)被《信号处理》录用！
-* *10/20/2022* 祝贺[刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金](/files/关于颁发2022年研究生奖学金的决定.pdf)！
+* *10/20/2022* 祝贺[刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金！](/files/关于颁发2022年研究生奖学金的决定.pdf)
 * *10/18/2022* 祝贺宋紫浩同学的论文[“Latent Energy Preserving Embedding for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422004110)被Digital Signal Processing录用！
 * *09/30/2022* 祝贺陈栋梁同学的硕士学位论文“基于稀疏迁移学习的人脸表情识别”获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
