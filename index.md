@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈***欢迎各位同学加盟课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系。***</span>
+* *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
 * *12/30/2022* 祝贺刘向雨同学的工作“基于矩阵分解的多视图聚类研究”荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 * *12/23/2022* 祝贺周士璇同学的论文[“Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873)被Expert Systems With Applications录用！
 * *12/13/2022* 祝贺我们的论文“Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition”入选[2022年山东省人工智能年度优秀学术论文！](https://www.sdaai.org.cn/newsinfo/4771874.html)
@@ -154,5 +155,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/02/03**
+**更新时间：2022/02/14**
 
