@@ -144,17 +144,20 @@
 1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
 2. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 3. [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
-4. [多视图学习视频](https://ijcai20.org/t37/)
-5. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
-6. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
-7. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-8. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-9. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
-10. [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+4. 深度领域自适应（迁移学习）[Deep Visual Domain Adaption: A Survey](http://whdeng.cn/papers/18_Wang_Deng_DA_Survey.pdf)([PPT](http://whdeng.cn/papers/deep%20domain%20adaptation%20tutorial-small.pdf)，[讲解视频](https://www.bilibili.com/video/av39436440/?vd_source=58a570d89ed0d1807c63ea664e515390))
+5. 深度人脸识别（特征学习）[Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655) (PPT，[讲解视频](https://www.bilibili.com/video/av79606761/))
+6. 深度人脸表情识别（情感识别）[Deep Facial Expression Recognition: A Survey](https://arxiv.org/abs/1804.08348), [讲解视频](https://www.iqiyi.com/v_19rs8403ok.html)
+7. [多视图学习视频](https://ijcai20.org/t37/)
+8. [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
+9. [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+10. [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+11. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+12. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
+13. [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
 
 [↑Top](#Top)
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2022/02/19**
+**更新时间：2023/02/22**
 
