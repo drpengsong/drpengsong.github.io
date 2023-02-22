@@ -7,7 +7,7 @@
 
 <p style="width:970px;">
     <img src="./pictures/peng.jpg" align="right" width="180" hspace="5" vspace="5">
-目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息学院，先后在微软亚洲研究院、摩托罗拉等公司实习及工作。现为IEEE/IEICE/中国计算机学会/中国人工智能学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE Trans汇刊（TAC、TASLP、TCDS）、Speech Communication、Applied Acoustics、Expert Systems with Applications、Knowledge-Based Systems、Digital Signal Processing、电子学报、声学学报及重要国际学术会议ICASSP、INTERSPEECH、CIKM等。目前主要研究兴趣包括***[情感计算](https://baike.baidu.com/item/%E6%83%85%E6%84%9F%E8%AE%A1%E7%AE%97/8465023?fr=aladdin)、[模式识别](https://baike.baidu.com/item/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB)、语音信号处理、多模态数据分析***等。
+目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息学院，先后在微软亚洲研究院、摩托罗拉等公司实习及工作。现为IEEE/IEICE/中国计算机学会/中国人工智能学会会员，先后主持国家/省自然科学基金、教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE Trans汇刊（TAC、TASLP、TCDS）、Speech Communication、Applied Acoustics、Expert Systems with Applications、Knowledge-Based Systems、Digital Signal Processing、电子学报、声学学报及重要国际学术会议ICASSP、INTERSPEECH、CIKM等。目前主要研究兴趣包括***情感计算、模式识别、语音信号处理、多模态数据分析***等。
 </p>
 
 —————————————————————————————————————————————
