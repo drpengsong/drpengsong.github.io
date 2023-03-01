@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *02/16/2023* 祝贺李绍凯同学的论文“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition” 被ICASSP 2023录用！
+* *02/16/2023* 祝贺李绍凯同学的论文“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition” 被语音领域重要国际会议ICASSP 2023录用！
 * *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
 * *12/30/2022* 祝贺刘向雨同学的工作“基于矩阵分解的多视图聚类研究”荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 * *12/23/2022* 祝贺周士璇同学的论文[“Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873)被Expert Systems With Applications录用！
@@ -33,7 +33,7 @@
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
 * *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
-* *06/15/2022* 祝贺李绍凯同学的论文["Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html) 被Interspeech 2022录用！
+* *06/15/2022* 祝贺李绍凯同学的论文["Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html) 被语音领域重要国际会议Interspeech 2022录用！
 * *06/01/2022* 祝贺赵可可同学的论文["A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"](https://search.ieice.org/offprint/opdl.php?opk=afklmnqrtvx0138BEHIKLOPQRTUVWX)被IEICE TRANSACTIONS on Information and Systems录用！
 * *05/29/2022* 祝贺盛超、张雯婧同学顺利通过硕士学位论文答辩！
 * *05/13/2022* 祝贺张雯婧同学获得山东省优秀毕业生称号！
@@ -159,5 +159,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/02/22**
+**更新时间：2023/03/01**
 
