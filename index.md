@@ -132,13 +132,14 @@
 2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
 4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
-5. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-8. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
-9. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
-10. [师生关系大杂烩](https://frostliu.github.io/discussions)
-11. [AI会议Deadline](https://ccfddl.github.io/)
-12. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
-13. [机器学习相关博客](https://kailugaji.github.io/)
+5. [情感计算](https://news.sciencenet.cn/dz/upload/2021/4/202141554730409.pdf)
+6. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
+7. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
+8. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
+9. [师生关系大杂烩](https://frostliu.github.io/discussions)
+10. [AI会议Deadline](https://ccfddl.github.io/)
+11. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
+12. [机器学习相关博客](https://kailugaji.github.io/)
 
 ### **Open source**
 1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
@@ -159,5 +160,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/03/01**
+**更新时间：2023/03/04**
 
