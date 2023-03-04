@@ -65,6 +65,7 @@
 ## **获奖与荣誉**
 * *2022* IEEE计算机协会2020年情感计算汇刊（唯一）最佳论文奖 [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](./pictures/TAC_bestpaper.png), [官网链接](https://www.computer.org/publications/best-paper-award-winners)
 * *2022* 山东省人工智能自然科学奖二等奖[面向大规模、高维、流式大数据的高效异常检测方法研究](https://www.sdaai.org.cn/newsinfo/4492364.html)
+* *2021* 烟台大学科学技术进步二等奖[跨语种语音情感识别研究]()
 * *2021* 第十六届全国人机语音通讯学术会议最佳论文提名 [基于迁移回归的跨域语音情感识别](./pictures/ncmmsc_bestpaper_runnerup.png)
 * *2020* 山东省研究生优秀成果奖三等奖 [面向语音情感识别的迁移子空间学习方法研究](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
 
@@ -92,8 +93,8 @@
 2. [段萌](/groupmembers)，2022级，研究方向：多视图特征选择
 3. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别
 1. [刘涛](/groupmembers)，2021级，研究方向：基于回归迁移学习的跨域人脸表情识别研究 （一篇论文在审）
-2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （一篇论文在审）
-3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA论文一篇，一篇论文在审）
+2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （两篇论文在审）
+3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA论文一篇，两篇论文在审）
 4. [姜慎杰](/groupmembers)，2021级，研究方向：基于无监督迁移学习的语音情感识别 （一篇论文在审）
 5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （一篇论文在审）
 6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （一篇论文在审）
