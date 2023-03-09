@@ -130,7 +130,7 @@
 <span id = "Resources"> </span>
 ## **资源**
 ### **资料参考**
-1. [中国计算机学会推荐国际学术会议和期刊目录](/files/中国计算机学会推荐国际学术会议和期刊目录-2022.pdf)
+1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
 4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
