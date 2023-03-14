@@ -142,7 +142,7 @@
 10. [AI会议Deadline](https://ccfddl.github.io/)
 11. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 12. [机器学习相关博客](https://kailugaji.github.io/)
-
+13. [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
 ### **Open source**
 1. [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
 2. [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
@@ -162,5 +162,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/03/09**
+**更新时间：2023/03/14**
 
