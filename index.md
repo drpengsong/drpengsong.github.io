@@ -157,10 +157,11 @@
 11. [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 12. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
 13. [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+14. [DeepDG: Deep Domain Generalization Toolkit](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)
 
 [↑Top](#Top)
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/03/14**
+**更新时间：2023/03/15**
 
