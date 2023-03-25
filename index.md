@@ -1,3 +1,4 @@
+
  <span id = "Top"> </span>
  [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
@@ -13,8 +14,8 @@
 —————————————————————————————————————————————
 
 ## 基本信息
-**工作单位：** 烟台大学计算机与控制工程学院   
-**电子邮箱：** pengsongseu@gmail.com
+**工作单位：** 烟台大学计算机与控制工程学院
+**电子邮箱：** pengsongseu@gmail.com           
 **办公地址：** 山东省烟台市莱山区清泉路30号烟台大学综合楼633
 
 <span id = "News"> </span>
