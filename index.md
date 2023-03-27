@@ -76,7 +76,7 @@
 <span id = "Services"> </span>
 ## **社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2022、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022、计算机学报、中文信息学报、中国图形图象学报
+* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2023、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022、计算机学报、中文信息学报、中国图形图象学报
 ...
 
 <span id = "Students"> </span>
@@ -96,16 +96,16 @@
 1. [程远波](/groupmembers)，2022级，研究方向：视角缺失的多视图聚类
 2. [段萌](/groupmembers)，2022级，研究方向：多视图特征选择
 3. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别
-1. [刘涛](/groupmembers)，2021级，研究方向：基于回归迁移学习的跨域人脸表情识别研究 （一篇论文在审，一篇论文在投）
+1. [刘涛](/groupmembers)，2021级，研究方向：基于回归迁移学习的跨域人脸表情识别研究 （一篇论文大修，一篇论文在投）
 2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （两篇论文在审）
-3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA论文刊出一篇，两篇论文在审）
+3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA论文刊出一篇，一篇论文大修，一篇论文在审）
 4. [姜慎杰](/groupmembers)，2021级，研究方向：基于无监督迁移学习的语音情感识别 （一篇论文在审）
 5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （ESWA论文刊出一篇，一篇论文在审）
-6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （一篇论文在审，一篇论文在投）
+6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （一篇论文大修，一篇论文在投）
 1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（CCBR2021、IEICE论文各一篇,一篇论文在审）
-2. [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文在审）
+2. [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出一篇,一篇论文小修）
 3. [刘向雨](/groupmembers)，2020级，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA论文刊出一篇、DSP论文刊出两篇)
-4. [李绍凯](/groupmembers)，2020级，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、ICASSP 2023、Applied Acoustics、信号处理论文各一篇，一篇论文在审）
+4. [李绍凯](/groupmembers)，2020级，研究方向：基于迁移回归与子空间学习的语音情感识别（NCMMSC2021、Interspeech2022、ICASSP 2023、Applied Acoustics、信号处理论文各一篇，一篇论文大修）
 5. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、DSP论文刊出一篇)
 
 ### **毕业研究生**
@@ -166,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/03/25**
+**更新时间：2023/03/27**
 
