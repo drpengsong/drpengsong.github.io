@@ -22,7 +22,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *03/21/2023* 祝贺牟金帅同学的论文“Dual-graph Regularized Concept Factorization for Multi-view Clustering” 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
+* *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
 * *02/16/2023* 祝贺李绍凯同学的论文“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition” 被语音领域重要国际会议ICASSP 2023录用！
 * *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
 * *12/30/2022* 祝贺刘向雨同学的工作“基于矩阵分解的多视图聚类研究”荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
