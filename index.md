@@ -1,6 +1,6 @@
 
  <span id = "Top"> </span>
- [News](#News) | [Publications](#Publications)  | [Services](#Services)| [Students](#Students) | [Resources](#Resources) |
+ [新闻](#News) | [代表论文](#Publications)  | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 ***"Theory without Practice is empty; but Practice without Theory is blind" - Immanuel Kant***    
