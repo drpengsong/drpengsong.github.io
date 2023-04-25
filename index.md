@@ -22,6 +22,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *04/25/2023* 祝贺李绍凯、刘向雨分别获得山东省优秀毕业生、烟台大学优秀毕业生称号！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
 * *02/16/2023* 祝贺李绍凯同学的论文“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition” 被语音领域重要国际会议ICASSP 2023录用！
 * *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
@@ -85,10 +86,10 @@
 |:----|:----|
 |研究生国家奖学金|张伟建（2020）、刘向雨（2022）、李绍凯（2022）、姬亮（2022）|
 |山东省研究生优秀成果奖|张伟建（2020，三等奖）、刘向雨（2022，三等奖)|
-|山东省优秀毕业生|张雯婧（2022）|
+|山东省优秀毕业生|张雯婧（2022）、李绍凯（2023）|
 |山东省人工智能优秀硕士学位论文|陈栋梁（2022）|
 |烟台大学研究生优秀成果奖|张雯婧（2021，二等奖）|
-|烟台大学优秀毕业生|陈栋梁（2021）|
+|烟台大学优秀毕业生|陈栋梁（2021）、刘向雨（2023）|
 |学术论文奖|李绍凯（2021，NCMMSC最佳论文提名）|
 
 ### **在读研究生**
@@ -165,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/04/09**
+**更新时间：2023/04/25**
 
