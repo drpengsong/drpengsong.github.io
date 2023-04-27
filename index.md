@@ -22,6 +22,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *04/27/2023* 祝贺周世璇同学的论文Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”被Knowledge-Based Systems录用！
 * *04/26/2023* 祝贺姬亮同学的论文“Learning Transferable Non-negative Feature Representation for Facial Expression Recognition”被Digital Signal Processing录用！
 * *04/25/2023* 祝贺李绍凯、刘向雨分别获得山东省优秀毕业生、烟台大学优秀毕业生称号！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
@@ -99,7 +100,7 @@
 3. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别
 1. [刘涛](/groupmembers)，2021级，研究方向：基于回归迁移学习的跨域人脸表情识别研究 （一篇论文大修，一篇论文在投）
 2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （两篇论文在审）
-3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA论文刊出一篇，一篇论文大修，一篇论文在审）
+3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA、KBS论文各刊出一篇，一篇论文在审）
 4. [姜慎杰](/groupmembers)，2021级，研究方向：基于无监督迁移学习的语音情感识别 （一篇论文在审）
 5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （ESWA论文刊出一篇，一篇论文在审）
 6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （一篇论文大修，一篇论文在投）
@@ -167,5 +168,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/04/26**
+**更新时间：2023/04/27**
 
