@@ -1,4 +1,7 @@
 # PastNews
+* *01/23/2022* 祝贺刘向雨同学的论文["Robust Multi-view Non-negative Matrix Factorization for Clustering"](https://www.sciencedirect.com/science/article/pii/S1051200422000641)被Digital Signal Processing录用！
+* *01/12/2022* 祝贺姬亮同学的论文["Transferable Discriminative Non-negative Matrix Factorization for Cross-database Facial Expression Recognition"](https://www.sciencedirect.com/science/article/pii/S1051200422000410)被Digital Signal Processing录用！
+* *01/05/2022* 祝贺盛超同学的论文["Graph Regularized Virtual Label Regression for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422000100)被Digital Signal Processing录用！
 * *10/16/2021* 祝贺我们的论文“基于迁移回归的跨域语音情感识别”入选NCMMSC 2021优秀论文候选！
 * *10/14/2021* 祝贺盛超、张雯婧同学获得2021年一等学业奖学金！
 * *10/11/2021* 祝贺宋紫浩同学的论文"A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection"被IEICE TRANSACTIONS on Information and Systems录用！
