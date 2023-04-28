@@ -38,12 +38,7 @@
 * *09/30/2022* 祝贺陈栋梁同学的硕士学位论文“基于稀疏迁移学习的人脸表情识别”获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
 * *07/02/2022* 祝贺李绍凯同学的论文["Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition"](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author) 被Applied Acoustics(IF:3.614, 中科院SCI二区)录用！
-* *06/29/2022* 祝贺刘向雨、姬亮同学获得烟台大学2022年研究生科技创新基金支持！
-* *06/15/2022* 祝贺李绍凯同学的论文["Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html) 被语音领域重要国际会议Interspeech 2022录用！
-* *06/01/2022* 祝贺赵可可同学的论文["A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"](https://search.ieice.org/offprint/opdl.php?opk=afklmnqrtvx0138BEHIKLOPQRTUVWX)被IEICE TRANSACTIONS on Information and Systems录用！
-* *05/29/2022* 祝贺盛超、张雯婧同学顺利通过硕士学位论文答辩！
-* *05/13/2022* 祝贺张雯婧同学获得山东省优秀毕业生称号！
-* *04/16/2022* 祝贺张雯婧同学的论文["Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition"](https://ieeexplore.ieee.org/document/9761954) 被IEEE Transactions on Affective Computing录用！[*相关报道1*](https://www.ytu.edu.cn/info/1036/13102.htm), [*相关报道2*](https://mp.weixin.qq.com/s/rcdNT9XfexHVhT98-9ghyQ)
+
 
 [**更多新闻...**](/pastnews)
 
