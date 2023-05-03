@@ -22,7 +22,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *04/27/2023* 祝贺周世璇同学的论文Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”被Knowledge-Based Systems录用！
+* *04/27/2023* 祝贺周世璇同学的论文["Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/pii/S0950705123003519)被Knowledge-Based Systems录用！
 * *04/26/2023* 祝贺姬亮同学的论文“Learning Transferable Non-negative Feature Representation for Facial Expression Recognition”被Digital Signal Processing录用！
 * *04/25/2023* 祝贺李绍凯、刘向雨分别获得山东省优秀毕业生、烟台大学优秀毕业生称号！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
