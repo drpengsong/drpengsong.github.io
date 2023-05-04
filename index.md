@@ -56,6 +56,8 @@
 2040. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
 2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 2050. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
+2051. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 223, 110601.
+
 
 [**完整论文列表...**](/full-paper-list)  
 
@@ -160,5 +162,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/04/27**
+**更新时间：2023/05/04**
 
