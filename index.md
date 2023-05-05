@@ -157,6 +157,13 @@
 12. [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
 13. [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
 14. [DeepDG: Deep Domain Generalization Toolkit](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)
+### **Some Useful Tools**
+1. [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
+2. [Latex Table Convert](https://tableconvert.com/)
+3. [Latex Table Generator](https://www.tablesgenerator.com/)
+4. [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en)
+### **Books**
+1. [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
 
 [↑Top](#Top)
 
