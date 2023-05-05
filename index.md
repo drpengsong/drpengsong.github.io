@@ -130,19 +130,19 @@
 <span id = "Resources"> </span>
 ## **资源**
 ### **资料参考**
-1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-2. [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
-3. [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
-4. [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
-5. [情感计算](https://news.sciencenet.cn/dz/upload/2021/4/202141554730409.pdf)
-6. [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-7. [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
-8. [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
-9. [师生关系大杂烩](https://frostliu.github.io/discussions)
-10. [AI会议Deadline](https://ccfddl.github.io/)
-11. [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
-12. [机器学习相关博客](https://kailugaji.github.io/)
-13. [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
+* [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+* [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
+* [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
+* [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
+* [情感计算](https://news.sciencenet.cn/dz/upload/2021/4/202141554730409.pdf)
+* [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
+* [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
+* [如何做研究](http://www.jdl.ac.cn/how_to_research/index1_1.htm#1)
+* [师生关系大杂烩](https://frostliu.github.io/discussions)
+* [AI会议Deadline](https://ccfddl.github.io/)
+* [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
+* [机器学习相关博客](https://kailugaji.github.io/)
+* [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
 
 ### **Open source**
 * [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
