@@ -24,7 +24,7 @@
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
-* *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生)
+* *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
 * *04/27/2023* 祝贺周世璇同学的论文["Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/pii/S0950705123003519)被Knowledge-Based Systems录用！
 * *04/26/2023* 祝贺姬亮同学的论文“Learning Transferable Non-negative Feature Representation for Facial Expression Recognition”被Digital Signal Processing录用！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
@@ -35,7 +35,9 @@
 * *12/13/2022* 祝贺我们的论文“Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition”入选[2022年山东省人工智能年度优秀学术论文！](https://www.sdaai.org.cn/newsinfo/4771874.html)
 * *12/11/2022* 祝贺刘向雨同学的论文[“Virtual Label Guided Multi-view Non-negative  Matrix Factorization for Data Clustering”](https://www.sciencedirect.com/science/article/abs/pii/S105120042200505X)被Digital Signal Processing录用！
 * *11/15/2022* 祝贺李绍凯同学的论文[“基于迁移判别回归的跨域语音情感识别”](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XXCN20221124001&uniplatform=NZKPT&v=Gm2Rh2seRfbZJmBbvhVFeGHexNkNLeFcEjEWV3VUO0k4n6YQIsXpcz1bpX3QlmYn)被《信号处理》录用！
-* *10/20/2022* 祝贺[刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金](/files/关于颁发2022年研究生奖学金的决定.pdf)！[*相关报道*](https://mp.weixin.qq.com/s/X2ysqIOVWWbqz6AzhMIpTg)
+* *10/20/2022* 祝贺[刘向雨、李绍凯、姬亮获得2022年研究生国家奖学金](
+
+/关于颁发2022年研究生奖学金的决定.pdf)！[*相关报道*](https://mp.weixin.qq.com/s/X2ysqIOVWWbqz6AzhMIpTg)
 * *10/18/2022* 祝贺宋紫浩同学的论文[“Latent Energy Preserving Embedding for Unsupervised Feature Selection"](https://www.sciencedirect.com/science/article/pii/S1051200422004110)被Digital Signal Processing录用！
 * *09/30/2022* 祝贺陈栋梁同学的硕士学位论文“基于稀疏迁移学习的人脸表情识别”获得[2022年度山东省人工智能优秀学位论文！](https://www.sdaai.org.cn/newsinfo/4360945.html)
 * *08/04/2022* 祝贺刘向雨同学的论文["Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization"](https://www.sciencedirect.com/science/article/pii/S0957417422015159) 被Expert Systems With Applications（IF:8.665，中科院SCI一区）录用！
