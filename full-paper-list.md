@@ -28,8 +28,7 @@
 9. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenjing Zhang, Wenming Zheng.["A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"](https://search.ieice.org/offprint/opdl.php?opk=afklmnqrtvx0138BEHIKLOPQRTUVWX). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (9), 1643-1646.
 10. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
 11. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. [A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_175&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 184-188.
-12. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. 2021, 37 (9): 1701-1708.
-13. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
+
 
 **2021年**
 
@@ -38,6 +37,8 @@
 3.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 4.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 5.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
+6. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. 2021, 37 (9): 1701-1708.
+7. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
 
 **2020年**
 
