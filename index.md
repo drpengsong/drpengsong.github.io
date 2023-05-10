@@ -142,7 +142,7 @@
 * [AI会议Deadline](https://ccfddl.github.io/)
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 * [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
-* 如何努力成为一个Top Ph.D. Student(https://github.com/pengsida/learning_research)
+* [如何努力成为一个Top Ph.D. Student](https://github.com/pengsida/learning_research)
 
 ### **Open source**
 * [机器学习相关博客](https://kailugaji.github.io/)
