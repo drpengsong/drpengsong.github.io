@@ -8,8 +8,8 @@
 **2023年**
 
 1. Tao Liu#,  <u>Peng Song*</u>, Liang Ji, Shaokai Li. Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition. ***Digital Signal Processing*** 2023 (**Accepted**)
-2. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 223, 110601.
-3. Liang Ji#, <u>Peng Song*</u>, Wenjing Zhang, Shaokai Li. Learning Transferable Non-negative Feature Representation for Facial Expression Recognition. ***Digital Signal Processing*** 2023 (**Accepted**)
+2. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 272, 110601.
+3. Liang Ji#, <u>Peng Song*</u>, Wenjing Zhang, Shaokai Li. [Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550). ***Digital Signal Processing*** 2023, 139, 104060.
 4. Jinshuai Mu#,  <u>Peng Song*</u>, Xiangyu Liu, Shaokai Li. [Dual-graph Regularized Concept Factorization for Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0957417423004517). ***Expert Systems With Applications*** 2023, 223, 119949.
 5. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
 6. Xiangyu Liu#, <u>Peng Song*</u>. [Virtual label guided multi-view non-negative matrix factorization for data clustering](https://www.sciencedirect.com/science/article/pii/S105120042200505X). ***Digital Signal Processing*** 2023, 133, 103888.
