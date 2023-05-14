@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *05/14/2023* 祝贺王润同学的论文“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”被IEEE Transactions on Computational Social Systems录用！
 * *05/10/2023* 祝贺刘涛同学的论文“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
@@ -174,5 +175,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/05/10**
+**更新时间：2023/05/14**
 
