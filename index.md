@@ -24,7 +24,7 @@
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
 * *04/27/2023* 祝贺周世璇同学的论文["Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/pii/S0950705123003519)被Knowledge-Based Systems录用！
-* *04/26/2023* 祝贺姬亮同学的论文“Learning Transferable Non-negative Feature Representation for Facial Expression Recognition”被Digital Signal Processing录用！
+* *04/26/2023* 祝贺姬亮同学的论文“[Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550)”被Digital Signal Processing录用！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
 * *02/16/2023* 祝贺李绍凯同学的论文“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition” 被语音领域重要国际会议ICASSP 2023录用！
 * *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
