@@ -3,8 +3,6 @@
 ## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
 
-<span style="color:blue;">**期刊论文**</span>
-
 **2023年**
 
 1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](). ***IEEE Transactions on Computational Social Systems***. 2023. (Accepted)
@@ -15,6 +13,8 @@
 6. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
 7. Xiangyu Liu#, <u>Peng Song*</u>. [Virtual label guided multi-view non-negative matrix factorization for data clustering](https://www.sciencedirect.com/science/article/pii/S105120042200505X). ***Digital Signal Processing*** 2023, 133, 103888.
 8. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
+9. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. (Accepted) 
+
 
 **2022年**
 
@@ -29,7 +29,7 @@
 9. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenjing Zhang, Wenming Zheng.["A novel Adaptive Weighted Transfer Subspace Learning Method for Cross-database Speech Emotion Recognition"](https://search.ieice.org/offprint/opdl.php?opk=afklmnqrtvx0138BEHIKLOPQRTUVWX). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (9), 1643-1646.
 10. Wenjing Zhang#, <u>Peng Song*</u>, Wenming Zheng.[ A Novel Transferable Sparse Regression Method for Cross-database Facial Expression Recognition](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_184&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 175-179.
 11. Zihao Song#, <u>Peng Song*</u>, Chao Sheng, Wenming Zheng, Wenjing Zhang, Shaokai Li. [A Novel Discriminative Virtual Label Regression Method for Unsupervised Feature Selection](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2022&fname=e105-d_1_175&abst=). ***IEICE TRANSACTIONS on Information and Systems***, 2022, E105–D (1), 184-188.
-
+12. Shaokai Li#, <u>Peng Song*</u>, Keke  Zhao, Wenjing Zhang, Wenming Zheng. [Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html). In: **INTERSPEECH** 2022,  Incheon, Korea, 4695-4699. [Video](https://drive.google.com/file/d/1XWaNn5Y3Fi3UNhmFMJRfIXnECdKw0KCV/view?usp=sharing) [Poster](https://drive.google.com/file/d/1mnhH3AZR3vuJublIzf5898VbCKDS2HCQ/view?usp=sharing)
 
 **2021年**
 
@@ -40,6 +40,8 @@
 5.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
 6. 盛超#, <u>宋鹏*</u>, 郑文明, 赵力. [基于子空间学习和伪标签回归的无监督特征选择](https://scjg.cnki.net/kcms/detail/detail.aspx?filename=XXCN20210528001&dbcode=CJFQ&dbname=CAPJ2021&v=). **信号处理**. 2021, 37 (9): 1701-1708.
 7. 张雯婧#, <u>宋鹏*</u>, 陈栋梁, 郑文明, 赵力. [基于稀疏子空间迁移学习的跨域人脸表情识别](https://sjcj.nuaa.edu.cn/ch/reader/create_pdf.aspx?file_no=202101011&flag=1&journal_id=sjcjycl&year_id=2021). **数据采集与处理**. 2021, 36(1):113-121.
+8. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国. （最佳论文提名）
+9. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.[Video](./files/paper_37.mp4), [Slides](./files/ccbr-zhaokeke.pptx)
 
 **2020年**
 
@@ -50,6 +52,8 @@
 5. Kai Chen#, Yanwei Yu, <u>Peng Song</u>, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data. ***Knowledge-Based Systems***, 2020, 196: 105766.
 6. Dongliang Chen#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Bingui Xu, Xuan Zhou. Robust Transferable Subspace Learning for Cross-Corpus Facial Expression Recognition. ***IEICE TRANSACTIONS on Information and Systems***, 2020, E-103D: 2241-2245. 
 7. 欧世峰, 赵艳磊, <u>宋鹏</u>,  高颖. 基于概率耦合的双直接判决先验信噪比估计算法. **电子学报**. 2020, 48(8), 1605-1614.
+8. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
+9. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2020**). 
 
 **2020年之前**
 
@@ -62,28 +66,8 @@
 7. <u>宋鹏</u>, 郑文明, 赵力. 基于特征迁移学习方法的跨库语音情感识别, **清华大学学报(自然科学版)**,  2016, 56 (11): 1179-1183.
 8. 金赟, <u>宋鹏</u>, 郑文明, 赵力. 半监督判别分析的跨库语音情感识别. **声学学报**, 2015, 40(1): 20-27. 
 9. <u>宋鹏</u>，王浩，赵力. 基于混合Gauss归一化的语音转换算法, **清华大学学报（自然科学版）**, 2013, 53(6):757-761. 
-
-<span style="color:blue;">**会议论文**</span>
-
-1. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. (Accepted) 
-2.  Shaokai Li#, <u>Peng Song*</u>, Keke  Zhao, Wenjing Zhang, Wenming Zheng. [Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html). In: **INTERSPEECH** 2022,  Incheon, Korea, 4695-4699. [Video](https://drive.google.com/file/d/1XWaNn5Y3Fi3UNhmFMJRfIXnECdKw0KCV/view?usp=sharing) [Poster](https://drive.google.com/file/d/1mnhH3AZR3vuJublIzf5898VbCKDS2HCQ/view?usp=sharing)
-3. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国. （最佳论文提名）
-4. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.[Video](./files/paper_37.mp4), [Slides](./files/ccbr-zhaokeke.pptx)
-5. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
-6. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2020**). 
-7. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2018**), Calgary, Canada, 2018, 5504-5508。
-8. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. **ICASSP** 2016，Shanghai, China, 2016. 
-9. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: **INTERSPEECH** 2014,  Singapore. 2308-2312, 2014. 
-10. Yun Jin,<u>Peng Song*</u>, Wenming Zheng, et al. A feature selection and feature fusion combination method for speaker-independent speech emotion recognition. **ICASSP** 2014. 2014, Florence, Italy. 4841-4845.
-11. <u>Peng Song*</u>, Wenming Zheng, Li Zhao. Non-parallel training for voice conversion based on adaptation method. **ICASSP** 2013. 2013, Vancovour, Canada. 6905-6909.
-). In: **ICASSP** 2023, Rhodes island, Greece. (Accepted) 
-2.  Shaokai Li#, <u>Peng Song*</u>, Keke  Zhao, Wenjing Zhang, Wenming Zheng. [Coupled Discriminant Subspace Alignment for Cross-database Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2022/li22_interspeech.html). In: **INTERSPEECH** 2022,  Incheon, Korea, 4695-4699. [Video](https://drive.google.com/file/d/1XWaNn5Y3Fi3UNhmFMJRfIXnECdKw0KCV/view?usp=sharing) [Poster](https://drive.google.com/file/d/1mnhH3AZR3vuJublIzf5898VbCKDS2HCQ/view?usp=sharing)
-3. 李绍凯#, <u>宋鹏*</u>, 张雯婧, 郑文明, 赵力. 基于迁移回归的跨域语音情感识别. 全国人机语音通讯学术会议 (**NCMMSC2021**), 徐州, 中国. （最佳论文提名）
-4. Keke  Zhao#, <u>Peng Song*</u>, Wenjing Zhang, Weijian Zhang, Shaokai Li, Dongliang Chen, Wenming Zheng. Cross-corpus Speech Emotion Recognition Based on Sparse Subspace Transfer Learning. Chinese Conference on Biometrics Recognition (**CCBR2021**), Shanghai, China, 2021, 466–473.[Video](./files/paper_37.mp4), [Slides](./files/ccbr-zhaokeke.pptx)
-5. Zhijun Liu#, Chao Huang, Yanwei Yu, <u>Peng Song</u>, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020
-6. Jianian Li#, Yanwei Yu, <u>Peng Song</u>, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV 2020**). 
-7. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2018**), Calgary, Canada, 2018, 5504-5508。
-8. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. **ICASSP** 2016，Shanghai, China, 2016. 
-9. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: **INTERSPEECH** 2014,  Singapore. 2308-2312, 2014. 
-10. Yun Jin,<u>Peng Song*</u>, Wenming Zheng, et al. A feature selection and feature fusion combination method for speaker-independent speech emotion recognition. **ICASSP** 2014. 2014, Florence, Italy. 4841-4845.
-11. <u>Peng Song*</u>, Wenming Zheng, Li Zhao. Non-parallel training for voice conversion based on adaptation method. **ICASSP** 2013. 2013, Vancovour, Canada. 6905-6909.
+10. <u>Peng Song*</u>, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, Yanwei Yu. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2018**), Calgary, Canada, 2018, 5504-5508。
+11. <u>Peng Song*</u>, Shifeng Ou, Wenming Zheng, et al. Speech Emotion Recognition Using Transfer Non-negative Matrix Factorization. **ICASSP** 2016，Shanghai, China, 2016. 
+12. <u>Peng Song*</u>, Yun Jin, Wenming Zheng, et al. Text-independent voice conversion using speaker model alignment method from non-parallel speech. In: **INTERSPEECH** 2014,  Singapore. 2308-2312, 2014. 
+13. Yun Jin,<u>Peng Song*</u>, Wenming Zheng, et al. A feature selection and feature fusion combination method for speaker-independent speech emotion recognition. **ICASSP** 2014. 2014, Florence, Italy. 4841-4845.
+14. <u>Peng Song*</u>, Wenming Zheng, Li Zhao. Non-parallel training for voice conversion based on adaptation method. **ICASSP** 2013. 2013, Vancovour, Canada. 6905-6909.
