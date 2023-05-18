@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *05/18/2023* 祝贺姜慎杰、赵可可的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
 * *05/14/2023* 祝贺王润同学的论文“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”被IEEE Transactions on Computational Social Systems录用！
 * *05/10/2023* 祝贺刘涛同学的论文“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
