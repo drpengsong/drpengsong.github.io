@@ -22,7 +22,7 @@
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
 * *05/18/2023* 祝贺姜慎杰同学的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、赵可可同学的论文“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
 * *05/14/2023* 祝贺王润同学的论文“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”被IEEE Transactions on Computational Social Systems录用！
-* *05/10/2023* 祝贺刘涛同学的论文“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”被Digital Signal Processing录用！
+* *05/10/2023* 祝贺刘涛同学的论文[“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”](https://www.sciencedirect.com/science/article/pii/S105120042300177X)被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
 * *04/27/2023* 祝贺周世璇同学的论文["Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/pii/S0950705123003519)被Knowledge-Based Systems录用！
