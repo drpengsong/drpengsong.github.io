@@ -21,7 +21,7 @@
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
 * *05/18/2023* 祝贺姜慎杰同学的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、赵可可同学的论文“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
-* *05/14/2023* 祝贺王润同学的论文“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”被IEEE Transactions on Computational Social Systems录用！
+* *05/14/2023* 祝贺王润同学的论文[“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”](https://ieeexplore.ieee.org/document/10137555)被IEEE Transactions on Computational Social Systems录用！
 * *05/10/2023* 祝贺刘涛同学的论文[“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”](https://www.sciencedirect.com/science/article/pii/S105120042300177X)被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
@@ -47,7 +47,7 @@
 <span id = "Publications"> </span>
 ## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>）
 \# 学生，\* 通讯作者
-1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](). ***IEEE Transactions on Computational Social Systems***. 2023. (Accepted)
+1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. (Accepted)
 2. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 3.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
 7. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
@@ -177,5 +177,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/05/14**
+**更新时间：2023/05/30**
 
