@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2023年**
-1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](). ***IEEE Transactions on Computational Social Systems***. 2023. (Accepted)
+1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. (Accepted)
 2. Tao Liu#,  <u>Peng Song*</u>, Liang Ji, Shaokai Li. [Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S105120042300177X). ***Digital Signal Processing*** 2023 (**Accepted**)
 3. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 272, 110601.
 4. Liang Ji#, <u>Peng Song*</u>, Wenjing Zhang, Shaokai Li. [Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550). ***Digital Signal Processing*** 2023, 139, 104060.
