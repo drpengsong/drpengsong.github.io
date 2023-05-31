@@ -4,17 +4,18 @@
 \# 学生，\* 通讯作者
 
 **2023年**
-1. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. Doi:10.1109/TCSS.2023.3276990.
-2. Tao Liu#,  <u>Peng Song*</u>, Liang Ji, Shaokai Li. [Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S105120042300177X). ***Digital Signal Processing*** 2023, 139, 104082.
-3. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 272, 110601.
-4. Liang Ji#, <u>Peng Song*</u>, Wenjing Zhang, Shaokai Li. [Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550). ***Digital Signal Processing*** 2023, 139, 104060.
-5. Jinshuai Mu#,  <u>Peng Song*</u>, Xiangyu Liu, Shaokai Li. [Dual-graph Regularized Concept Factorization for Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0957417423004517). ***Expert Systems With Applications*** 2023, 223, 119949.
-6. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
-7. Xiangyu Liu#, <u>Peng Song*</u>. [Virtual label guided multi-view non-negative matrix factorization for data clustering](https://www.sciencedirect.com/science/article/pii/S105120042200505X). ***Digital Signal Processing*** 2023, 133, 103888.
-8. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
-9. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
-10. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
-11. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. 
+1. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
+2. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. Doi:10.1109/TCSS.2023.3276990.
+3. Tao Liu#,  <u>Peng Song*</u>, Liang Ji, Shaokai Li. [Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S105120042300177X). ***Digital Signal Processing*** 2023, 139, 104082.
+4. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 272, 110601.
+5. Liang Ji#, <u>Peng Song*</u>, Wenjing Zhang, Shaokai Li. [Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550). ***Digital Signal Processing*** 2023, 139, 104060.
+6. Jinshuai Mu#,  <u>Peng Song*</u>, Xiangyu Liu, Shaokai Li. [Dual-graph Regularized Concept Factorization for Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0957417423004517). ***Expert Systems With Applications*** 2023, 223, 119949.
+7. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
+8. Xiangyu Liu#, <u>Peng Song*</u>. [Virtual label guided multi-view non-negative matrix factorization for data clustering](https://www.sciencedirect.com/science/article/pii/S105120042200505X). ***Digital Signal Processing*** 2023, 133, 103888.
+9. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
+10. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
+11. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
+12. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. 
 
 
 **2022年**
@@ -34,8 +35,7 @@
 
 **2021年**
 
-1. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2021, Doi:10.1109/TAFFC.2021.3077489
-2. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
+1. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353.
 3.  Chao Sheng#,  <u>Peng Song*</u>,  Weijian Zhang, Dongliang Chen. [Dual-graph Regularized  Subspace Learning Based  Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S1051200421002141). ***Digital Signal Processing*** 2021, 117:103175. 
 4.  Wenjing Zhang#, <u>Peng Song*</u>, Dongliang Chen, Weijian Zhang. [Latent Sparse Transfer Subspace Learning for  Cross-Corpus Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200421001603). ***Digital Signal Processing*** 2021, 116:103121.
 5.  Dongliang Chen#, <u>Peng Song*</u>. [Dual-Graph Regularized Discriminative Transfer Sparse Coding for Facial Expression Recognition](https://reader.elsevier.com/reader/sd/pii/S1051200420302517?token=E4F4114F27BC1B106D358850CAEBE3B66BA3D8BDBCE921A09E0BA4B6F1DF555F5B0052655DCFE3542684697252025B96). ***Digital Singal Processing*** 2021, 108, 102906.
