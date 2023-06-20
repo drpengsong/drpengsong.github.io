@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2023年**
-1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023 (Accepted)
+1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 10.1109/TASLP.2023.3288415.
 2. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
 3. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. Doi:10.1109/TCSS.2023.3276990.
 4. Tao Liu#,  <u>Peng Song*</u>, Liang Ji, Shaokai Li. [Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S105120042300177X). ***Digital Signal Processing*** 2023, 139, 104082.
