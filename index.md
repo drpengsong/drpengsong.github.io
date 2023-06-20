@@ -48,7 +48,7 @@
 <span id = "Publications"> </span>
 ## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>）
 \# 学生，\* 通讯作者
-1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023 (Accepted)
+1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023. 10.1109/TASLP.2023.3288415
 2. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. 10.1109/TCSS.2023.3276990.
 3. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630).  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
 4. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
