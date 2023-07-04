@@ -13,17 +13,16 @@
 7. Jinshuai Mu#,  <u>Peng Song*</u>, Xiangyu Liu, Shaokai Li. [Dual-graph Regularized Concept Factorization for Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0957417423004517). ***Expert Systems With Applications*** 2023, 223, 119949.
 8. Shixuan Zhou#,  <u>Peng Song*</u>, Zihao Song, Liang Ji. [Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873). ***Expert Systems With Applications*** 2023, 216, 119468.
 9. Xiangyu Liu#, <u>Peng Song*</u>. [Virtual label guided multi-view non-negative matrix factorization for data clustering](https://www.sciencedirect.com/science/article/pii/S105120042200505X). ***Digital Signal Processing*** 2023, 133, 103888.
-10. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
-11. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
-12. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
-13. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. 
+10. 3. Zihao Song#, <u>Peng Song*</u>, [Latent Energy Preserving Embedding for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422004110). ***Digital Signal Processing***, 2023, 132, 103794.
+11. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
+12. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
+13. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition. In: **INTERSPEECH** 2023, Dublin, Ireland. (Accepted)
+14. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. 
 
 
 **2022年**
-
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
 2.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. [Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression](https://ieeexplore.ieee.org/document/9340391/). ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598.
-3. Zihao Song#, <u>Peng Song*</u>, [Latent Energy Preserving Embedding for Unsupervised Feature Selection](https://www.sciencedirect.com/science/article/pii/S1051200422004110). ***Digital Signal Processing***, 2022, 132, 103794.
 4. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 5. Shaokai Li#, <u>Peng Song*</u>, Wenjing Zhang. [Transferable Discriminant Linear Regression for Cross-corpus Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S0003682X22002936?dgcid=author). ***Applied Acoustics*** 2022, 197:108919.
 6. Xiangyu Liu#, <u>Peng Song*</u>, Chao Sheng, Wenjing Zhang. [Robust Multi-view Non-negative Matrix Factorization for Clustering](https://www.sciencedirect.com/science/article/pii/S1051200422000641). ***Digital Signal Processing*** 2022, 123:103447.
