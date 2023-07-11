@@ -20,6 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *07/11/2023* 祝贺实验室项目获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作[“Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://ieeexplore.ieee.org/abstract/document/10158502)被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
 * *05/18/2023* 祝贺姜慎杰同学的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、赵可可同学的论文“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
 * *05/14/2023* 祝贺王润同学的论文[“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”](https://ieeexplore.ieee.org/document/10137555)被IEEE Transactions on Computational Social Systems录用！
@@ -30,7 +31,7 @@
 * *04/26/2023* 祝贺姬亮同学的论文“[Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550)”被Digital Signal Processing录用！
 * *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
 * *02/16/2023* 祝贺李绍凯同学的论文[“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition”](https://ieeexplore.ieee.org/document/10097258) 被语音领域重要国际会议ICASSP 2023录用！
-* *02/10/2023* 祝贺实验室项目“基于知识迁移的跨语种语音情感识别研究”获得省部共建藏语智能信息处理及应用国家重点实验室开放基金支持！
+* *02/10/2023* 祝贺实验室获批藏语智能信息处理及应用国家重点实验室开放基金项目！
 * *12/30/2022* 祝贺刘向雨同学的工作“基于矩阵分解的多视图聚类研究”荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 * *12/23/2022* 祝贺周士璇同学的论文[“Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873)被Expert Systems With Applications录用！
 * *12/13/2022* 祝贺我们的论文“Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition”入选[2022年山东省人工智能年度优秀学术论文！](https://www.sdaai.org.cn/newsinfo/4771874.html)
