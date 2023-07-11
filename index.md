@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *07/11/2023* 祝贺实验室获批山东省自然科学基金面上项目！
+* *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作[“Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://ieeexplore.ieee.org/abstract/document/10158502)被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
 * *05/18/2023* 祝贺姜慎杰同学的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、赵可可同学的论文“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
 * *05/14/2023* 祝贺王润同学的论文[“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”](https://ieeexplore.ieee.org/document/10137555)被IEEE Transactions on Computational Social Systems录用！
@@ -77,7 +77,7 @@
 <span id = "Services"> </span>
 ## **社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Expert Systems With Applications、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2023、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
+* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Expert Systems With Applications、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2023、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022、ICONIP 2023、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
 
 <span id = "Students"> </span>
 ## **指导学生**
@@ -184,5 +184,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/06/27**
+**更新时间：2023/07/11**
 
