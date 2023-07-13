@@ -93,11 +93,11 @@
 |学术论文奖|李绍凯（2021，NCMMSC最佳论文提名）|
 
 ### **在读研究生**
-1. [万星鑫](/groupmembers), 2023级，研究方向：人脸表情识别
-2. [符思琦](/groupmembers), 2023级，研究方向：语音情感识别、多模态情感识别
-3. [杜光昊](/groupmembers), 2023级，研究方向：多视图聚类
-4. [王昌家](/groupmembers), 2023级，研究方向：多视图特征选择
-5. [杨蓓华](/groupmembers), 2023级，研究方向：多视图聚类
+1. [万星鑫](/groupmembers), 2023级，拟研究方向：人脸表情识别
+2. [符思琦](/groupmembers), 2023级，拟研究方向：语音情感识别、多模态情感识别
+3. [杜光昊](/groupmembers), 2023级，拟研究方向：多视图聚类
+4. [王昌家](/groupmembers), 2023级，拟研究方向：多视图特征选择
+5. [杨蓓华](/groupmembers), 2023级，拟研究方向：多视图聚类
 6. [程远波](/groupmembers)，2022级，研究方向：视角缺失的多视图聚类
 7. [段萌](/groupmembers)，2022级，研究方向：多视图特征选择
 8. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别
@@ -184,5 +184,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/07/11**
+**更新时间：2023/07/13**
 
