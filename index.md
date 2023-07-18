@@ -141,7 +141,7 @@
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 * [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
 * [如何努力成为一个Top Ph.D. Student](https://github.com/pengsida/learning_research)
-* [论文写作](http://www.isee-ai.cn/~zhwshi/writing.pdf)
+* [论文写作](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
 ### **Open source**
 * [机器学习相关博客](https://kailugaji.github.io/)
