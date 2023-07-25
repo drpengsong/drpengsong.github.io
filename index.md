@@ -1,5 +1,6 @@
 
 
+
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
@@ -41,7 +42,7 @@
 <span id = "Publications"> </span>
 ## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>）
 \# 学生，\* 通讯作者
-1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://ieeexplore.ieee.org/document/10158502). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. [code](https://github.com/shaokai1209/MDSA)
+1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://ieeexplore.ieee.org/document/10158502). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. [<font color="#dd0000">code</font><br />]( https://github.com/JSMMu/TCLIMC)(https://github.com/shaokai1209/MDSA)
 2. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. 10.1109/TCSS.2023.3276990.
 3. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630).  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
 4. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. [Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition](https://ieeexplore.ieee.org/document/9761954). ***IEEE Transactions on Affective Computing***. 2022. Doi:10.1109/TAFFC.2022.3168834.
@@ -53,7 +54,7 @@
 2039. <u>Peng Song*</u>. [Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/document/7931593).  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019.
 2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 2051. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 223, 110601.
-2052. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications***  [code]( https://github.com/JSMMu/TCLIMC)
+2052. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications***  [<font color="#dd0000">code</font><br />]( https://github.com/JSMMu/TCLIMC)
 
 
 [**完整论文列表...**](/full-paper-list)  
@@ -179,5 +180,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/07/22**
+**更新时间：2023/07/25**
 
