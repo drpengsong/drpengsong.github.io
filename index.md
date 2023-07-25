@@ -20,7 +20,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"]()被Expert Systems With Applications录用！
+* *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4)被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作[“Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://ieeexplore.ieee.org/abstract/document/10158502)被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
 * *05/18/2023* 祝贺姜慎杰同学的论文“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”、赵可可同学的论文“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”被Interspeech 2023录用！
