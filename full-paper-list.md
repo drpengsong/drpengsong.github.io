@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2023年**
-1. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications*** 
+1. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications*** 2023, 234, 121013.
 2. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10158502). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460.
 3. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630). ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
 4. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. Doi:10.1109/TCSS.2023.3276990.
