@@ -132,6 +132,9 @@
 <span id = "Resources"> </span>
 ## **资源**
 ### **资料参考**
+* [论文写作与科研入门](/writing)
+* [开源资料](/open_source)
+* [工具](/tools)
 * [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 * [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
@@ -139,13 +142,6 @@
 * [师生关系大杂烩](https://frostliu.github.io/discussions)
 * [AI会议Deadline](https://ccfddl.github.io/)
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
-* [论文写作与科研入门](/writing)
-
-### **Open source**
-* [开源资料](/open_source)
-
-### **Some Useful Tools**
-* [工具](/tools)
 
 ### **Books**
 * [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
