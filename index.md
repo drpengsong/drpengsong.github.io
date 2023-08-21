@@ -142,26 +142,7 @@
 * [论文写作与科研入门](/writing)
 
 ### **Open source**
-* [机器学习相关博客](https://kailugaji.github.io/)
-* [60分钟了解PyTorch](https://www.chamwen.com/2020/09/08/tool_pytorch/)
-* [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
-* [PyTorch实现的SOTA图像分类器模型集](https://github.com/sithu31296/sota-backbones)
-* [各种注意力机制的PyTorch实现](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
-* [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
-* 深度领域自适应（迁移学习）[Deep Visual Domain Adaption: A Survey](http://whdeng.cn/papers/18_Wang_Deng_DA_Survey.pdf)([PPT](http://whdeng.cn/papers/deep%20domain%20adaptation%20tutorial-small.pdf)，[讲解视频](https://www.bilibili.com/video/av39436440/?vd_source=58a570d89ed0d1807c63ea664e515390))
-* 深度人脸识别（特征学习）[Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655) (PPT，[讲解视频](https://www.bilibili.com/video/av79606761/))
-* 深度人脸表情识别（情感识别）[Deep Facial Expression Recognition: A Survey](https://arxiv.org/abs/1804.08348), [讲解视频](https://www.iqiyi.com/v_19rs8403ok.html)
-* [多视图学习视频](https://ijcai20.org/t37/)
-* [情感计算](https://news.sciencenet.cn/dz/upload/2021/4/202141554730409.pdf)
-* [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
-* [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
-* [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
-* [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
-*  [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-*  [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-*  [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
-*  [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
-*  [DeepDG: Deep Domain Generalization Toolkit](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)
+* [开源资料](/open_source)
 
 ### **Some Useful Tools**
 * [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
