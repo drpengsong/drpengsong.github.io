@@ -145,10 +145,7 @@
 * [开源资料](/open_source)
 
 ### **Some Useful Tools**
-* [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
-* [Latex Table Convert](https://tableconvert.com/)
-* [Latex Table Generator](https://www.tablesgenerator.com/)
-* [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en)
+*[工具](/tools)
 
 ### **Books**
 * [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
