@@ -1,3 +1,5 @@
+<span id = "open_source"> </span>
+## **开源** 
 * [动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 * [PyTorch实现的SOTA图像分类器模型集](https://github.com/sithu31296/sota-backbones)
 * [各种注意力机制的PyTorch实现](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
