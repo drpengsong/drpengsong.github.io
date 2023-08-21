@@ -145,7 +145,7 @@
 * [开源资料](/open_source)
 
 ### **Some Useful Tools**
-*[工具](/tools)
+* [工具](/tools)
 
 ### **Books**
 * [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
