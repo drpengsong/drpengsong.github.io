@@ -139,7 +139,7 @@
 * [师生关系大杂烩](https://frostliu.github.io/discussions)
 * [AI会议Deadline](https://ccfddl.github.io/)
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
-* [论文写作](/writing)
+* [论文写作与科研入门](/writing)
 
 ### **Open source**
 * [机器学习相关博客](https://kailugaji.github.io/)
