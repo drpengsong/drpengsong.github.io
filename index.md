@@ -1,6 +1,4 @@
 
-
-
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
 # 宋鹏 (<a href="/index-en.html">Peng Song</a>)  
@@ -141,6 +139,7 @@
 * [师生关系大杂烩](https://frostliu.github.io/discussions)
 * [AI会议Deadline](https://ccfddl.github.io/)
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
+* [论文写作](/writing)
 * [学术研究入门](https://dl.ccf.org.cn/albumList/6173671945340928?_ack=1)
 * [如何努力成为一个Top Ph.D. Student](https://github.com/pengsida/learning_research)
 * [论文写作](https://github.com/MLNLP-World/Paper-Writing-Tips)
