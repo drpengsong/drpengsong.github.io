@@ -10,4 +10,11 @@
 *  [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
 *  [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
 *  [DeepDG: Deep Domain Generalization Toolkit](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG)
-  
+* [迁移学习](https://github.com/jindongwang/transferlearning), [学习视频](https://www.bilibili.com/video/BV1nY411E7Uc/?spm_id_from=333.788)
+* 深度领域自适应（迁移学习）[Deep Visual Domain Adaption: A Survey](http://whdeng.cn/papers/18_Wang_Deng_DA_Survey.pdf)([PPT](http://whdeng.cn/papers/deep%20domain%20adaptation%20tutorial-small.pdf)，[讲解视频](https://www.bilibili.com/video/av39436440/?vd_source=58a570d89ed0d1807c63ea664e515390))
+* 深度人脸识别（特征学习）[Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655) (PPT，[讲解视频](https://www.bilibili.com/video/av79606761/))
+* 深度人脸表情识别（情感识别）[Deep Facial Expression Recognition: A Survey](https://arxiv.org/abs/1804.08348), [讲解视频](https://www.iqiyi.com/v_19rs8403ok.html)
+* [多视图学习视频](https://ijcai20.org/t37/)
+* [情感计算](https://news.sciencenet.cn/dz/upload/2021/4/202141554730409.pdf)
+* [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
+* [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
