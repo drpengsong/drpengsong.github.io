@@ -19,7 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"]()被Expert Systems With Applications录用！
+* *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"]( )被Expert Systems With Applications录用！
 * *08/27/2023* 祝贺张雯婧学位论文“基于迁移学习的跨域人脸表情识别研究”获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
 * *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4)被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
@@ -55,6 +55,7 @@
 2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 2051. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 223, 110601.
 2052. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications*** 2023, 234, 121013. [<font color="#dd0000">code</font><br />]( https://github.com/JSMMu/TCLIMC)
+2053. Zhaohu Liu#,  <u>Peng Song*</u>. [Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering]. ***Expert Systems With Applications*** 2023 (Accepted)
 
 
 [**完整论文列表...**](/full-paper-list)  
@@ -152,5 +153,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/09/03**
+**更新时间：2023/09/08**
 
