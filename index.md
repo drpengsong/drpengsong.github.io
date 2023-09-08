@@ -19,7 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"])被Expert Systems With Applications录用！
+* *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"]()被Expert Systems With Applications录用！
 * *08/27/2023* 祝贺张雯婧学位论文“基于迁移学习的跨域人脸表情识别研究”获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
 * *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4)被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
