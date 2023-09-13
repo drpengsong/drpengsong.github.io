@@ -40,7 +40,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>）
+## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 1. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://ieeexplore.ieee.org/document/10158502). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. [<font color="#dd0000">code</font><br />](https://github.com/shaokai1209/MDSA)
 2. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. 10.1109/TCSS.2023.3276990.
@@ -153,5 +153,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/09/08**
+**更新时间：2023/09/13**
 
