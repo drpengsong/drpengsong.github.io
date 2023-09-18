@@ -146,9 +146,6 @@
 * [AI会议Deadline](https://ccfddl.github.io/)
 * [助理教授/博士生存指南](https://github.com/JunweiLiang/awesome_lists)
 
-### **Books**
-* [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
-
 [↑Top](#Top)
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
