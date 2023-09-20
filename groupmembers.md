@@ -5,27 +5,27 @@
           <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/fusiqi.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">符思琦</a> </div>
-            <div> 2022级 </div>
+            <div> 2023级 </div>
           </td>
           <td width="15%" style="padding-right:30px">
-            <div> <img width="85" src="./pictures/wangchuangjia.jpg"></div>
+            <div> <img width="85" src="./pictures/wangchangjia.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">王昌家</a> </div>
-            <div> 2022级 </div>
+            <div> 2023级 </div>
           </td>  
           <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/duguanghao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">杜光昊</a> </div>
-            <div> 2022级 </div>
+            <div> 2023级 </div>
           </td>
           <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/yangbeihua.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">杨蓓华</a> </div>
-            <div> 2021级 </div>
+            <div> 2023级 </div>
           </td>
           <td width="15%" style="padding-right:30px">
-            <div> <img width="85" src="./pictures/wanxingxin.jpg"></div>
+            <div> <img width="85" src="./pictures/wanxinxing.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">万星鑫</a> </div>
-            <div> 2021级 </div>
+            <div> 2023级 </div>
           </td>  
          <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/chengyuanbo.jpg"></div>
