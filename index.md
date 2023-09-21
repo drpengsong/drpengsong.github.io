@@ -24,7 +24,7 @@
 * *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4)被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作[“Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://ieeexplore.ieee.org/abstract/document/10158502)被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
-* *05/18/2023* 祝贺姜慎杰同学的论文[“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html)、赵可可同学的论文[“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/zhao23_interspeech.html)被Interspeech 2023录用！
+* *05/18/2023* 祝贺姜慎杰同学的论文[“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html)、赵可可同学的论文[“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/zhao23_interspeech.html)被语音领域重要国际会议Interspeech 2023录用！
 * *05/14/2023* 祝贺王润同学的论文[“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”](https://ieeexplore.ieee.org/document/10137555)被IEEE Transactions on Computational Social Systems录用！
 * *05/10/2023* 祝贺刘涛同学的论文[“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”](https://www.sciencedirect.com/science/article/pii/S105120042300177X)被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
