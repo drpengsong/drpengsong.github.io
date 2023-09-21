@@ -17,7 +17,16 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 <span id = "News"> </span>
 ## **News**
-* 🎈
+* *09/08/2023* One paper is accepted by Expert Systems With Applications！
+* *07/17/2023* One paper is accepted by Expert Systems With Applications！
+* *06/14/2023* One paper is accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing！
+* *05/18/2023* Two papers are accepted by Interspeech 2023！
+* *05/14/2023* One paper is accepted by IEEE Transactions on Computational Social Systems！
+* *05/10/2023* One paper is accepted by Digital Signal Processing！
+* *04/27/2023* One paper is accepted by Knowledge-Based Systems！
+* *04/26/2023* One paper is accepted by Digital Signal Processing！
+* *03/21/2023* One paper is accepted by Expert Systems With Applications！
+* *02/16/2023* One paper is accepted by ICASSP 2023！
 
 <span id = "Publications"> </span>
 ## **Selected Publication:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">Google Scholar</a>） 
