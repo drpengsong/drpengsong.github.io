@@ -37,6 +37,8 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 2041. Xiangyu Liu#, <u>Peng Song*</u>. [Incomplete Multi-view Clustering via Virtual-label Guided Matrix Factorization](https://www.sciencedirect.com/science/article/pii/S0957417422015159). ***Expert Systems With Applications*** 2022, 210, 118408.
 2051. Shixuan Zhou#,  <u>Peng Song*</u>, Yanwei Yu, Wenming Zheng. [Structural regularization based discriminative multi-view unsupervised feature selection](https://www.sciencedirect.com/science/article/pii/S0950705123003519). ***Knowledge-Based Systems*** 2023, 223, 110601.
 2052. Jinshuai Mu#, <u>Peng Song*</u>,  Yanwei Yu, Wenming Zheng. [Tensor-Based Consensus Learning for Incomplete Multi-view Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4). ***Expert Systems With Applications*** 2023, 234, 121013. [<font color="#dd0000">code</font><br />]( https://github.com/JSMMu/TCLIMC)
+2053. Zhaohu Liu#,  <u>Peng Song*</u>. [Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering](depengsong.github.io). ***Expert Systems With Applications*** 2023 (Accepted)
+
 
 
 [**Full paper list...**](/full-paper-list)  
@@ -62,5 +64,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**Update：2023/08/21**
+**Update：2023/09/21**
 
