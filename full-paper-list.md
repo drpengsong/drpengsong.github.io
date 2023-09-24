@@ -19,7 +19,7 @@
 13. <u>宋鹏*</u>，李绍凯#, 张雯婧, 郑文明, 赵力. [基于迁移判别回归的跨域语音情感识别](https://www.signalpro.com.cn/cn/article/doi/10.16798/j.issn.1003-0530.2023.04.006). **信号处理**.  2023, 39(4): 649-657. 
 14. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. [Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html). In: **INTERSPEECH** 2023, Dublin, Ireland. 4538-4542. [Slides](/files/Interspeech2023_UTCL_jiangshenjie.pdf)
 15. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. [Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2023/zhao23_interspeech.html). In: **INTERSPEECH** 2023, Dublin, Ireland. 894-898. [Poster](/files/interspeech2023_jifa_poster.pdf)
-16. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. [Slides](/files/ICASSP_2023_GSDA.pdf)[Poster](/files/ICASPP_poster_GSDA_2023.pdf)
+16. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. [Slides](/files/ICASSP_2023_GSDA.pdf)，[Poster](/files/ICASPP_poster_GSDA_2023.pdf)
 
 
 **2022年**
