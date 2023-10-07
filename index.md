@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* *10/05/2023* 祝贺刘兆虎同学的工作["Shared Latent Embedding Learning for Multi-View Subspace Clustering"]()被IEICE Trans. Information and Systems录用!
 * *10/02/2023* 祝贺姜慎杰同学的工作["Graph-Guided Transferable Regression for Cross-Domain Speech Emotion Recognition"]()被CCBR 2023录用!
 * *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1)被Expert Systems With Applications录用！
 * *08/27/2023* 祝贺张雯婧学位论文“基于迁移学习的跨域人脸表情识别研究”获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
@@ -151,5 +152,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/09/25**
+**更新时间：2023/10/07**
 
