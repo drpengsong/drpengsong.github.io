@@ -5,6 +5,7 @@
 
 **2024年**
 1. Zhaohu Liu#, <u>Peng Song*</u>. [Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1). ***Expert Systems With Applications*** 2024, 237, Part C, 121518.
+2. Zhaohu Liu#, <u>Peng Song*</u>, Jinshuai Mu, Wenming Zheng. Shared Latent Embedding Learning for Multi-View Subspace Clustering". ***IEICE TRANSACTIONS on Information and Systems***, 2024, (To be published)
 
 
 **2023年**
@@ -23,6 +24,7 @@
 14. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Keke Zhao. [Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html). In: **INTERSPEECH** 2023, Dublin, Ireland. 4538-4542. [Slides](/files/Interspeech2023_UTCL_jiangshenjie.pdf)
 15. Keke Zhao#, <u>Peng Song*</u>, Shaokai Li, Wenming Zheng. [Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://www.isca-speech.org/archive/interspeech_2023/zhao23_interspeech.html). In: **INTERSPEECH** 2023, Dublin, Ireland. 894-898. [Poster](/files/interspeech2023_jifa_poster.pdf)
 16. Shaokai Li#, <u>Peng Song*</u>, Liang Ji, Yun Jin, Wenming Zheng. [A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097258). In: **ICASSP** 2023, Rhodes island, Greece. [Slides](/files/ICASSP_2023_GSDA.pdf)，[Poster](/files/ICASPP_poster_GSDA_2023.pdf)
+17. Shenjie Jiang#, <u>Peng Song*</u>, Run Wang, Shaokai Li, Wenming Zheng. [Graph-Guided Transferable Regression for Cross-Domain Speech Emotion Recognition], **CCBR** 2023, Xuzhou, China. (Accepted)
 
 
 **2022年**
