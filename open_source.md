@@ -6,6 +6,7 @@
 *  [Awesome Incomplete Graph Representation Learning](https://github.com/WxTu/awesome-incomplete-graph-representation-learning)
 * [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 *  [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+*  [零基础开始学习生成对抗网络](https://www.bilibili.com/video/BV1wN411b7Xh/?spm_id_from=444.41.list.card_archive.click&vd_source=58a570d89ed0d1807c63ea664e515390)
 *  [LIBLINEAR — A Library for Large Linear Classification](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 *  [Deep Clustering: methods and implements](https://github.com/zhoushengisnoob/DeepClustering)
 *  [awesome multi-view clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
