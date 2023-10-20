@@ -44,7 +44,7 @@
 <span id = "Publications"> </span>
 ## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
-1. Zhaohu Liu#, <u>Peng Song*</u>. [Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering](https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1). ***Expert Systems With Applications*** 2024, 237, Part C, 121518.
+1. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518.  <a href="[/papers/yanwei2019citywideTBD.pdf](https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1)" target="_blank">[PDF]</a> 
 2. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. [Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition](https://ieeexplore.ieee.org/document/10158502). ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. [<font color="#dd0000">code</font><br />](https://github.com/shaokai1209/MDSA)
 3. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. [Common Latent Embedding Space for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10137555). ***IEEE Transactions on Computational Social Systems***. 2023. 10.1109/TCSS.2023.3276990.
 4. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. [Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition](https://ieeexplore.ieee.org/document/9423630).  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333.
