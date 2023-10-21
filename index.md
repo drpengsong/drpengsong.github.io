@@ -42,7 +42,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **代表论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
+## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 1. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF] <a href="#" target="_blank">[Code]</a>
 3. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. <a href="https://ieeexplore.ieee.org/document/10158502" target="_blank">[PDF]</a> <a href="https://github.com/shaokai1209/MDSA" target="_blank">[code]</a>
