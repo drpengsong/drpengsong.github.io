@@ -19,23 +19,23 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
-* *10/05/2023* 祝贺刘兆虎同学的工作["Shared Latent Embedding Learning for Multi-View Subspace Clustering"]()被IEICE Trans. Information and Systems录用!
-* *10/02/2023* 祝贺姜慎杰同学的工作["Graph-Guided Transferable Regression for Cross-Domain Speech Emotion Recognition"]()被CCBR 2023录用!
-* *09/08/2023* 祝贺刘兆虎同学的工作["Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1)被Expert Systems With Applications录用！
+* *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
+* *10/02/2023* 祝贺姜慎杰同学的工作被CCBR 2023录用!
+* *09/08/2023* 祝贺刘兆虎同学的工作被Expert Systems With Applications录用！
 * *08/27/2023* 祝贺张雯婧学位论文“基于迁移学习的跨域人脸表情识别研究”获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
-* *07/17/2023* 祝贺牟金帅同学的工作["Tensor-Based Consensus Learning for Incomplete Multi-view Clustering"](https://authors.elsevier.com/sd/article/S0957-4174(23)01515-4)被Expert Systems With Applications录用！
+* *07/17/2023* 祝贺牟金帅同学的工作录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
-* *06/14/2023* 祝贺李绍凯同学的工作[“Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://ieeexplore.ieee.org/abstract/document/10158502)被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
-* *05/18/2023* 祝贺姜慎杰同学的论文[“Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html)、赵可可同学的论文[“Joint Instance Reconstruction and Feature Subspace Alignment for Cross-Domain Speech Emotion Recognition”](https://www.isca-speech.org/archive/interspeech_2023/zhao23_interspeech.html)被语音领域重要国际会议Interspeech 2023录用！
-* *05/14/2023* 祝贺王润同学的论文[“Common Latent Embedding Space for Cross-Domain Facial Expression Recognition”](https://ieeexplore.ieee.org/document/10137555)被IEEE Transactions on Computational Social Systems录用！
-* *05/10/2023* 祝贺刘涛同学的论文[“Adaptive Graph Regularized Transferable Regression for Facial Expression Recognition”](https://www.sciencedirect.com/science/article/pii/S105120042300177X)被Digital Signal Processing录用！
+* *06/14/2023* 祝贺李绍凯同学的工作被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
+* *05/18/2023* 祝贺姜慎杰、赵可可同学的论文被语音领域重要国际会议Interspeech 2023录用！
+* *05/14/2023* 祝贺王润同学的论文录用！
+* *05/10/2023* 祝贺刘涛同学的论文被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
-* *04/27/2023* 祝贺周世璇同学的论文["Structural Regularization Based Discriminative Multi-view Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/pii/S0950705123003519)被Knowledge-Based Systems录用！
-* *04/26/2023* 祝贺姬亮同学的论文“[Learning Transferable Non-negative Feature Representation for Facial Expression Recognition](https://www.sciencedirect.com/science/article/pii/S1051200423001550)”被Digital Signal Processing录用！
-* *03/21/2023* 祝贺牟金帅同学的论文[“Dual-graph Regularized Concept Factorization for Multi-view Clustering”](https://www.sciencedirect.com/science/article/pii/S0957417423004517) 被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
-* *02/16/2023* 祝贺李绍凯同学的论文[“A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition”](https://ieeexplore.ieee.org/document/10097258) 被语音领域重要国际会议ICASSP 2023录用！
-* *02/10/2023* 祝贺实验室获批藏语智能信息处理及应用国家重点实验室开放基金项目！
+* *04/27/2023* 祝贺周世璇同学的论文被Knowledge-Based Systems录用！
+* *04/26/2023* 祝贺姬亮同学的论文被Digital Signal Processing录用！
+* *03/21/2023* 祝贺牟金帅同学的论文被Expert Systems With Applications（中科院SCI一区, IF:8.665）录用！
+* *02/16/2023* 祝贺李绍凯同学的论文被语音领域重要国际会议ICASSP 2023录用！
+* *02/10/2023* 祝贺实验室获批国家重点实验室开放基金项目！
 * *12/30/2022* 祝贺刘向雨同学的工作“基于矩阵分解的多视图聚类研究”荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 
 
