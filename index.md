@@ -20,6 +20,7 @@
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
 * *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
+* *10/13/2023* 祝贺宋鹏老师入选全球前2%顶尖科学家“年度科学影响力”榜单！[相关报道](https://www.ytu.edu.cn/info/1034/16667.htm)
 * *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
 * *10/02/2023* 祝贺姜慎杰同学的工作被CCBR 2023录用!
 * *09/08/2023* 祝贺刘兆虎同学的工作被Expert Systems With Applications录用！
@@ -155,5 +156,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/10/30**
+**更新时间：2023/11/07**
 
