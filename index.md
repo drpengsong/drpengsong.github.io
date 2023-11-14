@@ -18,7 +18,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">🎈🎈🎈<font color="#dd0000">2023欢迎各位同学加入课题组攻读硕士研究生！同时欢迎本科生进入实验室！欢迎感兴趣的同学与我联系.</font><br /></span>
+* <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
 * *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
 * *10/13/2023* 祝贺宋鹏老师入选全球前2%顶尖科学家“年度科学影响力”榜单！[相关报道](https://www.ytu.edu.cn/info/1034/16667.htm)
 * *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
