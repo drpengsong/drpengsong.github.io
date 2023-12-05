@@ -19,7 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
-* *12/05/2023* 祝贺张雯婧和牟金帅分别获得2023年山东省优秀硕士论文和山东省研究生创新成果奖！[官网](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
+* *12/05/2023* 祝贺张雯婧和牟金帅分别获得[2023年山东省优秀硕士论文和山东省研究生创新成果奖！](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
 * *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
 * *10/13/2023* 祝贺宋鹏老师入选全球前2%顶尖科学家“年度科学影响力”榜单！[相关报道](https://www.ytu.edu.cn/info/1034/16667.htm)
 * *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
