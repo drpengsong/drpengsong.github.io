@@ -27,7 +27,7 @@
 * *10/02/2023* 祝贺姜慎杰同学的工作被CCBR 2023录用!
 * *09/08/2023* 祝贺刘兆虎同学的工作被Expert Systems With Applications录用！
 * *08/27/2023* 祝贺张雯婧学位论文获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
-* *07/17/2023* 祝贺牟金帅同学的工作录用！
+* *07/17/2023* 祝贺牟金帅同学的工作被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
 * *05/18/2023* 祝贺姜慎杰、赵可可同学的论文被语音领域重要国际会议Interspeech 2023录用！
@@ -158,5 +158,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/12/05**
+**更新时间：2023/12/07**
 
