@@ -1,4 +1,5 @@
 # PastNews
+* *12/30/2022* 祝贺刘向雨同学的工作荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 * *12/23/2022* 祝贺周士璇同学的论文[“Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873)被Expert Systems With Applications录用！
 * *12/13/2022* 祝贺我们的论文“Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition”入选[2022年山东省人工智能年度优秀学术论文！](https://www.sdaai.org.cn/newsinfo/4771874.html)
 * *12/11/2022* 祝贺刘向雨同学的论文[“Virtual Label Guided Multi-view Non-negative  Matrix Factorization for Data Clustering”](https://www.sciencedirect.com/science/article/abs/pii/S105120042200505X)被Digital Signal Processing录用！
