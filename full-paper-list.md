@@ -4,8 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2024年**
-1. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection
-. ***Neurocomputing*** 2023, 272, 110601. <a href="" target="_blank">[PDF]</a>
+1. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection. ***Neurocomputing*** 2023, 272, 110601. <a href="" target="_blank">[PDF]</a>
 2. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
 3. Zhaohu Liu#, <u>Peng Song*</u>, Jinshuai Mu, Wenming Zheng. Shared Latent Embedding Learning for Multi-View Subspace Clustering". ***IEICE TRANSACTIONS on Information and Systems***, 2024, (To be published)
 
