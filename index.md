@@ -148,6 +148,7 @@
 * [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 * [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [中国自动化学会推荐学术期刊目录（试行）](http://www.caa.org.cn/Public/FCKuploads/00.pdf)
+* [中国电子学会推荐电子信息领域学术会议目录](https://www.cie.org.cn/static/upload/file/20231116/1700129305733534.pdf)
 * [中国科技期刊卓越行动计划入选期刊目录](https://www.ahjzu.edu.cn/_upload/article/files/9a/d0/ebaa204446199e269bb884015b91/da339269-fd73-40f3-a107-3ca40bfdfe6e.pdf)
 * [师生关系大杂烩](https://frostliu.github.io/discussions)
 * [AI会议Deadline](https://ccfddl.github.io/)
@@ -157,5 +158,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/12/07**
+**更新时间：2023/12/08**
 
