@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
 * *12/07/2023* 祝贺周世璇的工作被Neurocomputing录用!
 * *12/05/2023* 祝贺张雯婧和牟金帅分别获得[2023年山东省优秀硕士论文和山东省研究生创新成果奖！](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
 * *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
@@ -158,5 +159,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/12/08**
+**更新时间：2023/12/09**
 
