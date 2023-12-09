@@ -32,7 +32,7 @@
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
 * *05/18/2023* 祝贺姜慎杰、赵可可同学的论文被语音领域重要国际会议Interspeech 2023录用！
-* *05/14/2023* 祝贺王润同学的论文录用！
+* *05/14/2023* 祝贺王润同学的论文被IEEE Transactions on Computational Social Systems录用！
 * *05/10/2023* 祝贺刘涛同学的论文被Digital Signal Processing录用！
 * *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
 * *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
