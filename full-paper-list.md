@@ -4,9 +4,10 @@
 \# 学生，\* 通讯作者
 
 **2024年**
-1. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection. ***Neurocomputing*** 2023, 272, 110601. <a href="https://www.sciencedirect.com/science/article/pii/S0925231223012420" target="_blank">[PDF]</a>
-2. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
-3. Zhaohu Liu#, <u>Peng Song*</u>, Jinshuai Mu, Wenming Zheng. Shared Latent Embedding Learning for Multi-View Subspace Clustering". ***IEICE TRANSACTIONS on Information and Systems***, 2024, (To be published)
+1. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Run Wang, Wenming Zheng. Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. ICASSP 2024 (Accepted)
+2. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection. ***Neurocomputing*** 2023, 272, 110601. <a href="https://www.sciencedirect.com/science/article/pii/S0925231223012420" target="_blank">[PDF]</a>
+3. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
+4. Zhaohu Liu#, <u>Peng Song*</u>, Jinshuai Mu, Wenming Zheng. Shared Latent Embedding Learning for Multi-View Subspace Clustering". ***IEICE TRANSACTIONS on Information and Systems***, 2024, (To be published)
 
 **2023年**
 1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
