@@ -69,6 +69,7 @@
 
 <span id = "Rewards"> </span>
 ## **获奖与荣誉**
+* *2023* 2023年江苏省自然科学百篇优秀学术成果论文[官网链接](http://www.jskx.org.cn/web/artlist/826945)
 * *2022* IEEE计算机协会2020年情感计算汇刊（唯一）最佳论文奖 [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](./pictures/TAC_bestpaper.png), [官网链接](https://www.computer.org/publications/best-paper-award-winners)
 * *2022* 山东省人工智能自然科学奖二等奖[面向大规模、高维、流式大数据的高效异常检测方法研究](https://www.sdaai.org.cn/newsinfo/4492364.html)
 * *2022* 山东省研究生创新成果三等奖[基于矩阵分解的多视图聚类研究](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)
@@ -160,5 +161,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/12/14**
+**更新时间：2023/12/20**
 
