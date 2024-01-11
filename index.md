@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
 * *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
 * *12/14/2023* 祝贺姜慎杰同学的工作被ICASSP2024录用!
 * *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
@@ -51,7 +52,8 @@
 ## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 
-1. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
+1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph Diffusion Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social System***. 2024 (Accepted)
+2. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
 3. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. <a href="https://ieeexplore.ieee.org/document/10158502" target="_blank">[PDF]</a> <a href="https://github.com/shaokai1209/MDSA" target="_blank">[code]</a>
 5. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. Common Latent Embedding Space for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2023. 10.1109/TCSS.2023.3276990. <a href="https://ieeexplore.ieee.org/document/10137555" target="_blank">[PDF]</a>
 6. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition.  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333. <a href="https://ieeexplore.ieee.org/document/9423630" target="_blank">[PDF]</a>
