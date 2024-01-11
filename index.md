@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
 * *12/14/2023* 祝贺姜慎杰同学的工作被ICASSP2024录用!
 * *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
 * *12/07/2023* 祝贺周世璇的工作被Neurocomputing录用!
@@ -161,5 +162,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2023/12/20**
+**更新时间：2024/01/11**
 
