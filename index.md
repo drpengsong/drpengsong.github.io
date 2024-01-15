@@ -49,7 +49,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
+## **部分代表性论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 
 1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph Diffusion Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social System***. 2024. DOI: 10.1109/TCSS.2024.3355113 (Accepted)
