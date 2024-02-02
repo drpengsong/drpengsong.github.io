@@ -5,7 +5,7 @@
 
 <p style="width:970px;">
     <img src="./pictures/peng_huanguoshu.jpg" align="right" width="180" hspace="5" vspace="5">
-目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息科学与工程学院，先后在微软亚洲研究院、摩托罗拉等科技公司实习及工作。现为IEEE/中国计算机学会/中国人工智能学会会员、中国人工智能学会情感计算专委会委员, 入选2023年全球前2%顶尖科学家榜单(world’s top 2% scientists)、 担任SCI期刊IEICE Transactions on Information and Systems编委。主持国家/省自然科学基金、国家/教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE Trans汇刊（TAC、TASLP、TCDS、TCSS等）、Speech Communication、Applied Acoustics、Expert Systems with Applications、Knowledge-Based Systems、Digital Signal Processing、电子学报、声学学报及重要国际学术会议ICASSP、INTERSPEECH、CIKM等，目前主要研究兴趣包括***情感计算、模式识别、语音信号处理、多模态数据分析***等。
+目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息科学与工程学院，先后在微软亚洲研究院、摩托罗拉等科技公司实习及工作。现为IEEE/中国计算机学会/中国人工智能学会会员、中国人工智能学会情感计算专委会委员, 入选2023年全球前2%顶尖科学家榜单(world’s top 2% scientists)、 担任SCI期刊IEICE Transactions on Information and Systems编委。主持国家/省自然科学基金、国家/教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE Trans汇刊（TAC、TASLP、TCDS、TCSS等）、Speech Communication、Applied Acoustics、Expert Systems with Applications、Knowledge-Based Systems、Digital Signal Processing、Neurocomputing、电子学报、声学学报及重要国际学术会议ICASSP、INTERSPEECH、CIKM等，目前主要研究兴趣包括***情感计算、模式识别、语音信号处理、多模态数据分析***等。
 </p>
 
 —————————————————————————————————————————————
@@ -52,7 +52,7 @@
 ## **部分代表性论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 
-1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph Diffusion Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social System***. 2024. DOI: 10.1109/TCSS.2024.3355113. <a href=" " target="_blank">[PDF]</a>
+1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph Diffusion Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024. DOI: 10.1109/TCSS.2024.3355113. <a href=" " target="_blank">[PDF]</a>
 2. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
 3. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. <a href="https://ieeexplore.ieee.org/document/10158502" target="_blank">[PDF]</a> <a href="https://github.com/shaokai1209/MDSA" target="_blank">[code]</a>
 5. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. Common Latent Embedding Space for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2023. DOI: 10.1109/TCSS.2023.3276990. <a href="https://ieeexplore.ieee.org/document/10137555" target="_blank">[PDF]</a>
