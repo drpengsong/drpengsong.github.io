@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2024年**
-1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph Diffusion Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social System***. 2024 (Accepted)
+1. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph-Diffusion-Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024. DOI: 10.1109/TCSS.2024.3355113. <a href="https://ieeexplore.ieee.org/document/10418230" target="_blank">[PDF]</a>
 2. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Run Wang, Wenming Zheng. Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. ***ICASSP*** 2024 (Accepted)
 3. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection. ***Neurocomputing*** 2024, 569, 127119. <a href="https://www.sciencedirect.com/science/article/pii/S0925231223012420" target="_blank">[PDF]</a>
 4. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
