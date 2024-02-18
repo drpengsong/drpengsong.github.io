@@ -57,9 +57,7 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 <span id = "Services"> </span>
 ## **Activies**
 **Reviewers**：* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine
-IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters
-*  Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languang、 Biomedical Signal Processing and Control
-*  INTERSPEECH 2018-2023, ICASSP 2021-2023, NCMMSC 2021-2023, ICPR 2022
+IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Signal Processing、 Applied Acoustics、 Computer Speech&Languang、 Biomedical Signal Processing and Control、INTERSPEECH, ICASSP, NCMMSC, ICPR
 ...
 
 <span id = "Students"> </span>
