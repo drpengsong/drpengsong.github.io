@@ -9,7 +9,8 @@
 3. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
 4. Zhaohu Liu#, <u>Peng Song*</u>, Jinshuai Mu, Wenming Zheng. Shared Latent Embedding Learning for Multi-View Subspace Clustering. ***IEICE TRANSACTIONS on Information and Systems***, 2024, E107–D (1), 148-152. <a href="https://search.ieice.org/bin/summary.php?id=e107-d_1_148&category=-D&year=2024&lang=E&abst=" target="_blank">[PDF]</a>
 5. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. Common Latent Embedding Space for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024, 11(2): 2046-2056. <a href="https://ieeexplore.ieee.org/document/10137555" target="_blank">[PDF]</a>
-6. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Run Wang, Wenming Zheng. Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. ***ICASSP*** 2024, Seoul, Korea, 10226-10230.<a href="https://ieeexplore.ieee.org/document/10446499" target="_blank">[PDF]</a> <a href="/files/ICASSP_poster_MUTCL_2024.pdf" target="_blank">[Poster]</a> 
+6. Shenjie Jiang#, <u>Peng Song*</u>, Shaokai Li, Run Wang, Wenming Zheng. Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition. ***ICASSP*** 2024, Seoul, Korea, 10226-10230.<a href="https://ieeexplore.ieee.org/document/10446499" target="_blank">[PDF]</a> <a href="/files/ICASSP_poster_MUTCL_2024.pdf" target="_blank">[Poster]</a>
+7. Zhiwei Niu, Shifeng Ou, Peng Song, Ying Gao. Acoustic echo cancellation based on two‐stage BLSTM. ***Electronics Letters***, 2024, 60(7): e13164.
 
 
 **2023年**
