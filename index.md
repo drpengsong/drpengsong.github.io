@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *04/15/2024* 祝贺王润、刘涛获得烟台大学优秀毕业生称号！
 * *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
 * *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
 * *12/14/2023* 祝贺姜慎杰同学的工作被ICASSP2024录用!
@@ -120,10 +121,10 @@
 ### **毕业研究生**
 1. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（Interspeech2023、CCBR2021、IEICE论文各一篇）, **毕业去向**：华宇工学院教师
 2. [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出两篇）,**毕业去向**：枣庄税务局
-3. [刘向雨](/groupmembers)，2020级，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA论文刊出一篇、DSP论文刊出两篇), **毕业去向**：西门子武汉
+3. [刘向雨](/groupmembers)，2020级，研究方向：基于矩阵分解的多视图聚类方法研究 (ESWA论文刊出一篇、DSP论文刊出两篇), **毕业去向**：西门子武汉->济南公安局
 4. [李绍凯](/groupmembers)，2020级，研究方向：基于迁移回归与子空间学习的语音情感识别（IEEE TASLP、Interspeech2022、ICASSP 2023、Applied Acoustics、信号处理论文各一篇）, **毕业去向**：纬横数据
 5. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、DSP论文刊出一篇), **毕业去向**：山东商务职业学院教师
-6. [张雯婧](/groupmembers)，2019级，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇), **毕业去向**：山东商务职业学院教师
+6. [张雯婧](/groupmembers)，2019级，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇), **毕业去向**：烟台质量技术监督局->山东商务职业学院教师
 7. [盛超](/groupmembers)， 2019级，研究方向：基于图正则的无监督特征选择 (DSP刊出两篇、《信号处理》刊出一篇)，**毕业去向**：南京某厂
 8. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇)，**毕业去向**：华南理工读博 
 9. [张伟建](/groupmembers)，2018级，研究方向：基于子空间迁移学习的语音情感识别. (IEEE TASLP、TCDS论文各刊出一篇)，**毕业去向**：中国移动淄博分公司 
@@ -165,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/01/25**
+**更新时间：2024/04/15**
 
