@@ -85,7 +85,7 @@
 <span id = "Services"> </span>
 ## **社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Expert Systems With Applications、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2023、 ICASSP 2021-2023、 NCMMSC 2021-2022、 ICPR 2022、ICONIP 2023、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
+* IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、IEEE Signal Processing Magazine、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Multimedia、IEEE Signal Processing Letters、Neural Networks、Speech Communication、Information Science、 Neurocomputing、Information Fusion、Expert Systems With Applications、Signal Processing、 Applied Acoustics、 Computer Speech&Languange、 Digital Signal Processing、Biomedical Signal Processing and Control、 INTERSPEECH 2018-2024、 ICASSP 2021-2024、 NCMMSC 2021-2023、 ICPR 2022、ICONIP 2023、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
 
 <span id = "Students"> </span>
 ## **指导学生**
@@ -145,7 +145,7 @@
 9. 2016-2019年 世界大学生超级计算机比赛ASC（二等奖）
 
 ### **团队**
-[**活动照片**](/pictures)
+[**团队活动照片**](/pictures)
 
 <span id = "Resources"> </span>
 ## **资源**
