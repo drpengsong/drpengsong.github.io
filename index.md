@@ -19,7 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
-* *04/15/2024* 祝贺王润、刘涛获得烟台大学优秀毕业生称号！
+* *04/15/2024* 祝贺王润、刘涛获得[烟台大学优秀毕业生称号！]((/files/2024优秀毕业生.pdf))
 * *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
 * *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
 * *12/14/2023* 祝贺姜慎杰同学的工作被语音领域重要国际会议ICASSP2024录用!
@@ -166,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/04/15**
+**更新时间：2024/04/19**
 
