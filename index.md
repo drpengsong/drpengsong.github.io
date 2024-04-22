@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *04/22/2024* 祝贺程远波工作被Expert Systems With Applications录用！
 * *04/15/2024* 祝贺王润、刘涛获得[烟台大学优秀毕业生称号！](/files/2024优秀毕业生.pdf)
 * *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
 * *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
