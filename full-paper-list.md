@@ -5,7 +5,7 @@
 
 **2024年**
 1. <u>Peng Song*</u>, Zhaohu Liu#, Jinshuai Mu, Yuanbo Cheng. Deep Embedding Based Tensor Incomplete Multi-view Clustering. ***Digital Signal Processing*** 2024. (Accepted)
-2. Yuanbo Cheng#, <u>Peng Song*</u>, Jinshuai Mu, Yanwei Yu, Wenming Zheng. Comprehensive Multi-view Self-Representations for Clustering. ***Expert Systems With Applications*** 2024. <a href="https://www.sciencedirect.com/science/article/pii/S0957417424009692" target="_blank">[PDF]</a>
+2. Yuanbo Cheng#, <u>Peng Song*</u>, Jinshuai Mu, Yanwei Yu, Wenming Zheng. Comprehensive Multi-view Self-Representations for Clustering. ***Expert Systems With Applications*** 2024, 251, 124103. <a href="https://www.sciencedirect.com/science/article/pii/S0957417424009692" target="_blank">[PDF]</a>
 3. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph-Diffusion-Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024. DOI: 10.1109/TCSS.2024.3355113. <a href="https://ieeexplore.ieee.org/document/10418230" target="_blank">[PDF]</a>
 4. Shixuan Zhou#,  <u>Peng Song*</u>. Consistency-Exclusivity Guided Unsupervised Multi-view Feature Selection. ***Neurocomputing*** 2024, 569, 127119. <a href="https://www.sciencedirect.com/science/article/pii/S0925231223012420" target="_blank">[PDF]</a> <a href="https://github.com/Zzhousx/CE-UMFS" target="_blank">[code]</a> 
 5. Zhaohu Liu#, <u>Peng Song*</u>. Deep Low-rank Tensor Embedding for Multi-view Subspace Clustering. ***Expert Systems With Applications*** 2024, 237, Part C, 121518. <a href="https://authors.elsevier.com/sd/article/S0957-4174(23)02020-1" target="_blank">[PDF]</a>
