@@ -1,4 +1,17 @@
 # PastNews
+* *07/17/2023* 祝贺牟金帅同学的工作被Expert Systems With Applications录用！
+* *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
+* *06/14/2023* 祝贺李绍凯同学的工作被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
+* *05/18/2023* 祝贺姜慎杰、赵可可同学的论文被语音领域重要国际会议Interspeech 2023录用！
+* *05/14/2023* 祝贺王润同学的论文被IEEE Transactions on Computational Social Systems录用！
+* *05/10/2023* 祝贺刘涛同学的论文被Digital Signal Processing录用！
+* *05/06/2023* 祝贺牟金帅、周世璇获得2023年研究生科技创新基金支持！
+* *05/04/2023* 祝贺李绍凯、刘向雨分别获得[山东省优秀毕业生、烟台大学优秀毕业生称号！](/files/2023优秀毕业生.pdf)
+* *04/27/2023* 祝贺周世璇同学的论文被Knowledge-Based Systems录用！
+* *04/26/2023* 祝贺姬亮同学的论文被Digital Signal Processing录用！
+* *03/21/2023* 祝贺牟金帅同学的论文被Expert Systems With Applications录用！
+* *02/16/2023* 祝贺李绍凯同学的论文被语音领域重要国际会议ICASSP 2023录用！
+* *02/10/2023* 祝贺实验室获批国家重点实验室开放基金项目！
 * *12/30/2022* 祝贺刘向雨同学的工作荣获[2022年山东省研究生创新成果三等奖](http://edu.shandong.gov.cn/art/2022/12/27/art_11982_10308544.html)!
 * *12/23/2022* 祝贺周士璇同学的论文[“Soft-Label Guided Non-Negative Matrix Factorization for Unsupervised Feature Selection”](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024873)被Expert Systems With Applications录用！
 * *12/13/2022* 祝贺我们的论文“Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition”入选[2022年山东省人工智能年度优秀学术论文！](https://www.sdaai.org.cn/newsinfo/4771874.html)
