@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *05/26/2024* 祝贺牟金帅、王润、周世璇、姜慎杰、刘兆虎、刘涛六位同学顺利通过硕士论文答辩！
 * *05/12/2024* 祝贺姜慎杰被西北工业大学博士录取！
 * *04/25/2024* 祝贺刘兆虎工作被Digital Signal Processing录用！
 * *04/22/2024* 祝贺程远波工作被Expert Systems With Applications录用！
@@ -157,5 +158,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/05/16**
+**更新时间：2024/05/26**
 
