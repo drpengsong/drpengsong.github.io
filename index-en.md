@@ -25,7 +25,7 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 * *12/07/2023* One paper is accepted by Neurocomputing!
 * *10/05/2023* One paper is accepted by IEICE Trans. Information and Systems!
 * *10/02/2023* One paper is accepted by CCBR 2023!
-* *09/08/2023* One paper is accepted by Expert Systems With Applications录用！
+* *09/08/2023* One paper is accepted by Expert Systems With Applications！
 
 <span id = "Publications"> </span>
 ## **Selected Publication:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">Google Scholar</a>） 
