@@ -17,7 +17,15 @@ I received my PhD and M.S. degrees in EE from School of Information Science and 
 
 <span id = "News"> </span>
 ## **News**
-
+* *06/08/2024* One paper is accepted by Applied Acoustics！
+* *04/25/2024* One paper is accepted by Digital Signal Processing！
+* *04/22/2024* One paper is accepted by Expert Systems With Applications！
+* *01/11/2024* One paper is accepted by IEEE Transactions on Computational Social Systems！
+* *12/14/2023* One paper is accepted by ICASSP2024!
+* *12/07/2023* One paper is accepted by Neurocomputing!
+* *10/05/2023* One paper is accepted by IEICE Trans. Information and Systems!
+* *10/02/2023* One paper is accepted by CCBR 2023!
+* *09/08/2023* One paper is accepted by Expert Systems With Applications录用！
 
 <span id = "Publications"> </span>
 ## **Selected Publication:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">Google Scholar</a>） 
@@ -62,5 +70,5 @@ IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Circu
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**Update：2023/09/21**
+**Update：2024/06/11**
 
