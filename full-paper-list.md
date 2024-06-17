@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2024年**
-1. Hao Wang#, <u>Peng Song*</u>, Shenjie Jiang, Run Wang, Shaokai Li, Tao Liu. [Domain Adaptive Dual-Relaxation Regression for Speech Emotion Recognition](). ***Applied Acoustics*** (Accepted)
+1. Hao Wang#, <u>Peng Song*</u>, Shenjie Jiang, Run Wang, Shaokai Li, Tao Liu. Domain Adaptive Dual-Relaxation Regression for Speech Emotion Recognition. ***Applied Acoustics***  <a href="https://www.sciencedirect.com/science/article/pii/S0003682X2400269X?dgcid=author" target="_blank">[PDF] (Accepted)
 2. <u>Peng Song*</u>, Zhaohu Liu#, Jinshuai Mu, Yuanbo Cheng. Deep Embedding Based Tensor Incomplete Multi-view Clustering. ***Digital Signal Processing*** 2024, 151, 104534. <a href="https://www.sciencedirect.com/science/article/pii/S1051200424001593?dgcid=author" target="_blank">[PDF]</a>
 3. Yuanbo Cheng#, <u>Peng Song*</u>, Jinshuai Mu, Yanwei Yu, Wenming Zheng. Comprehensive Multi-view Self-Representations for Clustering. ***Expert Systems With Applications*** 2024, 251, 124103. <a href="https://www.sciencedirect.com/science/article/pii/S0957417424009692" target="_blank">[PDF]</a> <a href="https://github.com/YuanboCheng6/CMSR" target="_blank">[code]</a>
 4. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph-Diffusion-Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024. DOI: 10.1109/TCSS.2024.3355113. <a href="https://ieeexplore.ieee.org/document/10418230" target="_blank">[PDF]</a>
