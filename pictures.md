@@ -1,4 +1,4 @@
-### 团队活动照片
+### 团队照片
 <img src="./pictures/2023_ytu.jpg#pic_center" width="300" >  <img src="./pictures/2023_dinner.jpg#pic_center" width="300" >  <img src="./pictures/2023_yanyuting.jpg#pic_center" width="300" >
 
 <img src="./pictures/sdai2023.jpg#pic_center" width="300" >  <img src="./pictures/sdai2023_best_paper.jpg#pic_center" width="300" >  <img src="./pictures/ccbr2023.jpg#pic_center" width="300" >
