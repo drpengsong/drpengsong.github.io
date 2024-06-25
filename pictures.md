@@ -1,6 +1,6 @@
 ### 团队照片
 
-<img src="./pictures/2024biye0.jpg#pic_center" width="300" >  <img src="./pictures/2024_biye2.jpg#pic_center" width="300" > <img src="./pictures/2023_ytu.jpg#pic_center" width="300" >
+<img src="./pictures/2024biye0.jpg#pic_center" width="300" >  <img src="./pictures/2024biye2.jpg#pic_center" width="300" > <img src="./pictures/2023_ytu.jpg#pic_center" width="300" >
 
   <img src="./pictures/2023_dinner.jpg#pic_center" width="300" >  <img src="./pictures/2023_yanyuting.jpg#pic_center" width="300" > <img src="./pictures/sdai2023.jpg#pic_center" width="300" > 
 
