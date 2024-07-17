@@ -115,7 +115,7 @@
 2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （ESWA、DSP、IEICE各刊出一篇）**毕业去向**：准备读博
 3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA、KBS、Neurocomputing各刊出一篇，一篇论文在审）**毕业去向**：华南理工读博
 4. [姜慎杰](/groupmembers)，2021级，研究方向：域自适应语音情感识别方法研究 （ICASSP2024、Interspeech2023、CCBR2023各刊出一篇）**毕业去向**：西北工业大学读博
-5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （ESWA刊出两篇，一篇论文在审）**毕业去向**：
+5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （ESWA刊出两篇，一篇论文在审）**毕业去向**：烟台城市科技职业学院教师
 6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （IEEE TCSS刊出两篇）**毕业去向**：潍坊食品科技职业学院教师
 7. [赵可可](/groupmembers)，2020级，研究方向：基于子空间学习的跨域语音情感识别（Interspeech2023、CCBR2021、IEICE论文各一篇）, **毕业去向**：华宇工学院教师
 8.  [姬亮](/groupmembers)，2020级， 研究方向：基于迁移非负矩阵分解的跨域人脸表情识别研究（DSP论文刊出两篇）,**毕业去向**：枣庄税务局
@@ -164,5 +164,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/06/28**
+**更新时间：2024/07/16**
 
