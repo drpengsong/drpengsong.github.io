@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *07/28/2024* 祝贺周士璇工作被Information Sciences录用！
 * *06/28/2024* 祝贺段萌工作被Digital Signal Processing录用！
 * *06/08/2024* 祝贺王昊工作被Applied Acoustics录用！
 * *05/26/2024* 祝贺牟金帅、王润、周世璇、姜慎杰、刘兆虎、刘涛六位同学顺利通过硕士论文答辩！
@@ -164,5 +165,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/07/16**
+**更新时间：2024/07/28**
 
