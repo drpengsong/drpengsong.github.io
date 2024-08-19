@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *08/18/2024* 祝贺程远波工作被Expert Systems With Applications录用！
 * *07/28/2024* 祝贺周士璇工作被Information Sciences录用！
 * *06/28/2024* 祝贺段萌工作被Digital Signal Processing录用！
 * *06/08/2024* 祝贺王昊工作被Applied Acoustics录用！
@@ -114,7 +115,7 @@
 ### **毕业研究生**
 1. [刘涛](/groupmembers)，2021级，研究方向：基于回归迁移学习的跨域人脸表情识别研究 （DSP刊出一篇，一篇论文在审）**毕业去向**：山东省卫健委
 2. [刘兆虎](/groupmembers)，2021级，研究方向：基于潜在嵌入空间的多视图子空间聚类方法研究 （ESWA、DSP、IEICE各刊出一篇）**毕业去向**：准备读博
-3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA、KBS、Neurocomputing各刊出一篇，一篇论文在审）**毕业去向**：华南理工读博
+3. [周士璇](/groupmembers)，2021级，研究方向：基于判别信息与矩阵分解的无监督特征选择 （ESWA、KBS、Neurocomputing各刊出一篇，一篇论文在审）**毕业去向**：华南理工大学读博
 4. [姜慎杰](/groupmembers)，2021级，研究方向：域自适应语音情感识别方法研究 （ICASSP2024、Interspeech2023、CCBR2023各刊出一篇）**毕业去向**：西北工业大学读博
 5. [牟金帅](/groupmembers)，2021级，研究方向：基于子空间学习的多视图聚类方法研究 （ESWA刊出两篇，一篇论文在审）**毕业去向**：烟台城市科技职业学院教师
 6. [王润](/groupmembers)， 2021级，研究方向：域自适应人脸表情识别研究 （IEEE TCSS刊出两篇）**毕业去向**：潍坊食品科技职业学院教师
@@ -125,7 +126,7 @@
 11. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、DSP论文刊出一篇) **毕业去向**：山东商务职业学院教师
 12. [张雯婧](/groupmembers)，2019级，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇) **毕业去向**：烟台质量技术监督局->山东商务职业学院教师
 13. [盛超](/groupmembers)， 2019级，研究方向：基于图正则的无监督特征选择 (DSP刊出两篇、《信号处理》刊出一篇) **毕业去向**：南京某厂
-14. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇) **毕业去向**：华南理工读博 
+14. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇) **毕业去向**：华南理工大学读博 
 15. [张伟建](/groupmembers)，2018级，研究方向：基于子空间迁移学习的语音情感识别. (IEEE TASLP、TCDS论文各刊出一篇) **毕业去向**：中国移动淄博分公司 
          
 ### **优秀本科毕业论文**
@@ -165,5 +166,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/07/28**
+**更新时间：2024/08/19**
 
