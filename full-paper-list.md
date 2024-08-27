@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2024年**
-1. Yuanbo Cheng#, <u>Peng Song*</u>. Incomplete Multi-view Clustering via Confidence Graph Completion Based Tensor Decomposition. ***Expert Systems With Applications*** <a href="https://www.sciencedirect.com/science/article/pii/S0957417424020189" target="_blank">[PDF]</a>  <a href="" target="_blank">[code]</a>
+1. Yuanbo Cheng#, <u>Peng Song*</u>. Incomplete Multi-view Clustering via Confidence Graph Completion Based Tensor Decomposition. ***Expert Systems With Applications*** <a href="https://www.sciencedirect.com/science/article/pii/S0957417424020189" target="_blank">[PDF]</a>  <a href="https://github.com/YuanboCheng6/CGCTD" target="_blank">[code]</a>
 2. <u>Peng Song*</u>, Shixuan Zhou#, Jinshuai Mu, Meng Duan, Yanwei Yu, Wenming Zheng. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2024 <a href="https://doi.org/10.1016/j.ins.2024.121276" target="_blank">[PDF]</a>
 3. Meng Duan#,  <u>Peng Song*</u>, Shixuan Zhou, Jinshuai Mu, Zhaowei Liu.  Consensus and Discriminative Non-negative Matrix Factorization for Multi-view Unsupervised Feature Selection. ***Digital Signal Processing*** 2024 <a href="https://authors.elsevier.com/sd/article/S1051-2004(24)00293-8" target="_blank">[PDF]</a> <a href="https://github.com/PookyYTU/CDNMF" target="_blank">[code]</a>
 4. Hao Wang#, <u>Peng Song*</u>, Shenjie Jiang, Run Wang, Shaokai Li, Tao Liu. Domain Adaptive Dual-Relaxation Regression for Speech Emotion Recognition. ***Applied Acoustics*** 2024, 224, 110118. <a href="https://www.sciencedirect.com/science/article/pii/S0003682X2400269X?dgcid=author" target="_blank">[PDF]</a> <a href="https://github.com/iHowie-wh/DADR" target="_blank">[code]</a>
