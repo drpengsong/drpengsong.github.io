@@ -154,6 +154,7 @@
 * [开源资料](/open_source)
 * [有用的工具](/tools)
 * [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+* [中国人工智能学会推荐学术会议和期刊列表](https://caai.cn/index.php?s=/home/article/detail/id/4024.html)
 * [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [中国自动化学会推荐学术会议、科技期刊目录](https://www.caa.org.cn/article/290/3225.html)
 * [中国电子学会推荐电子信息领域学术会议目录](https://www.cie.org.cn/list_43/11873.html)
