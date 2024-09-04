@@ -30,10 +30,7 @@
             <div> <img width="85" src="./pictures/wangchangjia.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">王昌家</a> </div>
             <div> 2023级 </div>
-          </td>  
-       
-<table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">
+          </td>
           <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/duguanghao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">杜光昊</a> </div>
@@ -48,7 +45,10 @@
             <div> <img width="85" src="./pictures/wanxinxing.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">万星鑫</a> </div>
             <div> 2023级 </div>
-          </td>  
+          </td>  		  
+       
+<table width="90%" border="0" align="center" cellspacing="30">
+        <tbody><tr valign="top" align="center">
          <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/chengyuanbo.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">程远波</a> </div>
@@ -64,10 +64,7 @@
             <div> <a href="http://drpengsong.github.io/">王昊</a> </div>
             <div> 2022级 </div>
           </td>
-
-<table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">
-          <td width="15%" style="padding-right:30px">
+		            <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/liuzhaohu.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">刘兆虎</a> </div>
             <div> 2021级 </div>
@@ -129,10 +126,7 @@
             <div> <img width="85" src="./pictures/shengchao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">盛超</a> </div>
             <div> 2019级 </div>
-          </td> 
-                                        
-<table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">                
+          </td>                 
           <td width="15%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/zhangwenjing.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">张雯婧</a> </div>
