@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *10/18/2024* 祝贺符思琦工作被IEEE Transactions on Computational Social Systems录用！
 * *08/18/2024* 祝贺程远波工作被Expert Systems With Applications录用！
 * *07/28/2024* 祝贺周士璇工作被Information Sciences录用！
 * *06/28/2024* 祝贺段萌工作被Digital Signal Processing录用！
@@ -99,15 +100,15 @@
 |学术论文奖|李绍凯（2021，NCMMSC最佳论文提名）|
 
 ### **在读研究生**
-1. [程钰涵](/groupmembers), 2024级，研究方向：表情识别
+1. [程钰涵](/groupmembers), 2024级，研究方向：表情识别 
 2. [王晨](/groupmembers), 2024级，研究方向：特征选择
 3. [曾云鹏](/groupmembers), 2024级，研究方向：多视图聚类
 4. [王一帆](/groupmembers), 2024级，研究方向：语音情感识别
-5. [万星鑫](/groupmembers), 2023级，研究方向：人脸表情识别 
-6. [符思琦](/groupmembers), 2023级，研究方向：语音情感识别、多模态情感识别  (一篇论文在审)
+5. [万星鑫](/groupmembers), 2023级，研究方向：人脸表情识别 (一篇论文在投)
+6. [符思琦](/groupmembers), 2023级，研究方向：语音情感识别、多模态情感识别  (IEEE TCSS录用一篇)
 7. [杜光昊](/groupmembers), 2023级，研究方向：多视图聚类  (一篇论文在审)
 8. [王昌家](/groupmembers), 2023级，研究方向：无监督特征选择 (一篇论文在审)
-9. [杨蓓华](/groupmembers), 2023级，研究方向：多视图聚类 (一篇论文在审)
+9. [杨蓓华](/groupmembers), 2023级，研究方向：多视图聚类 (两篇论文在审)
 10. [程远波](/groupmembers)，2022级，研究方向：多视图聚类 (ESWA刊出两篇)
 11. [段萌](/groupmembers)，2022级，研究方向：无监督特征选择 （DSP刊出一篇，一篇论文在审）
 12. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别 （Applied Acoustics刊出一篇，一篇论文在投）
@@ -167,5 +168,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/09/28**
+**更新时间：2024/10/06**
 
