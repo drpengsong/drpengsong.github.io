@@ -19,7 +19,8 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
-* *10/18/2024* 祝贺符思琦工作被IEEE Transactions on Computational Social Systems录用！
+* *10/08/2024* 祝贺杨蓓华工作被Information Sciences录用！
+* *10/07/2024* 祝贺符思琦工作被IEEE Transactions on Computational Social Systems录用！
 * *08/18/2024* 祝贺程远波工作被Expert Systems With Applications录用！
 * *07/28/2024* 祝贺周士璇工作被Information Sciences录用！
 * *06/28/2024* 祝贺段萌工作被Digital Signal Processing录用！
@@ -168,5 +169,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/10/06**
+**更新时间：2024/10/07**
 
