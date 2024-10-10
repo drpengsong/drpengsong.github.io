@@ -3,7 +3,7 @@
 ## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
 **2024年**
-1. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2024 <a href="" target="_blank">[PDF]</a> (Accepted)
+1. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0020025524014464" target="_blank">[PDF]</a>  <a href="" target="_blank">[code]</a>
 2. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2024 <a href="" target="_blank">[PDF]</a> (Accepted)
 3. Yuanbo Cheng#, <u>Peng Song*</u>. Incomplete Multi-view Clustering via Confidence Graph Completion Based Tensor Decomposition. ***Expert Systems With Applications*** <a href="https://www.sciencedirect.com/science/article/pii/S0957417424020189" target="_blank">[PDF]</a>  <a href="https://github.com/YuanboCheng6/CGCTD" target="_blank">[code]</a>
 4. <u>Peng Song*</u>, Shixuan Zhou#, Jinshuai Mu, Meng Duan, Yanwei Yu, Wenming Zheng. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2024 <a href="https://doi.org/10.1016/j.ins.2024.121276" target="_blank">[PDF]</a>
