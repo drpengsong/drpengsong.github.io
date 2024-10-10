@@ -20,4 +20,5 @@
 * [机器学习白板推导](https://space.bilibili.com/97068901?from=search&seid=6239692258513089842)
 * [跨域人脸表情识别](https://mp.weixin.qq.com/s/vK4jHAntOvwnJ5FwHgDCVw)
 * [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
+* [语音情感数据集](https://github.com/drpengsong/SER-datasets)
 
