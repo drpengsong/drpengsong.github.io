@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2025年**
-1. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2025, 690, 121532. <a href="https://www.sciencedirect.com/science/article/pii/S0020025524014464" target="_blank">[PDF]</a>  <a href="" target="_blank">[code]</a>
+1. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Clean Affinity Matrix Induced Hyper-Laplacian Regularization for Unsupervised Multi-view Feature Selection. ***Information Sciences*** 2025, 690, 121532. <a href="https://www.sciencedirect.com/science/article/pii/S0020025524014464" target="_blank">[PDF]</a>  <a href="https://github.com/beihuaY/ETEAL" target="_blank">[code]</a>
 2. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2024 <a href="" target="_blank">[PDF]</a> <a href="" target="_blank">[code]</a>
 
 
