@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *10/16/2023* 祝贺段萌工作被Engineering Applications of Artificial Intelligence录用！
 * *10/10/2023* 祝贺宋鹏老师再次入选全球前2%顶尖科学家“年度科学影响力”榜单！
 * *10/08/2024* 祝贺杨蓓华工作被Information Sciences录用！
 * *10/07/2024* 祝贺符思琦工作被IEEE Transactions on Computational Social Systems录用！
