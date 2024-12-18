@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *12/18/2024* 祝贺王昌家论文被Knowledge-Based Systems录用！
 * *10/16/2024* 祝贺程远波获得研究生国家奖学金！
 * *10/16/2024* 祝贺段萌工作被Engineering Applications of Artificial Intelligence录用！
 * *10/10/2024* 祝贺宋鹏老师再次入选全球前2%顶尖科学家“年度科学影响力”榜单！
@@ -35,17 +36,6 @@
 * *04/15/2024* 祝贺王润、刘涛获得[烟台大学优秀毕业生称号！](/files/2024优秀毕业生.pdf)
 * *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
 * *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
-* *12/14/2023* 祝贺姜慎杰同学的工作被语音领域重要国际会议ICASSP2024录用!
-* *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
-* *12/07/2023* 祝贺周世璇的工作被Neurocomputing录用!
-* *12/05/2023* 祝贺张雯婧和牟金帅分别获得[2023年山东省优秀硕士论文和山东省研究生创新成果奖！](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
-* *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
-* *10/13/2023* 祝贺宋鹏老师入选全球前2%顶尖科学家“年度科学影响力”榜单！[相关报道](https://www.ytu.edu.cn/info/1034/16667.htm)
-* *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
-* *10/02/2023* 祝贺姜慎杰同学的工作被CCBR 2023录用!
-* *09/08/2023* 祝贺刘兆虎同学的工作被Expert Systems With Applications录用！
-* *08/27/2023* 祝贺张雯婧学位论文获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
-
 
 
 [**更多新闻...**](/pastnews)
