@@ -1,4 +1,14 @@
 # PastNews
+* *12/14/2023* 祝贺姜慎杰同学的工作被语音领域重要国际会议ICASSP2024录用!
+* *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
+* *12/07/2023* 祝贺周世璇的工作被Neurocomputing录用!
+* *12/05/2023* 祝贺张雯婧和牟金帅分别获得[2023年山东省优秀硕士论文和山东省研究生创新成果奖！](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
+* *10/30/2023* 祝贺张雯婧同学的论文获得[2023年山东省人工智能年度优秀学术论文](https://www.sdaai.org.cn/newsinfo/6465529.html)!
+* *10/13/2023* 祝贺宋鹏老师入选全球前2%顶尖科学家“年度科学影响力”榜单！[相关报道](https://www.ytu.edu.cn/info/1034/16667.htm)
+* *10/05/2023* 祝贺刘兆虎同学的工作被IEICE Trans. Information and Systems录用!
+* *10/02/2023* 祝贺姜慎杰同学的工作被CCBR 2023录用!
+* *09/08/2023* 祝贺刘兆虎同学的工作被Expert Systems With Applications录用！
+* *08/27/2023* 祝贺张雯婧学位论文获得[2023年度山东省人工智能优秀硕士论文](https://www.sdaai.org.cn/newsinfo/6287426.html)!
 * *07/17/2023* 祝贺牟金帅同学的工作被Expert Systems With Applications录用！
 * *07/10/2023* 祝贺实验室获批山东省自然科学基金面上项目！
 * *06/14/2023* 祝贺李绍凯同学的工作被IEEE/ACM Transactions on Audio, Speech, and Language Processing录用！
