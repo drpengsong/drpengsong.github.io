@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *01/01/2025* 祝贺杨蓓华论文被Knowledge-Based Systems录用！
 * *12/20/2024* 祝贺杜光昊论文被Neurocomputing录用！
 * *12/18/2024* 祝贺王昌家论文被Knowledge-Based Systems录用！
 * *10/16/2024* 祝贺程远波获得研究生国家奖学金！
@@ -163,5 +164,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2024/12/20**
+**更新时间：2025/01/02**
 
