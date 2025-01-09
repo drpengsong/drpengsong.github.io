@@ -19,7 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
-* *01/09/2025* 祝贺程远波获山东省研究生创新成果奖、刘向雨获山东省优秀硕士学位论文！
+* *01/09/2025* 祝贺程远波获山东省研究生创新成果奖、刘向雨获山东省优秀硕士学位论文！[链接](http://edu.shandong.gov.cn/col/col11982/index.html)
 * *01/01/2025* 祝贺杨蓓华论文被Knowledge-Based Systems录用！
 * *12/20/2024* 祝贺杜光昊论文被Neurocomputing录用！
 * *12/18/2024* 祝贺王昌家论文被Knowledge-Based Systems录用！
