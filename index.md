@@ -66,6 +66,7 @@
 
 <span id = "Rewards"> </span>
 ## **获奖与荣誉**
+* *2024* 山东省研究生创新成果奖[多视图表示学习聚类方法研究](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
 * *2023* 山东省研究生创新成果奖[多视图子空间聚类方法研究](http://edu.shandong.gov.cn/art/2023/12/5/art_11982_10323718.html)
 * *2023* 2023年江苏省自然科学百篇优秀学术成果论文[官网链接](http://www.jskx.org.cn/web/artlist/826945)
 * *2022* IEEE计算机协会2020年情感计算汇刊（唯一）最佳论文奖 [EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks](./pictures/TAC_bestpaper.png), [官网链接](https://www.computer.org/publications/best-paper-award-winners)
