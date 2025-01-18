@@ -11,6 +11,7 @@
 5. Meng Duan#, <u>Peng Song*</u>, Shixuan Zhou, Jinshuai Mu, Wenming Zheng. High-order Correlation Preserved Multi-view Unsupervised Feature Selection. ***Engineering Applications of Artificial Intelligence*** 2025, 139-A, 109507. <a href="https://www.sciencedirect.com/science/article/pii/S0952197624016658?dgcid=author" target="_blank">[PDF]</a> <a href="https://github.com/PookyYTU/HCFS" target="_blank">[code]</a>
 6. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Enhanced Tensor Based Embedding Anchor Learning for Multi-View Clustering. ***Information Sciences*** 2025, 690, 121532. <a href="https://www.sciencedirect.com/science/article/pii/S0020025524014464" target="_blank">[PDF]</a>  <a href="https://github.com/beihuaY/ETEAL" target="_blank">[code]</a>
 7. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/10739774" target="_blank">[PDF]</a> <a href="https://github.com/Minus47/CDLSL" target="_blank">[code]</a>
+8. Yunfang Zhang, Yun Jin, Guolin Chen, Yong Ma, Maoshen Jia, Peng Song. Using Corrected ASR Projection to Improve AD Recognition Performance from Spontaneous Speech. In: **ICASSP** 2025, India. (Accepted)
 
 
 **2024年**
