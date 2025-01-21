@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *01/21/2025* 祝贺王昊工作被Applied Acoustics录用!
 * *01/13/2024* 祝贺李绍凯被武汉大学博士录取!
 * *01/09/2025* 祝贺程远波获山东省研究生创新成果奖、刘向雨获山东省优秀硕士学位论文！[链接](http://edu.shandong.gov.cn/art/2025/1/8/art_11982_10336266.html)
 * *01/01/2025* 祝贺杨蓓华论文被Knowledge-Based Systems录用！
@@ -167,5 +168,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2025/01/14**
+**更新时间：2025/01/21**
 
