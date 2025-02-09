@@ -1,4 +1,20 @@
 # PastNews
+* *10/16/2024* 祝贺程远波获得研究生国家奖学金！
+* *10/16/2024* 祝贺段萌工作被Engineering Applications of Artificial Intelligence录用！
+* *10/10/2024* 祝贺宋鹏老师再次入选全球前2%顶尖科学家“年度科学影响力”榜单！
+* *10/08/2024* 祝贺杨蓓华工作被Information Sciences录用！
+* *10/07/2024* 祝贺符思琦工作被IEEE Transactions on Computational Social Systems录用！
+* *08/18/2024* 祝贺程远波工作被Expert Systems With Applications录用！
+* *07/28/2024* 祝贺周士璇工作被Information Sciences录用！
+* *06/28/2024* 祝贺段萌工作被Digital Signal Processing录用！
+* *06/08/2024* 祝贺王昊工作被Applied Acoustics录用！
+* *05/26/2024* 祝贺牟金帅、王润、周世璇、姜慎杰、刘兆虎、刘涛六位同学顺利通过硕士论文答辩！
+* *05/12/2024* 祝贺姜慎杰被西北工业大学博士录取！
+* *04/25/2024* 祝贺刘兆虎工作被Digital Signal Processing录用！
+* *04/22/2024* 祝贺程远波工作被Expert Systems With Applications录用！
+* *04/15/2024* 祝贺王润、刘涛获得[烟台大学优秀毕业生称号！](/files/2024优秀毕业生.pdf)
+* *01/11/2024* 祝贺王润工作被IEEE Transactions on Computational Social Systems录用！
+* *01/11/2024* 祝贺周世璇被华南理工大学博士录取!
 * *12/14/2023* 祝贺姜慎杰同学的工作被语音领域重要国际会议ICASSP2024录用!
 * *12/09/2023* 祝贺论文入选2023年江苏省自然科学百篇优秀学术成果论文! [链接](http://www.jskx.org.cn/web/artlist/826945)
 * *12/07/2023* 祝贺周世璇的工作被Neurocomputing录用!
