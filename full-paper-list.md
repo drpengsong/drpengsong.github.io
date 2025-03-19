@@ -13,7 +13,7 @@
 7. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng, Shixuan Zhou, Zhaowei Liu. Enhanced Tensor Based Embedding Anchor Learning for Multi-View Clustering. ***Information Sciences*** 2025, 690, 121532. <a href="https://www.sciencedirect.com/science/article/pii/S0020025524014464" target="_blank">[PDF]</a>  <a href="https://github.com/beihuaY/ETEAL" target="_blank">[code]</a>
 8. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/10739774" target="_blank">[PDF]</a> <a href="https://github.com/Minus47/CDLSL" target="_blank">[code]</a>
 9. Yunfang Zhang, Yun Jin, Guolin Chen, Yong Ma, Maoshen Jia, Peng Song. Using Corrected ASR Projection to Improve AD Recognition Performance from Spontaneous Speech. In: **ICASSP** 2025, India. <a href="https://ieeexplore.ieee.org/abstract/document/10890111" target="_blank">[PDF]</a> 
-10. Hao Wang#, Yixua Ji, <u>Peng Song*</u>, Zhaowei Liu.  High-order Similarity Learning Based Domain Adaptation for Speech Emotion Recognition. ***Applied Acoustics*** 2025, 231: 110555. <a href="https://www.sciencedirect.com/science/article/pii/S0003682X25000271" target="_blank">[PDF]</a>  <a href="" target="_blank">[code]</a> 
+10. Hao Wang#, Yixua Ji, <u>Peng Song*</u>, Zhaowei Liu.  High-order Similarity Learning Based Domain Adaptation for Speech Emotion Recognition. ***Applied Acoustics*** 2025, 231: 110555. <a href="https://www.sciencedirect.com/science/article/pii/S0003682X25000271" target="_blank">[PDF]</a>  <a href="https://github.com/iHowie-wh/HSDA" target="_blank">[code]</a> 
 
 
 **2024年**
