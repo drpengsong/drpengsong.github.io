@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2025年**
-1. 4. Changjia Wang#, <u>Peng Song*</u>. Robust Multi-view Unsupervised Feature Selection via Latent Consensus Structure Learning. ***Information Sciences***, 2025 (Accepted) <a href="h" target="_blank">[PDF]</a> <a href="" target="_blank">[code]</a> 
+1. Changjia Wang#, <u>Peng Song*</u>. Robust Multi-view Unsupervised Feature Selection via Latent Consensus Structure Learning. ***Information Sciences***, 2025 (Accepted) <a href="h" target="_blank">[PDF]</a> <a href="" target="_blank">[code]</a> 
 2. <u>Peng Song*</u>, Jinshai Mu#, Yuanbo Cheng, Wenming  Zheng. Essential anchor graph learning for incomplete multi-view clustering. ***Engineering Applications of Artificial Intelligence***, 2025, 145: 110194. <a href="https://www.sciencedirect.com/science/article/pii/S0952197625001940" target="_blank">[PDF]</a>  <a href="" target="_blank">[code]</a> 
 3. Beihua Yang#, <u>Peng Song*</u>, Yuanbo Cheng,  Zhaowei Liu, Yanwei Yu. Label Completion Based Concept Factorization for Incomplete Multi-View Clustering. ***Knowledge-Based Systems***, 2025, 310: 112953. <a href="https://www.sciencedirect.com/science/article/pii/S0950705125000012" target="_blank">[PDF]</a>  <a href="https://github.com/beihuaY/LCCF" target="_blank">[code]</a> 
 4. Guanghao Du#, <u>Peng Song*</u>, Yuanbo Cheng, Zhaowei Liu, Yanwei Yu, Wenming Zheng. Weighted Tensor-based Consistent Anchor Graph Learning for Multi-view Clustering. ***Neurocomputing***, 2025, 620: 129253. <a href="https://authors.elsevier.com/sd/article/S0925-2312(24)02024-1" target="_blank">[PDF]</a> <a href="https://github.com/xiaokaishishuaige/WTCAGL" target="_blank">[code]</a> 
