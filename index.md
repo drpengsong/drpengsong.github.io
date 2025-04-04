@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *04/04/2025* 祝贺王昌家工作Information Sciences录用!
 * *01/29/2025* 祝贺牟金帅工作被EAAI录用!
 * *01/21/2025* 祝贺王昊工作被Applied Acoustics录用!
 * *01/13/2025* 祝贺李绍凯被武汉大学博士录取!
@@ -151,5 +152,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2025/02/09**
+**更新时间：2025/04/04**
 
