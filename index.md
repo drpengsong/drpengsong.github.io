@@ -111,7 +111,7 @@
 11. [宋紫浩](/groupmembers)，2020级，研究方向：基于虚拟标签回归和自表示的特征选择 (IEICE论文刊出一篇、DSP论文刊出一篇) **毕业去向**：山东商务职业学院教师
 12. [张雯婧](/groupmembers)，2019级，研究方向：基于迁移学习的跨域人脸表情识别 (IEEE TAC、DSP、IEICE、《数据采集与处理》各刊出一篇) **毕业去向**：山东商务职业学院教师
 13. [盛超](/groupmembers)， 2019级，研究方向：基于图正则的无监督特征选择 (DSP刊出两篇、《信号处理》刊出一篇) **毕业去向**：南京某厂
-14. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇) **毕业去向**：华南理工大学读博 
+14. [陈栋梁](/groupmembers)，2018级，研究方向：基于稀疏迁移学习的人脸表情识别. (IEEE TAC、IEICE、DSP论文各刊出一篇) **毕业去向**：华南理工大学读博->中国海洋大学博后 
 15. [张伟建](/groupmembers)，2018级，研究方向：基于子空间迁移学习的语音情感识别. (IEEE TASLP、TCDS论文各刊出一篇) **毕业去向**：中国移动淄博分公司 
          
 ### **优秀本科毕业论文**
@@ -152,5 +152,5 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-**更新时间：2025/04/04**
+**更新时间：2025/04/08**
 
