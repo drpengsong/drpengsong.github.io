@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *04/13/2025* 祝贺论文被IEEE TASLP录用!
 * *04/04/2025* 祝贺王昌家工作被Information Sciences录用!
 * *01/29/2025* 祝贺牟金帅工作被EAAI录用!
 * *01/21/2025* 祝贺王昊工作被Applied Acoustics录用!
