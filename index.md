@@ -18,7 +18,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* <span style="color:red;">🎈🎈🎈<font color="#dd0000">2025年欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
 * *04/21/2025* 祝贺周士璇工作被Neural Networks录用!
 * *04/13/2025* 祝贺论文被IEEE TASLP录用!
 * *04/04/2025* 祝贺王昌家工作被Information Sciences录用!
