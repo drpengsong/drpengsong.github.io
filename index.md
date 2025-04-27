@@ -155,5 +155,9 @@
 
 <a href="https://info.flagcounter.com/B3Rj"><img src="https://s11.flagcounter.com/map/B3Rj/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
+sid=445154960&type=2&auto=0&width=320&height=66" 
+type="application/x-shockwave-flash"></object> 
+
 **更新时间：2025/04/21**
 
