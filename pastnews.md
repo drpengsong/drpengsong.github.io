@@ -1,4 +1,6 @@
 # PastNews
+* *12/20/2024* 祝贺杜光昊论文被Neurocomputing录用！
+* *12/18/2024* 祝贺王昌家论文被Knowledge-Based Systems录用！
 * *10/16/2024* 祝贺程远波获得研究生国家奖学金！
 * *10/16/2024* 祝贺段萌工作被Engineering Applications of Artificial Intelligence录用！
 * *10/10/2024* 祝贺宋鹏老师再次入选全球前2%顶尖科学家“年度科学影响力”榜单！
