@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2025年**
-1. Shixuan Zhou,  Yi Xiang,  Han Huang,  Pei Huang, Chaoda Peng, Xiaowei Yang,  Peng Song，Unsupervised feature selection with evolutionary sparsity。 ***Neural Networks***, 2025，<a href="https://www.sciencedirect.com/science/article/pii/S0893608025003910" target="_blank">[PDF]</a> <a href="" target="_blank">[code]</a>
+1. Shixuan Zhou,  Yi Xiang,  Han Huang,  Pei Huang, Chaoda Peng, Xiaowei Yang,  Peng Song，Unsupervised feature selection with evolutionary sparsity。 ***Neural Networks***, 2025，<a href="https://www.sciencedirect.com/science/article/pii/S0893608025003910" target="_blank">[PDF]</a> 
 2. Xingxin Wan, <u>Peng Song</u>, Siqi Fu, Changjia Wang. Dynamic Graph-Guided Domain-Invariant Feature Representation for Cross-Domain Facial Expression Recognition.  IEICE Transactions on Information and Systems, 2025. (Accepted)
 3.  Yang Liu, Xin Chen, Zhichao Peng, Yongwei Li, Xingfeng Li, <u>Peng Song</u>, Masashi Unoki and Zhen Zhao. Enhancing Speech Emotion Recognition with Conditional Emotion Feature Diffusion and Progressive Interleaved Learning Strategy.  ***IEEE Transactions on Audio, Speech and Language Processing***, 2025, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10966221" target="_blank">[PDF]</a>
 4. Changjia Wang#, <u>Peng Song*</u>. Robust Multi-view Unsupervised Feature Selection via Latent Consensus Structure Learning. ***Information Sciences***, 2025, 713: 122177. <a href="https://www.sciencedirect.com/science/article/pii/S0020025525003093" target="_blank">[PDF]</a> <a href="" target="_blank">[code]</a> 
