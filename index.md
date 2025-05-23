@@ -90,11 +90,11 @@
 2. [王晨](/groupmembers), 2024级，研究方向：特征选择
 3. [曾云鹏](/groupmembers), 2024级，研究方向：多视图聚类
 4. [王一帆](/groupmembers), 2024级，研究方向：语音情感识别
-5. [万星鑫](/groupmembers), 2023级，研究方向：人脸表情识别 (一篇论文在审)
+5. [万星鑫](/groupmembers), 2023级，研究方向：人脸表情识别 (IEICE 论文录用一篇)
 6. [符思琦](/groupmembers), 2023级，研究方向：语音情感识别、多模态情感识别  (IEEE TCSS刊出一篇、一篇论文在审)
 7. [杜光昊](/groupmembers), 2023级，研究方向：多视图聚类  (Neurocomputing刊出一篇、一篇论文在审)
-8. [王昌家](/groupmembers), 2023级，研究方向：无监督特征选择 (KBS、IS各刊出一篇)
-9. [杨蓓华](/groupmembers), 2023级，研究方向：多视图聚类 (IS、KBS各刊出一篇)
+8. [王昌家](/groupmembers), 2023级，研究方向：无监督特征选择 (KBS、IS各刊出一篇、一篇论文在审)
+9. [杨蓓华](/groupmembers), 2023级，研究方向：多视图聚类 (IS、KBS各刊出一篇、一篇论文在审)
 10. [程远波](/groupmembers)，2022级，研究方向：多视图聚类 (ESWA刊出两篇)
 11. [段萌](/groupmembers)，2022级，研究方向：无监督特征选择 （DSP，EAAI各刊出一篇）
 12. [王昊](/groupmembers)，2022级，研究方向：跨域语音情感识别 （Applied Acoustics刊出两篇）
