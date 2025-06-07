@@ -1,5 +1,7 @@
 ### 团队照片
 
+<img src="./pictures/2025_biye.jpg#pic_center" width="300">  <img src="./pictures/2025biye2.jpg#pic_center" width="300" >  <img src="./pictures/2024jucan.jpg#pic_center" width="300" > 
+
 <img src="./pictures/ccdm2024.jpg#pic_center" width="300">  <img src="./pictures/2024biye0.jpg#pic_center" width="300" >  <img src="./pictures/2024biye2.jpg#pic_center" width="300" > 
 
   <img src="./pictures/2023_ytu.jpg#pic_center" width="300" > <img src="./pictures/2023_dinner.jpg#pic_center" width="300" >  <img src="./pictures/2023_yanyuting.jpg#pic_center" width="300" > 
