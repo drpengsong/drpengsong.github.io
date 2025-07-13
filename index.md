@@ -35,7 +35,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **部分论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
+## **论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 
 1. Yang Liu, Xin Chen, Zhichao Peng, Yongwei Li, Xingfeng Li, Peng Song, Masashi Unoki and Zhen Zhao. Enhancing Speech Emotion Recognition with Conditional Emotion Feature Diffusion and Progressive Interleaved Learning Strategy.  ***IEEE Transactions on Audio, Speech and Language Processing***, 2025, 33, 1787-1800. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10966221" target="_blank">[PDF]</a>
