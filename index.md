@@ -18,7 +18,7 @@
 
 <span id = "News"> </span>
 ## **新闻**
-* <span style="color:red;">🎈🎈🎈<font color="#dd0000">2025年欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
 * *05/29/2025* 祝贺程远波、王昊、段萌通过硕士学位论文答辩! 
 * *05/29/2025* 祝贺刘兆虎被杭电博士录取! 
 * *05/03/2025* 祝贺万星鑫工作被IEICE Trans录用!
