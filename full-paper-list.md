@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2025年**
-1. Jihao Dong, Zhaowei Liu, Dong Yang, <u>Peng Song</u>，Jinglei Liu，Anzuo Jiang. RM-BGNN: A weakly informative Bayesian graph neural network based on residual mechanism[J]. Neurocomputing, 2025: 131284. 
+1. Jihao Dong, Zhaowei Liu, Dong Yang, <u>Peng Song</u>，Jinglei Liu，Anzuo Jiang. RM-BGNN: A weakly informative Bayesian graph neural network based on residual mechanism[J]. ***Neurocomputing***, 2025: 131284. 
 2. Shixuan Zhou,  Yi Xiang,  Han Huang,  Pei Huang, Chaoda Peng, Xiaowei Yang,  Peng Song，Unsupervised feature selection with evolutionary sparsity。 ***Neural Networks***, 2025，189: 107512.<a href="https://www.sciencedirect.com/science/article/pii/S0893608025003910" target="_blank">[PDF]</a> 
 3. Xingxin Wan, <u>Peng Song*</u>, Siqi Fu, Changjia Wang. Dynamic Graph-Guided Domain-Invariant Feature Representation for Cross-Domain Facial Expression Recognition.  ***IEICE Transactions on Information and Systems***, 2025. <a href="https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDL8020/_pdf" target="_blank">[PDF]</a>
 4.  Yang Liu, Xin Chen, Zhichao Peng, Yongwei Li, Xingfeng Li, <u>Peng Song</u>, Masashi Unoki and Zhen Zhao. Enhancing Speech Emotion Recognition with Conditional Emotion Feature Diffusion and Progressive Interleaved Learning Strategy.  ***IEEE Transactions on Audio, Speech and Language Processing***, 2025, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10966221" target="_blank">[PDF]</a>
