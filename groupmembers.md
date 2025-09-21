@@ -88,7 +88,7 @@
           
                 
 <table width="90%" border="0" align="center" cellspacing="30">
-        <tbody><tr valign="top" align="center">  
+        <tbody><tr valign="top" align="center">
 			<td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/mujinshuai.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">牟金帅</a> </div>
@@ -129,9 +129,6 @@
             <div> <a href="http://drpengsong.github.io/">李绍凯</a> </div>
             <div> 2020级 </div>
           </td>  
-		  
-          </td> 
-
    
 <table width="90%" border="0" align="center" cellspacing="30">
         <tbody><tr valign="top" align="center">  
