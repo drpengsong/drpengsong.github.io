@@ -4,14 +4,13 @@
           <td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/caojun.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">曹俊</a> </div>
-            <div> 2024级 </div>
+            <div> 2025级 </div>
           </td>
           <td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/liuguangyao.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">刘光耀</a> </div>
-            <div> 2024级 </div>
+            <div> 2025级 </div>
           </td>  
-        <tbody><tr valign="top" align="center">
           <td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/chengyuhan.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">程钰涵</a> </div>
