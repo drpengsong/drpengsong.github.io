@@ -4,7 +4,8 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1. Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a> 
+1.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026 (Accepted)	
+2.  Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
 
 
 **2025年**
