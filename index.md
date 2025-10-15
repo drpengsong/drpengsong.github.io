@@ -19,6 +19,7 @@
 <span id = "News"> </span>
 ## **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
+* *10/15/2025* 祝贺牟金帅获得山东省计算机学会优秀硕士论文！
 * *10/14/2025* 祝贺杨蓓华论文被Neural Networks录用！
 * *10/06/2025* 祝贺杜光昊论文被Knowledge-Based Systems录用！
 * *09/30/2025* 祝贺符思琦工作被IEEE TCSS录用!
