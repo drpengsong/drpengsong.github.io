@@ -5,12 +5,15 @@
 
 **2026年**
 1.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026,195:108233 <a href="https://authors.elsevier.com/sd/article/S0893-6080(25)01114-1" target="_blank">[PDF]</a>
-2.  Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
+2. Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
+3. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
+
+
+
 
 
 **2025年**
 1. Guanghao Du#, <u>Peng Song*</u>, Beihua Yang. Deep Concept Subspace Embedding for Multi-View Clustering. ***Knowledge-Based Systems***, 2025 <a href="https://authors.elsevier.com/sd/article/S0950-7051(25)01668-5" target="_blank">[PDF]</a> <a href="https://github.com/GuanghaoDu/DCSE" target="_blank">[code]</a> 
-2. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** (Accepted) 
 3. Jihao Dong, Zhaowei Liu, Dong Yang, <u>Peng Song</u>，Jinglei Liu，Anzuo Jiang. RM-BGNN: A weakly informative Bayesian graph neural network based on residual mechanism. ***Neurocomputing***, 2025: 131284. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494623000583" target="_blank">[PDF]</a> 
 4. Shixuan Zhou,  Yi Xiang,  Han Huang,  Pei Huang, Chaoda Peng, Xiaowei Yang, <u>Peng Song</u>，Unsupervised feature selection with evolutionary sparsity。 ***Neural Networks***, 2025，189: 107512. <a href="https://www.sciencedirect.com/science/article/pii/S0893608025003910" target="_blank">[PDF]</a> 
 5. Xingxin Wan#, <u>Peng Song*</u>, Siqi Fu, Changjia Wang. Dynamic Graph-Guided Domain-Invariant Feature Representation for Cross-Domain Facial Expression Recognition.  ***IEICE Transactions on Information and Systems***, 2025. <a href="https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2025EDL8020/_pdf" target="_blank">[PDF]</a>
