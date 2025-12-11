@@ -4,9 +4,10 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026,195:108233 <a href="https://authors.elsevier.com/sd/article/S0893-6080(25)01114-1" target="_blank">[PDF]</a>
-2. Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
-3. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
+1.  Chen Wang#, <u>Peng Song*</u>, Changjia Wang, Beihua Yang, Zhaowei Liu. Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection. ***Neural Networks***, 2026, <a href="" target="_blank">[PDF]</a>
+2.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026, 195:108233 <a href="https://authors.elsevier.com/sd/article/S0893-6080(25)01114-1" target="_blank">[PDF]</a>
+3. Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B, 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
+4. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
 
 
 
