@@ -17,7 +17,7 @@
 
 
 <span id = "News"> </span>
-##🔊 **新闻**
+## 🔊**新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
 * *01/05/2026* 祝贺王昌家获得山东省创新成果奖、牟金帅获得烟台大学优秀硕士学位论文！
 * *12/11/2025* 祝贺王晨工作被Neural Networks录用！
@@ -79,7 +79,7 @@
 * *2020* 山东省研究生优秀成果奖三等奖 [面向语音情感识别的迁移子空间学习方法研究](http://edu.shandong.gov.cn/art/2020/12/31/art_11990_10285683.html)
 
 <span id = "Services"> </span>
-## **社会活动**
+## ✍🏻**社会活动**
 目前担任以下期刊或国际会议的审稿人：
 * IEEE汇刊（TAFFC、TASLP、SPM、TKDE、TNNLS、TCSVT、TSMCS等）、NN、CSL、DSP、ESWA、KBS、CVIU、BSPC、 INTERSPEECH、 ICASSP、 NCMMSC、 ICPR、ICONIP、AAAI、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
 
@@ -151,10 +151,10 @@
 10. 2016-2019年 世界大学生超级计算机比赛ASC（二等奖）
 
 ### **团队**
-[**活动照片**](/pictures)
+[**照片**](/pictures)
 
 <span id = "Resources"> </span>
-## **资源**
+## 🙌🏻**资源**
 ### **资料参考**
 * [论文写作与科研入门](/writing)
 * [开源资料](/open_source)
