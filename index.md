@@ -1,7 +1,7 @@
 
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
-# 👨‍🔬宋鹏 (<a href="/index-en.html">Peng Song</a>)  
+# 👨‍🎓宋鹏 (<a href="/index-en.html">Peng Song</a>)  
 
 <p style="width:970px;">
     <img src="./pictures/peng_huanguoshu.jpg" align="right" width="180" hspace="5" vspace="5">
