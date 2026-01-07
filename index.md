@@ -17,7 +17,7 @@
 
 
 <span id = "News"> </span>
-## **新闻**
+##🔊 **新闻**
 * <span style="color:red;">🎈🎈🎈<font color="#dd0000">欢迎各位同学加入课题组攻读硕士研究生！</font><br /></span>
 * *01/05/2026* 祝贺王昌家获得山东省创新成果奖、牟金帅获得烟台大学优秀硕士学位论文！
 * *12/11/2025* 祝贺王晨工作被Neural Networks录用！
@@ -44,7 +44,7 @@
 [**更多新闻...**](/pastnews)
 
 <span id = "Publications"> </span>
-## **论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
+## 📚**论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
 \# 学生，\* 通讯作者
 
 1. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
