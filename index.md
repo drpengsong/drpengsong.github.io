@@ -65,7 +65,7 @@
 <span id = "Services"> </span>
 ## ✍🏻**社会活动**
 目前担任以下期刊或国际会议的审稿人：
-* IEEE汇刊（TAFFC、TASLP、SPM、TKDE、TNNLS、TCSVT、TSMCS等）、NN、CSL、DSP、ESWA、KBS、CVIU、BSPC、 INTERSPEECH、 ICASSP、 NCMMSC、 ICPR、ICONIP、AAAI、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
+* IEEE汇刊（TAFFC、TASLP、TIP、SPM、TKDE、TNNLS、TCSVT、TSMCS等）、NN、CSL、DSP、ESWA、KBS、CVIU、BSPC、 INTERSPEECH、 ICASSP、 NCMMSC、 ICPR、ICONIP、AAAI、MM、计算机学报、中文信息学报、中国图形图象学报、清华大学学报...
 
 <span id = "Students"> </span>
 ## 🥇**指导学生**
