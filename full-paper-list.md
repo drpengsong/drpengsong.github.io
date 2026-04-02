@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1. Yuhan Cheng, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng,Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026
+1. Yuhan Cheng, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026 
 2.  Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026. <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>
 3.  Chen Wang#, <u>Peng Song*</u>, Changjia Wang, Beihua Yang, Zhaowei Liu. Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection. ***Neural Networks***, 2026, 197: 108478. <a href="https://www.sciencedirect.com/science/article/pii/S0893608025013590" target="_blank">[PDF]</a>
 4.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026, 195:108233 <a href="https://authors.elsevier.com/sd/article/S0893-6080(25)01114-1" target="_blank">[PDF]</a>
