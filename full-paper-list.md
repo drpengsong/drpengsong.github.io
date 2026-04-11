@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1. Changjia Wang#, <u>Peng Song*</u>. Fast multi-view unsupervised feature selection via structure correlation guidance. ***Neurocomputing***, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0925231226010076" target="_blank">[PDF]</a>
+1. Changjia Wang#, <u>Peng Song*</u>. Fast multi-view unsupervised feature selection via structure correlation guidance. ***Neurocomputing***, 2026， 684：133610. <a href="https://www.sciencedirect.com/science/article/pii/S0925231226010076" target="_blank">[PDF]</a>
 2. Yuhan Cheng, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026 
 3.  Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026. <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>
 4.  Chen Wang#, <u>Peng Song*</u>, Changjia Wang, Beihua Yang, Zhaowei Liu. Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection. ***Neural Networks***, 2026, 197: 108478. <a href="https://www.sciencedirect.com/science/article/pii/S0893608025013590" target="_blank">[PDF]</a>
