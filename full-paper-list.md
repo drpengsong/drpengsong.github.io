@@ -4,7 +4,7 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026 (Accepted)
+1. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126008609" target="_blank">[PDF]</a>
 2. Changjia Wang#, <u>Peng Song*</u>. Fast multi-view unsupervised feature selection via structure correlation guidance. ***Neurocomputing***, 2026, 684: 133610. <a href="https://www.sciencedirect.com/science/article/pii/S0925231226010076" target="_blank">[PDF]</a>
 3. Yuhan Cheng, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026.  <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a> 
 4.  Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026. <a href="https://ieeexplore.ieee.org/document/11478742" target="_blank">[PDF]</a>
