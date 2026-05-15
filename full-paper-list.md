@@ -12,7 +12,7 @@
 6.  Beihua Yang#, <u>Peng Song*</u>. Enhanced Anchor Contrastive Multi-view Representations Learning Network for Clustering. ***Neural Networks***, 2026, 195:108233 <a href="https://authors.elsevier.com/sd/article/S0893-6080(25)01114-1" target="_blank">[PDF]</a>
 7. Yunpeng Zeng#, <u>Peng Song*</u>, Beihua Yang, Changjia Wang, Guanghao Du, Yanwei Yu, Wenming Zheng. Hypergraph Regularization-Based Anchor Learning for Multi-View Clustering. ***Pattern Recognition***, 2026,172-B: 112465.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325011288" target="_blank">[PDF]</a>
 8. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
-9. Zhaowei Liu, Sheng Liu, Weiqing Yan, <u>Peng Song</u>, et al. ATGFB-MFF: Adaptive Text-Guided Fiber Bundle Feature Fusion with LLMs for Multimodal Sentiment Analysis and Emotion Recognition in Conversations. ***WWW***, 2026 (Accepted) 
+9. Zhaowei Liu, Sheng Liu, Weiqing Yan, <u>Peng Song</u>, et al. ATGFB-MFF: Adaptive Text-Guided Fiber Bundle Feature Fusion with LLMs for Multimodal Sentiment Analysis and Emotion Recognition in Conversations. ***WWW***, 2026, 7442-7453, Dubai, United Arab Emirates.
 
 **2025年**
 1. Guanghao Du#, <u>Peng Song*</u>, Beihua Yang. Deep Concept Subspace Embedding for Multi-View Clustering. ***Knowledge-Based Systems***, 2025, 330-B: 114629. <a href="https://authors.elsevier.com/sd/article/S0950-7051(25)01668-5" target="_blank">[PDF]</a> <a href="https://github.com/GuanghaoDu/DCSE" target="_blank">[code]</a> 
