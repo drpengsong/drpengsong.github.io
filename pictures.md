@@ -1,5 +1,5 @@
 ### 团队照片
-
+<img src="./pictures/2026biye1.jpg#pic_center" width="300"> <img src="./pictures/2026biye2.jpg#pic_center" width="300">  <img src="./pictures/2026biye3.jpg#pic_center" width="300" >  
 
 <img src="./pictures/2026_newyear.jpg#pic_center" width="300"> <img src="./pictures/2025_biye.jpg#pic_center" width="300">  <img src="./pictures/2025_biye2.jpg#pic_center" width="300" >  
 
