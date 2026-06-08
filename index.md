@@ -97,7 +97,7 @@
 2. [罗有恒](/groupmembers), 2026级，研究方向：
 3. [曹俊](/groupmembers), 2025级，研究方向：语音情感识别
 4. [刘光耀](/groupmembers), 2025级，研究方向：多视图聚类
-5. [程钰涵](/groupmembers), 2024级，研究方向：表情识别 （IEEE TCSS一篇）
+5. [程钰涵](/groupmembers), 2024级，研究方向：表情识别 （IEEE TCSS一篇、一篇论文在审）
 6. [王晨](/groupmembers), 2024级，研究方向：特征选择 （PR和NN各一篇）
 7. [曾云鹏](/groupmembers), 2024级，研究方向：多视图聚类 （PR一篇、两篇在审）
 8. [王一帆](/groupmembers), 2024级，研究方向：语音情感识别 （IEEE TCSS一篇）
