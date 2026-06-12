@@ -4,8 +4,8 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1.  Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***<a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
-2. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126008609" target="_blank">[PDF]</a>
+1.  Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026,  <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
+2. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026, 345:116134. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126008609" target="_blank">[PDF]</a>
 3. Changjia Wang#, <u>Peng Song*</u>. Fast multi-view unsupervised feature selection via structure correlation guidance. ***Neurocomputing***, 2026, 684: 133610. <a href="https://www.sciencedirect.com/science/article/pii/S0925231226010076" target="_blank">[PDF]</a>
 4. Yuhan Cheng, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026.  <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a> 
 5.  Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026. <a href="https://ieeexplore.ieee.org/document/11478742" target="_blank">[PDF]</a>
