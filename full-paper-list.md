@@ -1,4 +1,3 @@
-<img width="960" height="1909" alt="image" src="https://github.com/user-attachments/assets/20ad6383-0b42-41f8-8c20-0cb34f473674" />
 <span id = "Publications"> </span>
 ## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
