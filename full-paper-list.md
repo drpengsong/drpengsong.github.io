@@ -3,7 +3,7 @@
 \# 学生，\* 通讯作者
 
 **2026年**
-1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2026 (Accepted )
+1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2026 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]
 2. Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026, 180:114239 <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
 <a href="https://github.com/Ch3nWang/TSR-MFS" target="_blank">[code]</a>
 3. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026, 345:116134. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126008609" target="_blank">[PDF]</a>
