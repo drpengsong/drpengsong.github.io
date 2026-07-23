@@ -1,6 +1,7 @@
 <span id = "Publications"> </span>
 ## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
+
 **2027年**
 1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2027, 205: 109400. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]</a>
 <a href="https://github.com/yunpengZeng/MambaMVC" target="_blank">[code]</a>
