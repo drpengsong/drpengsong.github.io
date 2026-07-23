@@ -1,11 +1,12 @@
 <span id = "Publications"> </span>
 ## **学术论文:** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>） 
 \# 学生，\* 通讯作者
-
-**2026年**
+**2027年**
 1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2027, 205: 109400. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]</a>
 <a href="https://github.com/yunpengZeng/MambaMVC" target="_blank">[code]</a>
-2. Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026, 180:114239 <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
+
+**2026年**
+1. Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026, 180:114239 <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
 <a href="https://github.com/Ch3nWang/TSR-MFS" target="_blank">[code]</a>
 3. Beihua Yang#, <u>Peng Song*</u>. Yunpeng Zeng. COALN-MvC: A Continuous Optimized Anchor Learning Network for Multi-view Clustering. ***Knowledge-Based Systems***, 2026, 345:116134. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126008609" target="_blank">[PDF]</a>
 4. Changjia Wang#, <u>Peng Song*</u>. Fast multi-view unsupervised feature selection via structure correlation guidance. ***Neurocomputing***, 2026, 684: 133610. <a href="https://www.sciencedirect.com/science/article/pii/S0925231226010076" target="_blank">[PDF]</a>
