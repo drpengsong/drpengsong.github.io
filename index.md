@@ -156,7 +156,7 @@
 * [中国人工智能学会推荐学术会议和期刊列表](https://caai.cn/index.php?s=/home/article/detail/id/4024.html)
 * [清华大学计算机学科推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [中国自动化学会推荐学术会议、科技期刊目录](https://www.caa.org.cn/article/290/3225.html)
-* [中国电子学会推荐电子信息领域学术会议目录](https://www.cie.org.cn/list_43/11873.html)
+* [中国电子学会高质量科技期刊分级目录（2026）](https://www.cie.org.cn/static/upload/file/20260902/1788313785967350.pdf)
 * [中国科协高质量科技期刊分级目录总汇第三版](https://www.cast.org.cn/xw/tzgg/KJCX/art/2023/art_a46ba372e0064dfc8dc4c03289a8920d.html)
 * [师生关系大杂烩](https://frostliu.github.io/discussions)
 * [AI会议Deadline](https://ccfddl.github.io/)
