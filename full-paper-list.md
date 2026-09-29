@@ -20,7 +20,7 @@
 10. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems***, 2026, 13(2):1925-1937 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
 11. Weiqing Yan, Yongteng Du, <u>Peng Song</u>, Chang Tang. Instance-Aligned Semantic Reconstruction for Incomplete Multi-View Clustering. ***IJCAI***, 2026, Bremen, Germany.
 12. Zhaowei Liu, Sheng Liu, Weiqing Yan, <u>Peng Song</u>, et al. ATGFB-MFF: Adaptive Text-Guided Fiber Bundle Feature Fusion with LLMs for Multimodal Sentiment Analysis and Emotion Recognition in Conversations. ***WWW***, 2026, 7442-7453, Dubai, United Arab Emirates.
-13. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2026 (Accepted) 
+13. XX. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2026 (Accepted) 
 14.  Haoliang Shi, Yun Jin, Yuwei Han, Yong Ma, Maoshen Jia, Peng Song, Kun Qian. Trajectory-Aware Valence Projection: Bridging Continuous Valence and Categorical Semantics for Multimodal Emotion Recognition.  ***IEICE Transactions on Information and Systems***, 2026 <a href="https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDL8006/_article/-char/ja/" target="_blank">[PDF]</a> 
 
 **2025年**
