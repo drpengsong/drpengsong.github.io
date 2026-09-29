@@ -4,12 +4,12 @@
 		     <td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/huqingyin.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">胡庆音</a> </div>
-            <div> 2025级 </div>
+            <div> 2026级 </div>
           </td>
 			<td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/luoyouheng.jpg"></div>
             <div> <a href="http://drpengsong.github.io/">罗有恒</a> </div>
-            <div> 2025级 </div>
+            <div> 2026级 </div>
           </td>
           <td width="10%" style="padding-right:30px">
             <div> <img width="85" src="./pictures/caojun.jpg"></div>
