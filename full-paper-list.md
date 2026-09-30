@@ -5,6 +5,7 @@
 **2027年**
 1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2027, 205: 109400. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]</a>
 <a href="https://github.com/yunpengZeng/MambaMVC" target="_blank">[code]</a>
+2. Xingyu Wang,  Yun Jin, Yuxing Huang, Yong Ma, Maoshen Jia, Peng Song. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2027(103): 102057. 
 
 **2026年**
 1. Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026, 180:114239 <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
@@ -20,8 +21,7 @@
 10. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems***, 2026, 13(2):1925-1937 <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
 11. Weiqing Yan, Yongteng Du, <u>Peng Song</u>, Chang Tang. Instance-Aligned Semantic Reconstruction for Incomplete Multi-View Clustering. ***IJCAI***, 2026, Bremen, Germany.
 12. Zhaowei Liu, Sheng Liu, Weiqing Yan, <u>Peng Song</u>, et al. ATGFB-MFF: Adaptive Text-Guided Fiber Bundle Feature Fusion with LLMs for Multimodal Sentiment Analysis and Emotion Recognition in Conversations. ***WWW***, 2026, 7442-7453, Dubai, United Arab Emirates.
-13. XX. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2026 (Accepted) 
-14.  Haoliang Shi, Yun Jin, Yuwei Han, Yong Ma, Maoshen Jia, Peng Song, Kun Qian. Trajectory-Aware Valence Projection: Bridging Continuous Valence and Categorical Semantics for Multimodal Emotion Recognition.  ***IEICE Transactions on Information and Systems***, 2026 <a href="https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDL8006/_article/-char/ja/" target="_blank">[PDF]</a> 
+13.  Haoliang Shi, Yun Jin, Yuwei Han, Yong Ma, Maoshen Jia, Peng Song, Kun Qian. Trajectory-Aware Valence Projection: Bridging Continuous Valence and Categorical Semantics for Multimodal Emotion Recognition.  ***IEICE Transactions on Information and Systems***, 2026 <a href="https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026EDL8006/_article/-char/ja/" target="_blank">[PDF]</a> 
 
 **2025年**
 1. Guanghao Du#, <u>Peng Song*</u>, Beihua Yang. Deep Concept Subspace Embedding for Multi-View Clustering. ***Knowledge-Based Systems***, 2025, 330-B: 114629. <a href="https://authors.elsevier.com/sd/article/S0950-7051(25)01668-5" target="_blank">[PDF]</a> <a href="https://github.com/GuanghaoDu/DCSE" target="_blank">[code]</a> 
