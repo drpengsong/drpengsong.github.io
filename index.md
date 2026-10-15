@@ -35,30 +35,6 @@
 
 [**更多新闻...**](/pastnews)
 
-<span id = "Publications"> </span>
-## 📚**论文** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
-\# 学生，\* 通讯作者
-
-1. Jun Cao#, <u>Peng Song*</u>, Siqi Fu, Yifan Wang, Wenming Zheng. MIR-SER: Leveraging Multi-layer Intermediate Representations from ASR for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, (Accepted)
-2. Yuhan Cheng#, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026, 13(3):  1925-1937.  <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>  
-3. Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, 13(3): 3529-3540. <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>
-4. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, 13(2):1925-1937. <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
-5. Yang Liu, Xin Chen, Zhichao Peng, Yongwei Li, Xingfeng Li, <u>Peng Song</u>, Masashi Unoki and Zhen Zhao. Enhancing Speech Emotion Recognition with Conditional Emotion Feature Diffusion and Progressive Interleaved Learning Strategy.  ***IEEE Transactions on Audio, Speech and Language Processing***, 2025, 33:1787-1800. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10966221" target="_blank">[PDF]</a>
-6. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025, 12(4):1498-1508. <a href="https://ieeexplore.ieee.org/document/10739774" target="_blank">[PDF]</a> <a href="https://github.com/Minus47/CDLSL" target="_blank">[code]</a>
-7. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph-Diffusion-Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024, 11(3): 4163-4174.  <a href="https://ieeexplore.ieee.org/document/10418230" target="_blank">[PDF]</a>
-8. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. Common Latent Embedding Space for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024, 11(2): 2046-2056. <a href="https://ieeexplore.ieee.org/document/10137555" target="_blank">[PDF]</a>
-9. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
-6. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. <a href="https://ieeexplore.ieee.org/document/10158502" target="_blank">[PDF]</a> <a href="https://github.com/shaokai1209/MDSA" target="_blank">[code]</a>
-7. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition.  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333. <a href="https://ieeexplore.ieee.org/document/9423630" target="_blank">[PDF]</a>
-8.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression. ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598. <a href="https://ieeexplore.ieee.org/document/9340391/" target="_blank">[PDF]</a>
-9. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353. <a href="https://ieeexplore.ieee.org/document/9080065" target="_blank">[PDF]</a>
-2033. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382. <a href="https://ieeexplore.ieee.org/document/8276251" target="_blank">[PDF]</a>
-2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.  <a href="https://ieeexplore.ieee.org/document/8320798" target="_blank">[PDF]</a>
-2035. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318. <a href="https://ieeexplore.ieee.org/document/8910397" target="_blank">[PDF]</a>
-2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019. <a href="https://ieeexplore.ieee.org/document/7931593" target="_blank">[PDF]</a>
-
-
-[**完整论文列表...**](/full-paper-list)  
 
 <span id = "Rewards"> </span>
 ## 🏆**获奖与荣誉**
@@ -149,6 +125,32 @@
 
 ### 🎯💪**团队**
 [**照片**](/pictures)
+
+<span id = "Publications"> </span>
+## 📚**论文** （<a href="https://scholar.google.com/citations?user=6zxeFQIAAAAJ&hl=zh-TW">谷歌学术</a>, <a href="https://dblp.org/pid/58/3960-2.html">DBLP</a>，<a href="https://www.researchgate.net/profile/Peng-Song-8/publications">ResearchGate</a>）
+\# 学生，\* 通讯作者
+
+1. Jun Cao#, <u>Peng Song*</u>, Siqi Fu, Yifan Wang, Wenming Zheng. MIR-SER: Leveraging Multi-layer Intermediate Representations from ASR for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, (Accepted)
+2. Yuhan Cheng#, <u>Peng Song*</u>, Siqi Fu, Xingxin Wan, Changjia Wang, Wenming Zheng. Dual-Hypergraph Based Symmetrical Self-Representation Learning for Cross-Domain Facial Expression Recognition.  ***IEEE Transactions on Computational Social Systems*** 2026, 13(3):  1925-1937.  <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>  
+3. Yifan Wang#, <u>Peng Song*</u>, Zhaowei Liu, Changjia Wang, Wenming Zheng. Dynamic Graph Consistent Weighted Subspace Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, 13(3): 3529-3540. <a href="https://ieeexplore.ieee.org/document/11373908" target="_blank">[PDF]</a>
+4. Siqi Fu#, <u>Peng Song*</u>, Wenming Zheng. Coupled Sparse Subspace Alignment Based Domain Adaptation for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2026, 13(2):1925-1937. <a href="https://ieeexplore.ieee.org/document/11219169" target="_blank">[PDF]</a>
+5. Yang Liu, Xin Chen, Zhichao Peng, Yongwei Li, Xingfeng Li, <u>Peng Song</u>, Masashi Unoki and Zhen Zhao. Enhancing Speech Emotion Recognition with Conditional Emotion Feature Diffusion and Progressive Interleaved Learning Strategy.  ***IEEE Transactions on Audio, Speech and Language Processing***, 2025, 33:1787-1800. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10966221" target="_blank">[PDF]</a>
+6. Siqi Fu#, <u>Peng Song*</u>, Hao Wang, Zhaowei Liu, Wenming Zheng.  Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2025, 12(4):1498-1508. <a href="https://ieeexplore.ieee.org/document/10739774" target="_blank">[PDF]</a> <a href="https://github.com/Minus47/CDLSL" target="_blank">[code]</a>
+7. Run Wang#,  <u>Peng Song*</u>, Wenming Zheng. Graph-Diffusion-Based Domain-Invariant Representation Learning for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024, 11(3): 4163-4174.  <a href="https://ieeexplore.ieee.org/document/10418230" target="_blank">[PDF]</a>
+8. Run Wang#,  <u>Peng Song*</u>, Shaokai Li, Liang Ji, Wenming Zheng. Common Latent Embedding Space for Cross-Domain Facial Expression Recognition. ***IEEE Transactions on Computational Social Systems***. 2024, 11(2): 2046-2056. <a href="https://ieeexplore.ieee.org/document/10137555" target="_blank">[PDF]</a>
+9. Wenjing Zhang#,  <u>Peng Song*</u>, Wenming Zheng. Joint Local-Global Discriminative Subspace Transfer Learning for Facial Expression Recognition. ***IEEE Transactions on Affective Computing***. 2023, 14(3), 2484-2495. <a href="https://ieeexplore.ieee.org/document/9761954" target="_blank">[PDF]</a>
+6. Shaokai Li#,  <u>Peng Song*</u>, Wenming Zheng. Multi-Source Discriminant Subspace Alignment for Cross-Domain Speech Emotion Recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2023, 31, 2448-2460. <a href="https://ieeexplore.ieee.org/document/10158502" target="_blank">[PDF]</a> <a href="https://github.com/shaokai1209/MDSA" target="_blank">[code]</a>
+7. Dongliang Chen#, <u>Peng Song*</u>, Wenming Zheng. Learning Transferable Sparse Representations for Cross-corpus Facial Expression Recognition.  ***IEEE Transactions on Affective Computing***. 2023, 14(2):1322-1333. <a href="https://ieeexplore.ieee.org/document/9423630" target="_blank">[PDF]</a>
+8.  Weijian Zhang#, <u>Peng Song*</u>, Dongliang Chen, Chao Sheng, Wenjing Zhang. Cross-corpus Speech Emotion Recognition Based on Joint Transfer Subspace Learning and Regression. ***IEEE Transactions on Cognitive and Developmental Systems***. 2022, 14(2): 588-598. <a href="https://ieeexplore.ieee.org/document/9340391/" target="_blank">[PDF]</a>
+9. <u>Peng Song*</u>, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. ***IEEE Transactions on Cognitive and Developmental Systems***, 2021, 2, 343-353. <a href="https://ieeexplore.ieee.org/document/9080065" target="_blank">[PDF]</a>
+2033. <u>Peng Song*</u>, Wenming Zheng. Feature Selection Based Transfer Subspace Learning for Speech Emotion Recognition. ***IEEE Transactions on Affective Computing***. 2020, 11(3): 373-382. <a href="https://ieeexplore.ieee.org/document/8276251" target="_blank">[PDF]</a>
+2034. Tengfei Song, Wenming Zheng, <u>Peng Song</u>, Zhen Cui, EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, ***IEEE Transactions on Affective Computing***. 2020, 11(3): 532-541.  <a href="https://ieeexplore.ieee.org/document/8320798" target="_blank">[PDF]</a>
+2035. Weijian Zhang#, <u>Peng Song*</u>. Transfer sparse discriminant subspace learning for cross-corpus speech emotion recognition. ***IEEE/ACM Transactions on Audio, Speech, and Language Processing***. 2020, 28, 307-318. <a href="https://ieeexplore.ieee.org/document/8910397" target="_blank">[PDF]</a>
+2039. <u>Peng Song*</u>. Transfer Linear Subspace Learning for Cross-corpus Speech Emotion Recognition.  ***IEEE Transactions on Affective Computing***. Vol. 10, No. 2, pp. 265-275, 2019. <a href="https://ieeexplore.ieee.org/document/7931593" target="_blank">[PDF]</a>
+
+
+[**完整论文列表...**](/full-paper-list)  
+
 
 <span id = "Resources"> </span>
 ## 🙌🏻**资源**
