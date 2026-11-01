@@ -3,9 +3,10 @@
 \# 学生，\* 通讯作者
 
 **2027年**
-1. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2027, 205: 109400. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]</a>
+1. Jun Cao#, <u>Peng Song*</u>, Siqi Fu, Yifan Wang, Wenming Zheng. MIR-SER: Leveraging Multi-layer Intermediate Representations from ASR for Speech Emotion Recognition. ***IEEE Transactions on Computational Social Systems*** 2027,  <a href="https://ieeexplore.ieee.org/document/11739808" target="_blank">[PDF]</a>
+2. Yunpeng Zeng#, <u>Peng Song*</u>. MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering. ***Neural Networks***, 2027, 205: 109400. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026008580?via%3Dihub" target="_blank">[PDF]</a>
 <a href="https://authors.elsevier.com/c/1nscJ39HpSxPCu" target="_blank">[code]</a>
-2. Xingyu Wang,  Yun Jin, Yuxing Huang, Yong Ma, Maoshen Jia, Peng Song. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2027(103): 102057. <a href="https://authors.elsevier.com/c/1nscJ39HpSxPCu" target="_blank">[PDF]</a>
+3. Xingyu Wang,  Yun Jin, Yuxing Huang, Yong Ma, Maoshen Jia, Peng Song. Latent Manifold Rectification for low-resource multimodal speech-based Alzheimer’s disease detection. ***Computer Speech & Language***. 2027(103): 102057. <a href="https://authors.elsevier.com/c/1nscJ39HpSxPCu" target="_blank">[PDF]</a>
 
 **2026年**
 1. Chen Wang#, <u>Peng Song*</u>, Changjia Wang. Tensorized synergistic representation for multi-view unsupervised feature selection. ***Pattern Recognition***, 2026, 180:114239 <a href="https://authors.elsevier.com/sd/article/S0031-3203(26)01204-5" target="_blank">[PDF]</a>
