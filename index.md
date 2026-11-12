@@ -21,7 +21,6 @@
     color: #46b5a0 !important;
   }
 </style>
-
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
 # 👨‍🎓宋鹏 (<a href="/index-en.html">Peng Song</a>)  
