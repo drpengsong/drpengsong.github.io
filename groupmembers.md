@@ -1,3 +1,16 @@
+<style>
+  /* 课题组成员照片统一尺寸 */
+  td img[src*="pictures"] {
+    width: 100px !important;
+    height: 133px !important;
+    object-fit: cover;
+    object-position: center 20%;  /* 裁剪时偏上，避免裁掉头顶 */
+    border-radius: 8px;
+    background-color: transparent !important;
+    box-sizing: border-box;
+    box-shadow: 0 1px 6px rgba(42, 138, 107, 0.18);
+  }
+</style>
 # 团队成员:
 <table width="90%" border="0" align="center" cellspacing="30">
 	        <tbody><tr valign="top" align="center">
