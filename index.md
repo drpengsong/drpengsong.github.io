@@ -20,16 +20,7 @@
   a:hover {
     color: #46b5a0 !important;
   }
-</style>
- <span id = "Top"> </span>
- [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
-# 👨‍🎓宋鹏 (<a href="/index-en.html">Peng Song</a>)  
-
-<p style="width:970px;">
-    <img src="./pictures/peng_huanguoshu.jpg" align="right" width="180" hspace="5" vspace="5">
-目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息科学与工程学院，先后在微软亚洲研究院、摩托罗拉等科技公司实习及工作。现为IEEE/中国计算机学会/中国人工智能学会会员、中国人工智能学会情感计算专委会委员, 入选2023~2026斯坦福大学发布的全球前2%年度顶尖科学家榜单、 担任SCI期刊IEICE Transactions on Information and Systems编委。主持国家/省自然科学基金、国家/教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE汇刊及重要国际学术会议ICASSP、INTERSPEECH等，目前主要研究兴趣包括***情感计算、模式识别、语音信号处理、多模态数据分析***等。
-</p>
-/* 修复个人照片留白：去掉主题给图片加的白底和白边距 */
+  /* 修复个人照片留白：去掉主题给图片加的白底和白边距 */
   img[align="right"] {
     background-color: transparent !important;
     box-sizing: border-box !important;
@@ -43,6 +34,15 @@
     width: auto !important;
     max-width: 970px !important;
   }
+</style>
+ <span id = "Top"> </span>
+ [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
+# 👨‍🎓宋鹏 (<a href="/index-en.html">Peng Song</a>)  
+
+<p style="width:970px;">
+    <img src="./pictures/peng_huanguoshu.jpg" align="right" width="180" hspace="5" vspace="5">
+目前为烟台大学计算机与控制工程学院副教授、硕士生导师，博士毕业于东南大学信息科学与工程学院，先后在微软亚洲研究院、摩托罗拉等科技公司实习及工作。现为IEEE/中国计算机学会/中国人工智能学会会员、中国人工智能学会情感计算专委会委员, 入选2023~2026斯坦福大学发布的全球前2%年度顶尖科学家榜单、 担任SCI期刊IEICE Transactions on Information and Systems编委。主持国家/省自然科学基金、国家/教育部重点实验室开放基金多项。相关工作发表在国内外重要学术期刊，包括IEEE汇刊及重要国际学术会议ICASSP、INTERSPEECH等，目前主要研究兴趣包括***情感计算、模式识别、语音信号处理、多模态数据分析***等。
+</p>
 —————————————————————————————————————————————
 
 ## 👨🏻‍💻基本信息
