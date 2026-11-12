@@ -1,6 +1,7 @@
 <style>
   /* 课题组成员照片统一尺寸 */
   td img[src*="pictures"] {
+    display: block;
     width: 100px !important;
     height: 133px !important;
     object-fit: cover;
@@ -9,8 +10,26 @@
     background-color: transparent !important;
     box-sizing: border-box;
     box-shadow: 0 1px 6px rgba(42, 138, 107, 0.18);
+    margin: 0 auto;               /* 照片在格子里水平居中 */
+  }
+  /* 照片容器固定高度：照片贴底对齐，保证下方文字起始位置完全一致 */
+  td > div:first-child {
+    height: 141px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  /* 姓名、年级两行：统一行高、居中 */
+  td > div:nth-child(2),
+  td > div:nth-child(3) {
+    text-align: center;
+    line-height: 1.6;
+    margin-top: 2px;
+    height: 1.6em;
+    overflow: visible;
   }
 </style>
+
 # 团队成员:
 <table width="90%" border="0" align="center" cellspacing="30">
 	        <tbody><tr valign="top" align="center">
