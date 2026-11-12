@@ -1,3 +1,26 @@
+<style>
+  /* 清新背景 */
+  body {
+    background: linear-gradient(135deg, #e8f8f0 0%, #eaf6ff 45%, #f7fbe8 100%) !important;
+    background-attachment: fixed !important;
+  }
+  /* 内容区域半透明，让渐变更柔和地透出来 */
+  .wrapper, main, .post, .post-content, article, .inner {
+    background-color: rgba(255, 255, 255, 0.75) !important;
+    border-radius: 10px;
+  }
+  /* 标题改成清新的青绿色 */
+  h1, h2, h3 {
+    color: #2a8a6b !important;
+  }
+  /* 链接配色 */
+  a {
+    color: #1e88a8 !important;
+  }
+  a:hover {
+    color: #46b5a0 !important;
+  }
+</style>
 
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
