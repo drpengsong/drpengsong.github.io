@@ -34,6 +34,28 @@
     width: auto !important;
     max-width: 970px !important;
   }
+  /* 指导学生表格：缩小字号与留白，不再占满整行 */
+  table {
+    display: table !important;
+    width: auto !important;
+    max-width: 100%;
+    margin: 10px 0 !important;
+    font-size: 13px !important;
+    line-height: 1.55;
+    border-collapse: collapse;
+  }
+  table th, table td {
+    padding: 4px 10px !important;
+    font-size: 13px !important;
+  }
+  table th {
+    background-color: #eaf6f0 !important;
+    color: #2a8a6b !important;
+    font-weight: 600;
+  }
+  table tr:nth-child(2n) {
+    background-color: rgba(234, 246, 240, 0.5) !important;
+  }
 </style>
  <span id = "Top"> </span>
  [新闻](#News) | [代表论文](#Publications) | [获奖与荣誉](#Rewards) | [社会服务](#Services)| [学生](#Students) | [资源](#Resources) |
